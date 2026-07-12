@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2061699055147979151",
+    "created_at": "2026-06-02T06:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T07:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061699055147979151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Akinoyo_desu/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Akinoyo_desu/status/2061557576123478131",
+          "start": 12,
+          "url": "https://t.co/acuoca4ouh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061699055147979151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061557576123478131",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "春风在天上失望的看着你 https://t.co/acuoca4ouh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2061699055147979151",
+        "created_at": "2026-06-02T06:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061699055147979151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Akinoyo_desu/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Akinoyo_desu/status/2061557576123478131",
+              "start": 12,
+              "url": "https://t.co/acuoca4ouh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061699055147979151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061557576123478131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "春风在天上失望的看着你 https://t.co/acuoca4ouh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2061557576123478131",
+        "created_at": "2026-06-01T21:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T22:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061557576123478131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2061550843309207971",
+              "start": 19,
+              "url": "https://t.co/nNzYROADkf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061557576123478131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061550843309207971",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个真得卖，混点鸡尘就当跟董涵结婚了 https://t.co/nNzYROADkf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜见证勿扰｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2047942018316517861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 218,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 691
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 999,
+          "like_count": 4640,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1555
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

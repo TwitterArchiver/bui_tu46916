@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072316721529241600"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2072316724373074056",
+    "created_at": "2026-07-01T13:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072316724373074056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cvUfsnx3Yq",
+          "end": 134,
+          "expanded_url": "https://x.com/bui_tu46916/status/2072316724373074056/photo/1",
+          "media_key": "3_2072316721529241600",
+          "start": 111,
+          "url": "https://t.co/cvUfsnx3Yq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072316724373074056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来你是神经痛啊，不知道还以为是使用神秘字母数字阻断VGCC α₂δ-1→减少谷氨酸释放\n结合到电压门控钙通道的α₂δ-1亚基→阻止钙离子内流→神经递质释放减少。谷氨酸释放被压制\n氨酸释放↓快感↑    镇静↑、焦虑↓呢 https://t.co/cvUfsnx3Yq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2072316721529241600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJZFCDaQAAfJhO.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072316721529241600"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2072316724373074056",
+        "created_at": "2026-07-01T13:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072316724373074056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cvUfsnx3Yq",
+              "end": 134,
+              "expanded_url": "https://x.com/bui_tu46916/status/2072316724373074056/photo/1",
+              "media_key": "3_2072316721529241600",
+              "start": 111,
+              "url": "https://t.co/cvUfsnx3Yq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072316724373074056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来你是神经痛啊，不知道还以为是使用神秘字母数字阻断VGCC α₂δ-1→减少谷氨酸释放\n结合到电压门控钙通道的α₂δ-1亚基→阻止钙离子内流→神经递质释放减少。谷氨酸释放被压制\n氨酸释放↓快感↑    镇静↑、焦虑↓呢 https://t.co/cvUfsnx3Yq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+UQcUn2FxkPszZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+UQcUn2FxkPszZmQx",
+                "start": 0,
+                "url": "https://t.co/i4pDJdGmt8"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 257,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 785
+        },
+        "url": "https://t.co/i4pDJdGmt8",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

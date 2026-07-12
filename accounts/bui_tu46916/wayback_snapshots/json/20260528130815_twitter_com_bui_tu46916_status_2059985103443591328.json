@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059985098108514304"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2059985103443591328",
+    "created_at": "2026-05-28T13:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059985103443591328"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cTDvgvTmDp",
+          "end": 35,
+          "expanded_url": "https://x.com/bui_tu46916/status/2059985103443591328/photo/1",
+          "media_key": "3_2059985098108514304",
+          "start": 12,
+          "url": "https://t.co/cTDvgvTmDp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059985103443591328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打进上海比考进上海容易 https://t.co/cTDvgvTmDp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 717,
+        "media_key": "3_2059985098108514304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaJiE9bMAAJ11E.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059985098108514304"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2059985103443591328",
+        "created_at": "2026-05-28T13:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059985103443591328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTDvgvTmDp",
+              "end": 35,
+              "expanded_url": "https://x.com/bui_tu46916/status/2059985103443591328/photo/1",
+              "media_key": "3_2059985098108514304",
+              "start": 12,
+              "url": "https://t.co/cTDvgvTmDp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059985103443591328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打进上海比考进上海容易 https://t.co/cTDvgvTmDp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜见证勿扰｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2047942018316517861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 217,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 656
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

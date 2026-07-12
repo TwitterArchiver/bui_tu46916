@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2045832031062630745",
+    "created_at": "2026-04-19T14:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045870411678990714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1813561571941183488",
+          "start": 0,
+          "username": "care1337_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045870411678990714",
+    "in_reply_to_user_id": "1813561571941183488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045832031062630745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@care1337_ 老资历菲尼布特吃起来什么感觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2045831423131860992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRA1w4bQAAE3Cv.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2045832031062630745",
+        "created_at": "2026-04-19T14:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045870411678990714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "care1337_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045870411678990714",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045832031062630745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@care1337_ 老资历菲尼布特吃起来什么感觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045831423131860992"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2045832031062630745",
+        "created_at": "2026-04-19T11:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:46:36.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045831425254215949",
+          "2045831663431938257",
+          "2045832031062630745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJTY8yIJ6d",
+              "end": 135,
+              "expanded_url": "https://x.com/care1337_/status/2045832031062630745/photo/1",
+              "media_key": "3_2045831423131860992",
+              "start": 112,
+              "url": "https://t.co/MJTY8yIJ6d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045832031062630745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "实在是受不了了，发什么都没流量\n我是许多年前药圈某个3000fo的转生号，那个时候spring风还活着。只不过我现在转鉴证了，你们能不能关注我，有药物或者化学物质的问题都可以问我，我吃右美沙芬的时候中国小孩还在吃三鹿奶粉。 https://t.co/MJTY8yIJ6d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 198,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 586
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女(mtf)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，喜欢普瑞巴林💊。\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，蓝v互关",
+        "id": "1813561571941183488",
+        "name": "maybe🍥🏳️‍⚧️🇯🇵",
+        "pinned_tweet_id": "2045832031062630745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044960713345818624/eNV6jb0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 112,
+          "like_count": 2880,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 1019
+        },
+        "username": "care1337_",
+        "verified": true
+      }
+    ]
+  }
+}

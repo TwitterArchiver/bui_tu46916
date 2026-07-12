@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2036676906435944488",
+    "created_at": "2026-03-25T05:59:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T06:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036684415397675497"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036684415397675497",
+    "in_reply_to_user_id": "2029908828125548546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036676906435944488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在人类的第二个千年o圈终于造出来属于自己的药物原体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2036676906435944488",
+        "created_at": "2026-03-25T05:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T06:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036684415397675497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036684415397675497",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036676906435944488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在人类的第二个千年o圈终于造出来属于自己的药物原体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2036676906435944488",
+        "created_at": "2026-03-25T05:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T06:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036676906435944488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036676906435944488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Oder加强手术流程:\n1.第三肺（防止窒息）\n2.骨骼肌肉强化器官（增强抗掉落伤害）\n3.神经控制肝肾（自定义药物排出速度）\n4.25%器官备份（防止有毒药品完全毁坏所有器官）\n5.血小板贮存腔（快速止血）\n6.神经结（调节受体激活强度）\n7.预置胃（消化有毒物质）\n8.第二大脑（制定药滥方案并规避法律风险）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 114,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 235
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

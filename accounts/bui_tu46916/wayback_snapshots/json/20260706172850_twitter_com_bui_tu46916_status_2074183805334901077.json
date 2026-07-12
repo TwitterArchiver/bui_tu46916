@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074183801060958208"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2074183805334901077",
+    "created_at": "2026-07-06T17:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074183805334901077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AUwIv1bH9U",
+          "end": 23,
+          "expanded_url": "https://x.com/bui_tu46916/status/2074183805334901077/photo/1",
+          "media_key": "3_2074183801060958208",
+          "start": 0,
+          "url": "https://t.co/AUwIv1bH9U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074183805334901077",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/AUwIv1bH9U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 574,
+        "media_key": "3_2074183801060958208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMj7LXUboAAvU_8.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074183801060958208"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2074183805334901077",
+        "created_at": "2026-07-06T17:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074183805334901077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AUwIv1bH9U",
+              "end": 23,
+              "expanded_url": "https://x.com/bui_tu46916/status/2074183805334901077/photo/1",
+              "media_key": "3_2074183801060958208",
+              "start": 0,
+              "url": "https://t.co/AUwIv1bH9U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074183805334901077",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AUwIv1bH9U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+UQcUn2FxkPszZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+UQcUn2FxkPszZmQx",
+                "start": 0,
+                "url": "https://t.co/i4pDJdGmt8"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 271,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 820
+        },
+        "url": "https://t.co/i4pDJdGmt8",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2035257718253265191",
+    "created_at": "2026-03-21T07:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T08:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035257718253265191"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035257718253265191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "告天下Oder书:\n     经药物百科异端审判庭证实，沐雨已经战死了，他死在和一个名为鸡哥的单睾手中，在和鸡哥的决战中，被鸡哥下晚安偷袭死，在临终之时，沐雨的遗言是:鸡哥老冯没了！\n    随信附上鸡哥具体坐标（114，514）\n                                          药物百科异端审判庭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2035257718253265191",
+        "created_at": "2026-03-21T07:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T08:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035257718253265191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035257718253265191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "告天下Oder书:\n     经药物百科异端审判庭证实，沐雨已经战死了，他死在和一个名为鸡哥的单睾手中，在和鸡哥的决战中，被鸡哥下晚安偷袭死，在临终之时，沐雨的遗言是:鸡哥老冯没了！\n    随信附上鸡哥具体坐标（114，514）\n                                          药物百科异端审判庭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 93,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 196
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

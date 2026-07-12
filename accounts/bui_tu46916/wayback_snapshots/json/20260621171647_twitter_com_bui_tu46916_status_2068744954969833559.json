@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2068744954969833559",
+    "created_at": "2026-06-21T17:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068744954969833559"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068744954969833559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不对的，不是这样的，你应该先歇斯底里的大吼大叫，然后拿起手头的东西四处乱砸，然后对着吓懵的孩子辱骂，最后要求他算出答案，如果没有算出来就重复上述步骤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2068744954969833559",
+        "created_at": "2026-06-21T17:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068744954969833559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068744954969833559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不对的，不是这样的，你应该先歇斯底里的大吼大叫，然后拿起手头的东西四处乱砸，然后对着吓懵的孩子辱骂，最后要求他算出答案，如果没有算出来就重复上述步骤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2047942018316517861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 247,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 748
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

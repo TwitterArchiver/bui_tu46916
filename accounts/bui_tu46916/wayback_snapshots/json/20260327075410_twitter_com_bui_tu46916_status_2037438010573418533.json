@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037438008128098304"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2037438010573418533",
+    "created_at": "2026-03-27T07:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T08:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037438010573418533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GN62YR7iav",
+          "end": 42,
+          "expanded_url": "https://x.com/bui_tu46916/status/2037438010573418533/photo/1",
+          "media_key": "3_2037438008128098304",
+          "start": 19,
+          "url": "https://t.co/GN62YR7iav"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037438010573418533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "瓦楞死家飘飘糖1t测试15:53服用 https://t.co/GN62YR7iav"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2037438008128098304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZvEtZa0AAuK3L.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037438008128098304"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2037438010573418533",
+        "created_at": "2026-03-27T07:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037438010573418533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GN62YR7iav",
+              "end": 42,
+              "expanded_url": "https://x.com/bui_tu46916/status/2037438010573418533/photo/1",
+              "media_key": "3_2037438008128098304",
+              "start": 19,
+              "url": "https://t.co/GN62YR7iav"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037438010573418533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "瓦楞死家飘飘糖1t测试15:53服用 https://t.co/GN62YR7iav"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2037056043453432137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 127,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 267
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

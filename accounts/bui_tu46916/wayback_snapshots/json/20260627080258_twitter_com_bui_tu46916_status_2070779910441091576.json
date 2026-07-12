@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2070514173042409489",
+    "created_at": "2026-06-27T08:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070779910441091576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062730121853992960",
+          "start": 0,
+          "username": "ZaKosauce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070779910441091576",
+    "in_reply_to_user_id": "2062730121853992960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070742881506333087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaKosauce 背死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070742866314555393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzBqmfacAEQh72.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2070514173042409489",
+        "created_at": "2026-06-27T08:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070779910441091576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062730121853992960",
+              "start": 0,
+              "username": "ZaKosauce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070779910441091576",
+        "in_reply_to_user_id": "2062730121853992960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070742881506333087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaKosauce 背死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070742866314555393"
+          ]
+        },
+        "author_id": "2062730121853992960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070514173042409489",
+        "created_at": "2026-06-27T05:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070742881506333087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CwL4R9Pkhh",
+              "end": 41,
+              "expanded_url": "https://x.com/ZaKosauce/status/2070742881506333087/photo/1",
+              "media_key": "3_2070742866314555393",
+              "start": 18,
+              "url": "https://t.co/CwL4R9Pkhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070742881506333087",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070514173042409489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 来背！😉 https://t.co/CwL4R9Pkhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+UQcUn2FxkPszZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+UQcUn2FxkPszZmQx",
+                "start": 0,
+                "url": "https://t.co/i4pDJdGmt8"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 258,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 774
+        },
+        "url": "https://t.co/i4pDJdGmt8",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T03:00:56.000Z",
+        "description": "Pharmacy student/A newbie artist learning digital drawing/Heavy anime Addict/        🏳️‍⚧️A trans girl on the journey to become herself",
+        "id": "2062730121853992960",
+        "name": "text",
+        "pinned_tweet_id": "2064716240032252389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062731870522200064/XHWoeTrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 54,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "ZaKosauce",
+        "verified": true
+      }
+    ]
+  }
+}

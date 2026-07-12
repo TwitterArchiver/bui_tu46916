@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054564155915649024"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2054564161565409341",
+    "created_at": "2026-05-13T14:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T15:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054564161565409341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754774517594181632",
+          "start": 0,
+          "username": "ValenceLab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vCVjyVD8oB",
+          "end": 178,
+          "expanded_url": "https://x.com/bui_tu46916/status/2054564161565409341/photo/1",
+          "media_key": "3_2054564155915649024",
+          "start": 155,
+          "url": "https://t.co/vCVjyVD8oB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054564161565409341",
+    "in_reply_to_user_id": "1754774517594181632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@ValenceLab 1t飘飘糖加1t止吐\n大概11：30开始上劲没有很难受的体感\n到下午一点正式达到高峰\n体感上舒服到骨头都要酥了\n药效高峰至少从1：00持续到了3：00多\n然后视觉感觉整个画面在五种颜色变幻，物体边缘融合交织，世界犹如波浪一样潮起潮落\n药效高峰的那个时候我在打游戏，感觉反应力变高，听觉 https://t.co/vCVjyVD8oB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2054564155915649024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HINHNtmaQAAkovM.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054564155915649024"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2054564161565409341",
+        "created_at": "2026-05-13T14:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054564161565409341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754774517594181632",
+              "start": 0,
+              "username": "ValenceLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vCVjyVD8oB",
+              "end": 178,
+              "expanded_url": "https://x.com/bui_tu46916/status/2054564161565409341/photo/1",
+              "media_key": "3_2054564155915649024",
+              "start": 155,
+              "url": "https://t.co/vCVjyVD8oB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054564161565409341",
+        "in_reply_to_user_id": "1754774517594181632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@ValenceLab 1t飘飘糖加1t止吐\n大概11：30开始上劲没有很难受的体感\n到下午一点正式达到高峰\n体感上舒服到骨头都要酥了\n药效高峰至少从1：00持续到了3：00多\n然后视觉感觉整个画面在五种颜色变幻，物体边缘融合交织，世界犹如波浪一样潮起潮落\n药效高峰的那个时候我在打游戏，感觉反应力变高，听觉 https://t.co/vCVjyVD8oB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "你好/不见证/可能od/观察者",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 213,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 604
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥频道链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceRC_cp",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceRC_cp",
+                "start": 0,
+                "url": "https://t.co/3X53fRNTwL"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "location": "本栖湖",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "pinned_tweet_id": "2054393417166434678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 176,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 300
+        },
+        "url": "https://t.co/3X53fRNTwL",
+        "username": "ValenceLab",
+        "verified": false
+      }
+    ]
+  }
+}

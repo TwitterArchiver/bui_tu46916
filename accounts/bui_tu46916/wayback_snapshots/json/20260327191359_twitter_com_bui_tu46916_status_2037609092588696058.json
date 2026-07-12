@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037609089799524352"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2037609092588696058",
+    "created_at": "2026-03-27T19:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T20:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037609092588696058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754774517594181632",
+          "start": 0,
+          "username": "ValenceLab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t6DBbcclNt",
+          "end": 81,
+          "expanded_url": "https://x.com/bui_tu46916/status/2037609092588696058/photo/1",
+          "media_key": "3_2037609089799524352",
+          "start": 58,
+          "url": "https://t.co/t6DBbcclNt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037609092588696058",
+    "in_reply_to_user_id": "1754774517594181632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@ValenceLab 震撼美味，综合评分给到顶级，建议还是找个舒服的地方测评，室友玩港诡实录差点给我干bad去了 https://t.co/t6DBbcclNt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1923,
+        "media_key": "3_2037609089799524352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEcKq-SbkAAqptp.png",
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037609089799524352"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2037609092588696058",
+        "created_at": "2026-03-27T19:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T20:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037609092588696058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754774517594181632",
+              "start": 0,
+              "username": "ValenceLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6DBbcclNt",
+              "end": 81,
+              "expanded_url": "https://x.com/bui_tu46916/status/2037609092588696058/photo/1",
+              "media_key": "3_2037609089799524352",
+              "start": 58,
+              "url": "https://t.co/t6DBbcclNt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037609092588696058",
+        "in_reply_to_user_id": "1754774517594181632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@ValenceLab 震撼美味，综合评分给到顶级，建议还是找个舒服的地方测评，室友玩港诡实录差点给我干bad去了 https://t.co/t6DBbcclNt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2037056043453432137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 129,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 272
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥频道链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceRC_cp",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceRC_cp",
+                "start": 0,
+                "url": "https://t.co/3X53fRNTwL"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "location": "本栖湖",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 135,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/3X53fRNTwL",
+        "username": "ValenceLab",
+        "verified": false
+      }
+    ]
+  }
+}

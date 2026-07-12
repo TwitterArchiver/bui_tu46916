@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2054564161565409341",
+    "created_at": "2026-05-13T14:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T15:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054564346722918815"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054564346722918815",
+    "in_reply_to_user_id": "2029908828125548546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054564161565409341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "变灵敏，专注力提高\n下午两点我去上课，甚至路上的人物也扭曲变形，这个时候我太舒服了以至于特别想对什么东西锤一下\n3：00-6：00这段时间身体逐渐适应药效并且在此期间药效下降过\n直到7点快感才开始慢慢往下掉，大概9点跑完步回来还能看见物体边缘有略微变形，灯光略微泛绿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2054564155915649024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HINHNtmaQAAkovM.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2054564161565409341",
+        "created_at": "2026-05-13T14:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054564346722918815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054564346722918815",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054564161565409341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "变灵敏，专注力提高\n下午两点我去上课，甚至路上的人物也扭曲变形，这个时候我太舒服了以至于特别想对什么东西锤一下\n3：00-6：00这段时间身体逐渐适应药效并且在此期间药效下降过\n直到7点快感才开始慢慢往下掉，大概9点跑完步回来还能看见物体边缘有略微变形，灯光略微泛绿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054564155915649024"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2054564161565409341",
+        "created_at": "2026-05-13T14:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054564161565409341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754774517594181632",
+              "start": 0,
+              "username": "ValenceLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vCVjyVD8oB",
+              "end": 178,
+              "expanded_url": "https://x.com/bui_tu46916/status/2054564161565409341/photo/1",
+              "media_key": "3_2054564155915649024",
+              "start": 155,
+              "url": "https://t.co/vCVjyVD8oB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054564161565409341",
+        "in_reply_to_user_id": "1754774517594181632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@ValenceLab 1t飘飘糖加1t止吐\n大概11：30开始上劲没有很难受的体感\n到下午一点正式达到高峰\n体感上舒服到骨头都要酥了\n药效高峰至少从1：00持续到了3：00多\n然后视觉感觉整个画面在五种颜色变幻，物体边缘融合交织，世界犹如波浪一样潮起潮落\n药效高峰的那个时候我在打游戏，感觉反应力变高，听觉 https://t.co/vCVjyVD8oB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "你好/不见证/可能od/观察者",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 213,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 605
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

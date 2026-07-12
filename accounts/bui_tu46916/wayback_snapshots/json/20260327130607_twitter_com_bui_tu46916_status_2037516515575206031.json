@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2036816002198229212",
+    "created_at": "2026-03-27T13:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T14:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037516515575206031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1872813701159411712",
+          "start": 0,
+          "username": "mamgo347785"
+        },
+        {
+          "end": 26,
+          "id": "2009488009180401667",
+          "start": 13,
+          "username": "asabakasaiko"
+        },
+        {
+          "end": 36,
+          "id": "1297323279095435264",
+          "start": 27,
+          "username": "fudujiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037516515575206031",
+    "in_reply_to_user_id": "1872813701159411712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037024157645627773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mamgo347785 @asabakasaiko @fudujiya 1000mgdpt活下来了😧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2036816002198229212",
+        "created_at": "2026-03-27T13:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037516515575206031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1872813701159411712",
+              "start": 0,
+              "username": "mamgo347785"
+            },
+            {
+              "end": 26,
+              "id": "2009488009180401667",
+              "start": 13,
+              "username": "asabakasaiko"
+            },
+            {
+              "end": 36,
+              "id": "1297323279095435264",
+              "start": 27,
+              "username": "fudujiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037516515575206031",
+        "in_reply_to_user_id": "1872813701159411712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037024157645627773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mamgo347785 @asabakasaiko @fudujiya 1000mgdpt活下来了😧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872813701159411712",
+        "conversation_id": "2036816002198229212",
+        "created_at": "2026-03-26T04:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037024157645627773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009488009180401667",
+              "start": 0,
+              "username": "asabakasaiko"
+            },
+            {
+              "end": 23,
+              "id": "1297323279095435264",
+              "start": 14,
+              "username": "fudujiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037024157645627773",
+        "in_reply_to_user_id": "2009488009180401667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036886774522536047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asabakasaiko @fudujiya 我当时是开玩笑的，只是想o大一把"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2037056043453432137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 127,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 270
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T01:16:03.000Z",
+        "description": "可以叫我芒果或者玛丽鱼",
+        "id": "1872813701159411712",
+        "name": "ma mgo",
+        "pinned_tweet_id": "2011105271574372627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995903518566436864/d9Gh6QGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 163,
+          "like_count": 1304,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1070
+        },
+        "username": "mamgo347785",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T04:51:10.000Z",
+        "description": "我是🐟，很无辜很好看也很想死，🚪58，88其实同类真的不用给❤️，什么事都可以来私我🤔，免费的用药指导和和陪玩🥺，主营美白和致幻剂💊和pcp",
+        "id": "2009488009180401667",
+        "location": "香港",
+        "name": "三崎笠井子",
+        "pinned_tweet_id": "2035621862408102015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011710429840752640/TVZQw9bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 413,
+          "like_count": 8176,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1611
+        },
+        "username": "asabakasaiko",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-23T00:02:37.000Z",
+        "description": "06/od/同类看到会互fo/🚪88私信口令红包",
+        "id": "1297323279095435264",
+        "location": "不会痛苦的地方……",
+        "name": "尼亚_naY",
+        "pinned_tweet_id": "2034651413494784282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986377875415834628/XQRbpLb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 332,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 403
+        },
+        "username": "fudujiya",
+        "verified": false
+      }
+    ]
+  }
+}

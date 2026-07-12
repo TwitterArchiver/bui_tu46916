@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2044307283560280565",
+    "created_at": "2026-04-15T07:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T08:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044320055496978628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690100855653965824",
+          "start": 0,
+          "username": "iLIc5147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044320055496978628",
+    "in_reply_to_user_id": "1690100855653965824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044307283560280565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iLIc5147 爽吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26075,
+        "height": 770,
+        "media_key": "7_2044307122679361536",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044307122679361536/pu/img/j5FF8AJJZvsivJkf.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044307122679361536/pu/vid/avc1/320x352/0pypSnY5oNpLuU7D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044307122679361536/pu/vid/avc1/480x528/fcvKaYGq2fZdmetW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044307122679361536/pu/vid/avc1/700x770/9Xcn5ajLuXPdNNam.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044307122679361536/pu/pl/xhmsMH5BuA3R262D.m3u8?tag=12"
+          }
+        ],
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2044307283560280565",
+        "created_at": "2026-04-15T07:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044320055496978628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690100855653965824",
+              "start": 0,
+              "username": "iLIc5147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044320055496978628",
+        "in_reply_to_user_id": "1690100855653965824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044307283560280565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iLIc5147 爽吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044307122679361536"
+          ]
+        },
+        "author_id": "1690100855653965824",
+        "conversation_id": "2044307283560280565",
+        "created_at": "2026-04-15T06:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044307283560280565"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "od"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eq7Ck818oj",
+              "end": 32,
+              "expanded_url": "https://x.com/iLIc5147/status/2044307283560280565/video/1",
+              "media_key": "7_2044307122679361536",
+              "start": 9,
+              "url": "https://t.co/eq7Ck818oj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044307283560280565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这集神了\n#od https://t.co/eq7Ck818oj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 189,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 541
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-11T20:40:59.000Z",
+        "description": "欢迎女孩子找我 只收口令/赞赏码 坐标20 88/158/288私信只回口令红包🚪66看着给就行啦 呜呜缺钱od了可以给我打钱od吗 #od姐 #自伤      如果有机会 让我再看看优美小姐",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 67,
+                "tag": "od姐"
+              },
+              {
+                "end": 75,
+                "start": 72,
+                "tag": "自伤"
+              }
+            ]
+          }
+        },
+        "id": "1690100855653965824",
+        "location": "🚪66",
+        "name": "小孩不许欧大迪🍥",
+        "pinned_tweet_id": "2040788075560026570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040780641776857088/qT1Gz6p8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 611,
+          "like_count": 28725,
+          "listed_count": 7,
+          "media_count": 1046,
+          "tweet_count": 16434
+        },
+        "username": "iLIc5147",
+        "verified": false
+      }
+    ]
+  }
+}

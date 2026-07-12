@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2068045440227151994",
+    "created_at": "2026-06-19T18:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T19:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068045440227151994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "You are invited to a group chat on Telegram. Click to",
+          "display_url": "t.me/+UQcUn2FxkPszZ…",
+          "end": 28,
+          "expanded_url": "https://t.me/+UQcUn2FxkPszZmQx",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/2066052421865046016/KYqQb-O9?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2066052421865046016/KYqQb-O9?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 5,
+          "status": 200,
+          "title": "Join group chat on Telegram",
+          "unwound_url": "https://t.me/+UQcUn2FxkPszZmQx",
+          "url": "https://t.co/XBEhhwxKxQ"
+        },
+        {
+          "display_url": "x.com/bui_tu46916/st…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/bui_tu46916/status/2068033270886158660",
+          "start": 77,
+          "url": "https://t.co/ZeUZgNEdrV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068045440227151994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068033270886158660",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "顺带宣个群https://t.co/XBEhhwxKxQ.     新开得一个tg群，欢迎大家分享生活，学习药理，，不要骂人，搞恶俗，群友都是很好说话的 https://t.co/ZeUZgNEdrV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2068033268184948736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMhTO3aoAANiaH.jpg",
+        "width": 1086
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068033268000415744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMhTOLa4AA2cIY.jpg",
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2068045440227151994",
+        "created_at": "2026-06-19T18:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068045440227151994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+UQcUn2FxkPszZ…",
+              "end": 28,
+              "expanded_url": "https://t.me/+UQcUn2FxkPszZmQx",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2066052421865046016/KYqQb-O9?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066052421865046016/KYqQb-O9?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 5,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+UQcUn2FxkPszZmQx",
+              "url": "https://t.co/XBEhhwxKxQ"
+            },
+            {
+              "display_url": "x.com/bui_tu46916/st…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/bui_tu46916/status/2068033270886158660",
+              "start": 77,
+              "url": "https://t.co/ZeUZgNEdrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068045440227151994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068033270886158660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺带宣个群https://t.co/XBEhhwxKxQ.     新开得一个tg群，欢迎大家分享生活，学习药理，，不要骂人，搞恶俗，群友都是很好说话的 https://t.co/ZeUZgNEdrV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068033268184948736",
+            "3_2068033268000415744"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2068033270886158660",
+        "created_at": "2026-06-19T18:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068033270886158660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754774517594181632",
+              "start": 0,
+              "username": "ValenceLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ruVNuEaTgU",
+              "end": 62,
+              "expanded_url": "https://x.com/bui_tu46916/status/2068033270886158660/photo/1",
+              "media_key": "3_2068033268184948736",
+              "start": 39,
+              "url": "https://t.co/ruVNuEaTgU"
+            },
+            {
+              "display_url": "pic.x.com/ruVNuEaTgU",
+              "end": 62,
+              "expanded_url": "https://x.com/bui_tu46916/status/2068033270886158660/photo/1",
+              "media_key": "3_2068033268000415744",
+              "start": 39,
+              "url": "https://t.co/ruVNuEaTgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068033270886158660",
+        "in_reply_to_user_id": "1754774517594181632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@ValenceLab 瓦楞斯新品棉花糖体验报告，美食评价9.0分，震撼美味 https://t.co/ruVNuEaTgU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2047942018316517861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 244,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 745
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

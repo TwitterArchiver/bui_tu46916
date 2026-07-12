@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2070377899585343996",
+    "created_at": "2026-06-26T23:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T00:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070644103126409466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955218488185982980",
+          "start": 0,
+          "username": "bbbkamen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070644103126409466",
+    "in_reply_to_user_id": "1955218488185982980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070377899585343996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbbkamen 贴脸开大很容易吃晶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2070377896695521280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLt1uktbYAAzT3-.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2070377899585343996",
+        "created_at": "2026-06-26T23:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T00:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070644103126409466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955218488185982980",
+              "start": 0,
+              "username": "bbbkamen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070644103126409466",
+        "in_reply_to_user_id": "1955218488185982980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070377899585343996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbbkamen 贴脸开大很容易吃晶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070377896695521280"
+          ]
+        },
+        "author_id": "1955218488185982980",
+        "conversation_id": "2070377899585343996",
+        "created_at": "2026-06-26T05:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070377899585343996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "向药物滥用说“不”, 视频播放量 3691、弹幕量 1、点赞数 342、投硬币枚数 5、收藏人数 55、转发人数 60, 视频作者 中国警察网, 作者简介 公安部新闻传媒中心中国警察网官方账号，相关视频：每天告诉你6个毒品冷知识（一），每天告诉你6个毒品冷知识（二），只要我们记得，他们就永远活着！，【如果国宝会说唱】世界博物馆日，那就让文物活起来！，每天告诉你6个毒品知识（缉毒警察篇），百年志丨流行说唱，但是粤语，但是粤剧~，莫让“马赛克人生”的缉毒警察们流血又寒心，每天告诉你6个毒品冷知识（五），“风吹过稻田，我们又想您了……”，“快毕业了，我要做什么？”干货来了！",
+              "display_url": "b23.tv/X1vLhp6",
+              "end": 35,
+              "expanded_url": "http://b23.tv/X1vLhp6",
+              "start": 12,
+              "status": 200,
+              "title": "向药物滥用说“不”_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1FSjc62ENU/?buvid=Y44A664BEDF305A148A68DD593A1AA3B4C91&from_spmid=tm.recommend.0.0&is_story_h5=false&mid=YxTeQKGpLC4qGGTZPrgdR38FTQ%2FSZMtL1rElX6M3iMo%3D&p=1&plat_id=116&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=90D0B35D-055F-43D3-ADD9-731D5FAED73D&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1782383778&unique_k=X1vLhp6&up_id=517433879",
+              "url": "https://t.co/AS93XG622H"
+            },
+            {
+              "display_url": "pic.x.com/1WiThwpg3I",
+              "end": 59,
+              "expanded_url": "https://x.com/bbbkamen/status/2070377899585343996/photo/1",
+              "media_key": "3_2070377896695521280",
+              "start": 36,
+              "url": "https://t.co/1WiThwpg3I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070377899585343996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 743,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近管的有些严…………\nhttps://t.co/AS93XG622H https://t.co/1WiThwpg3I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2068045440227151994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 257,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 773
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T10:43:18.000Z",
+        "description": "传奇耐电王/MTX/出厂日09.7.11/高二物化生/不政/🍥💊/正在尝试炒作/周末党/家长严管党/前世@aaakamen来生@ccckamen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "aaakamen"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "ccckamen"
+              }
+            ]
+          }
+        },
+        "id": "1955218488185982980",
+        "location": "内蒙+++真的有这地方同类吗",
+        "name": "☬脊髓☬世一没素",
+        "pinned_tweet_id": "2067854989201199460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040938841524301824/DBpinweT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 310,
+          "like_count": 1183,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 432
+        },
+        "url": "",
+        "username": "bbbkamen",
+        "verified": false
+      }
+    ]
+  }
+}

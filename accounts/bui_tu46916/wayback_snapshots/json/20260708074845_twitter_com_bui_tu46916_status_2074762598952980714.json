@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "1978406357595267481",
+    "created_at": "2026-07-08T07:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074762598952980714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1470236717978370053",
+          "start": 0,
+          "username": "muhan7788"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074762598952980714",
+    "in_reply_to_user_id": "1470236717978370053",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978406357595267481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muhan7788 加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1978406353900339200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3S2GMmbAAAoABi.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "1978406357595267481",
+        "created_at": "2026-07-08T07:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074762598952980714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1470236717978370053",
+              "start": 0,
+              "username": "muhan7788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074762598952980714",
+        "in_reply_to_user_id": "1470236717978370053",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978406357595267481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muhan7788 加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978406353900339200"
+          ]
+        },
+        "author_id": "1470236717978370053",
+        "conversation_id": "1978406357595267481",
+        "created_at": "2025-10-15T10:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T11:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978406357595267481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/etzZCUr3dw",
+              "end": 32,
+              "expanded_url": "https://x.com/haoziyao233/status/1978406357595267481/photo/1",
+              "media_key": "3_1978406353900339200",
+              "start": 9,
+              "url": "https://t.co/etzZCUr3dw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978406357595267481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笼中鸟，何时飞？ https://t.co/etzZCUr3dw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+UQcUn2FxkPszZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+UQcUn2FxkPszZmQx",
+                "start": 0,
+                "url": "https://t.co/i4pDJdGmt8"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 274,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 829
+        },
+        "url": "https://t.co/i4pDJdGmt8",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-13T03:38:51.000Z",
+        "description": "慕寒_Official官方X账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "慕寒.cn",
+                "end": 23,
+                "expanded_url": "http://xn--7ct11k.cn",
+                "start": 0,
+                "url": "https://t.co/bPDwJIx0qB"
+              }
+            ]
+          }
+        },
+        "id": "1470236717978370053",
+        "location": "China",
+        "name": "慕寒_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074758319173148672/Vkmrf6Kb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 42,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/bPDwJIx0qB",
+        "username": "muhan7788",
+        "verified": false
+      }
+    ]
+  }
+}

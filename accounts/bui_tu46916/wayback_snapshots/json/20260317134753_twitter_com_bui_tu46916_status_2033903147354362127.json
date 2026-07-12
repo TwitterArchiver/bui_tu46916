@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2033743502321057956",
+    "created_at": "2026-03-17T13:47:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T14:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033903147354362127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1546725401577156608",
+          "start": 0,
+          "username": "bushoufan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033903147354362127",
+    "in_reply_to_user_id": "1546725401577156608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033896418113732764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bushoufan 愤怒😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2033743502321057956",
+        "created_at": "2026-03-17T13:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033903147354362127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546725401577156608",
+              "start": 0,
+              "username": "bushoufan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033903147354362127",
+        "in_reply_to_user_id": "1546725401577156608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033896418113732764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bushoufan 愤怒😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546725401577156608",
+        "conversation_id": "2033743502321057956",
+        "created_at": "2026-03-17T13:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033896418113732764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033896418113732764",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033891698947068052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 就是好吃！！！😡解离爽内幻爽！！！😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 83,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 128
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-12T05:17:34.000Z",
+        "description": "......",
+        "id": "1546725401577156608",
+        "name": "BuShouFan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900844558675832832/mOCNX29E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 716,
+          "like_count": 9429,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 46
+        },
+        "username": "bushoufan",
+        "verified": false
+      }
+    ]
+  }
+}

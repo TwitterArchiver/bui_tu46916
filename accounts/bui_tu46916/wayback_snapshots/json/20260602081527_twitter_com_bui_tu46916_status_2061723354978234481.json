@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2061722642374340812",
+    "created_at": "2026-06-02T08:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T09:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061723354978234481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1833795907470704640",
+          "start": 0,
+          "username": "lynn_m57596"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061723354978234481",
+    "in_reply_to_user_id": "1833795907470704640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061722642374340812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lynn_m57596 🐀王我想要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2061722642374340812",
+        "created_at": "2026-06-02T08:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061723354978234481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1833795907470704640",
+              "start": 0,
+              "username": "lynn_m57596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061723354978234481",
+        "in_reply_to_user_id": "1833795907470704640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061722642374340812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lynn_m57596 🐀王我想要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833795907470704640",
+        "conversation_id": "2061722642374340812",
+        "created_at": "2026-06-02T08:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061722642374340812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061722642374340812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "400fo也是龟速开一个抽奖帖！\n一等：2t雪尘+1板鹤睿pr+3t巴氯芬+1板新康泰克🌽+1板云药🌽+一些小零食+手绘明信片+1杯奶茶（你要什么我给你点）\n二等：1t雪尘+1板喜思平红pr+2t巴氯芬+小零食+明信片+1杯奶茶\n三等：1板喜思平红pr+1板云药🌽+小零食\n**转发评论参与抽奖，抽奖在评论区抽🤤🌹快来参加！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜见证勿扰｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2047942018316517861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 218,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 698
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T09:13:22.000Z",
+        "description": "😖纯社恐大鼠欢迎各位找我聊天，双相偶尔发癫🖐️😭🖐️\n💊+互fo欢迎\n本账号含有：💊｜负能量碎碎念｜丑画｜偶尔色色；不接受请左转",
+        "id": "1833795907470704640",
+        "name": "软鼠",
+        "pinned_tweet_id": "2012454215260733710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021277904718659584/8sN9IxiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 121,
+          "like_count": 1553,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 290
+        },
+        "username": "lynn_m57596",
+        "verified": false
+      }
+    ]
+  }
+}

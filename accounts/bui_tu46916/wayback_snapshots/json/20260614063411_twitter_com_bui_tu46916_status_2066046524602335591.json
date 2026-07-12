@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2065946987091071315",
+    "created_at": "2026-06-14T06:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T07:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066046524602335591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2009456541993455616",
+          "start": 0,
+          "username": "gulaozi"
+        },
+        {
+          "end": 18,
+          "id": "1828632343680294916",
+          "start": 9,
+          "username": "jianlvya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066046524602335591",
+    "in_reply_to_user_id": "2009456541993455616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066001861920854230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gulaozi @jianlvya 年年考年年错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2065946987091071315",
+        "created_at": "2026-06-14T06:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066046524602335591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2009456541993455616",
+              "start": 0,
+              "username": "gulaozi"
+            },
+            {
+              "end": 18,
+              "id": "1828632343680294916",
+              "start": 9,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066046524602335591",
+        "in_reply_to_user_id": "2009456541993455616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066001861920854230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gulaozi @jianlvya 年年考年年错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009456541993455616",
+        "conversation_id": "2065946987091071315",
+        "created_at": "2026-06-14T03:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066001861920854230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828632343680294916",
+              "start": 0,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066001861920854230",
+        "in_reply_to_user_id": "1828632343680294916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1749,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065946987091071315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvya 经济下滑期间，咱们在走日本的路，当年日本也是取消了教师编制"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2047942018316517861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 232,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 718
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T02:46:03.000Z",
+        "description": "Life is interesting because of the unknown.",
+        "id": "2009456541993455616",
+        "location": "美国",
+        "name": "GuLaozi",
+        "pinned_tweet_id": "2065598720905814308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010270729464684545/5AyLboCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6548,
+          "following_count": 6624,
+          "like_count": 230,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 2644
+        },
+        "username": "gulaozi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 \n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律（私信互关）",
+        "pinned_tweet_id": "2065220009442595088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061037984837959680/milpZMHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6502,
+          "following_count": 979,
+          "like_count": 27743,
+          "listed_count": 16,
+          "media_count": 1282,
+          "tweet_count": 2321
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

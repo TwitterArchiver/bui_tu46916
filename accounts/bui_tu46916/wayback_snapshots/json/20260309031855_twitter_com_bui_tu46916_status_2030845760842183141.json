@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2030845760842183141",
+    "created_at": "2026-03-09T03:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T04:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030845760842183141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sqllyvxx/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/sqllyvxx/status/2030397834466353646",
+          "start": 5,
+          "url": "https://t.co/udeJa8MxYo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030845760842183141",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030397834466353646",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "整装待割 https://t.co/udeJa8MxYo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030397830817292289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC1sEdKWoAElzZF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2030845760842183141",
+        "created_at": "2026-03-09T03:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T04:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030845760842183141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sqllyvxx/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/sqllyvxx/status/2030397834466353646",
+              "start": 5,
+              "url": "https://t.co/udeJa8MxYo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030845760842183141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030397834466353646",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "整装待割 https://t.co/udeJa8MxYo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030397830817292289"
+          ]
+        },
+        "author_id": "2012977108679606273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2030397834466353646",
+        "created_at": "2026-03-07T21:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T22:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030397834466353646"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Blade collection",
+              "probability": 0.6818,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7wcH5q2kuh",
+              "end": 40,
+              "expanded_url": "https://x.com/sqllyvxx/status/2030397834466353646/photo/1",
+              "media_key": "3_2030397830817292289",
+              "start": 17,
+              "url": "https://t.co/7wcH5q2kuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030397834466353646",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 815,
+          "impression_count": 106604,
+          "like_count": 13014,
+          "quote_count": 184,
+          "reply_count": 329,
+          "retweet_count": 1832
+        },
+        "reply_settings": "everyone",
+        "text": "Blade collection https://t.co/7wcH5q2kuh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 40,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T19:55:29.000Z",
+        "description": "✧˖°.𝟓𝒕𝒆𝒆𝒏―୨୧⋆ ˚ .  !! 𝑫𝒎𝒔 𝒐𝒑𝒆𝒏𝜗𝜚\nˊ˗╰┈➤𝒏𝒐𝒕 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈 𝒊𝒔 𝒘𝒐𝒓𝒕𝒉 𝒇𝒊𝒙𝒊𝒏𝒈\n̑̑ೃ࿔ ⪼ my amazing doggy @4evrrlost",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 93,
+                "username": "4evrrlost"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sqllyvxx.straw.page",
+                "end": 23,
+                "expanded_url": "https://sqllyvxx.straw.page",
+                "start": 0,
+                "url": "https://t.co/UFYFk9IRIA"
+              }
+            ]
+          }
+        },
+        "id": "2012977108679606273",
+        "name": "⋆. 𐙚 ˚𝑫𝒂𝒛𝒂𝒊 𝒐𝒇 𝒔𝒉𝒕𝒘𝒕⋆˚𝜗𝜚˚⋆",
+        "pinned_tweet_id": "2027078120696664381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018418006699704322/kSyZWlUR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 1619,
+          "like_count": 5190,
+          "listed_count": 7,
+          "media_count": 119,
+          "tweet_count": 913
+        },
+        "url": "https://t.co/UFYFk9IRIA",
+        "username": "sqllyvxx",
+        "verified": false
+      }
+    ]
+  }
+}

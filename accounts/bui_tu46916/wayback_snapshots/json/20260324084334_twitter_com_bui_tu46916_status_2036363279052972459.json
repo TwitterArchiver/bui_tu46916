@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036363270144270337"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2036363279052972459",
+    "created_at": "2026-03-24T08:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T09:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036363279052972459"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qv9m11J5qe",
+          "end": 28,
+          "expanded_url": "https://x.com/bui_tu46916/status/2036363279052972459/photo/1",
+          "media_key": "3_2036363270144270337",
+          "start": 5,
+          "url": "https://t.co/Qv9m11J5qe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036363279052972459",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "o圈野史 https://t.co/Qv9m11J5qe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2188,
+        "media_key": "3_2036363270144270337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEKdmuaaIAExnyM.jpg",
+        "width": 1908
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036363270144270337"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2036363279052972459",
+        "created_at": "2026-03-24T08:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T09:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036363279052972459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qv9m11J5qe",
+              "end": 28,
+              "expanded_url": "https://x.com/bui_tu46916/status/2036363279052972459/photo/1",
+              "media_key": "3_2036363270144270337",
+              "start": 5,
+              "url": "https://t.co/Qv9m11J5qe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036363279052972459",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "o圈野史 https://t.co/Qv9m11J5qe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 105,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 225
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

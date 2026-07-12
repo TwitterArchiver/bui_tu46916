@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2030919200525664573",
+    "created_at": "2026-03-09T12:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T13:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030988942301155469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1279935256808718337",
+          "start": 0,
+          "username": "AiZhei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030988942301155469",
+    "in_reply_to_user_id": "1279935256808718337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030988818204282974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AiZhei 因为当时o昏头了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2030919200525664573",
+        "created_at": "2026-03-09T12:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030988942301155469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1279935256808718337",
+              "start": 0,
+              "username": "AiZhei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030988942301155469",
+        "in_reply_to_user_id": "1279935256808718337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030988818204282974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AiZhei 因为当时o昏头了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279935256808718337",
+        "conversation_id": "2030919200525664573",
+        "created_at": "2026-03-09T12:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030988818204282974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030988818204282974",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030919200525664573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 怎么两个4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 54,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 58
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T00:29:07.000Z",
+        "description": "中文（中國）/ English (US)/ 日本語",
+        "id": "1279935256808718337",
+        "location": "Perditus Paradisus",
+        "name": "リップルズ",
+        "pinned_tweet_id": "1555924273637871617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958883165621428224/0uc4KfxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 486,
+          "like_count": 5203,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 1197
+        },
+        "username": "AiZhei",
+        "verified": false
+      }
+    ]
+  }
+}

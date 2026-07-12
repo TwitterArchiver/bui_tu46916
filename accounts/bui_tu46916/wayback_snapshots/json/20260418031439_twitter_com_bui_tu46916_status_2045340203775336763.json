@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2045129693733724330",
+    "created_at": "2026-04-18T03:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T04:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045340203775336763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2012831008148869120",
+          "start": 0,
+          "username": "upgJfljc7x18330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045340203775336763",
+    "in_reply_to_user_id": "2012831008148869120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045338691519017190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@upgJfljc7x18330 这么强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2045129693733724330",
+        "created_at": "2026-04-18T03:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045340203775336763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2012831008148869120",
+              "start": 0,
+              "username": "upgJfljc7x18330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045340203775336763",
+        "in_reply_to_user_id": "2012831008148869120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045338691519017190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@upgJfljc7x18330 这么强"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012831008148869120",
+        "conversation_id": "2045129693733724330",
+        "created_at": "2026-04-18T03:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045338691519017190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045338691519017190",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045129693733724330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 身高体重居然和我一样😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 198,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 570
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T10:14:51.000Z",
+        "description": "法",
+        "id": "2012831008148869120",
+        "name": "情緒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037623798133063680/Aw9YLr8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 24,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 258
+        },
+        "username": "upgJfljc7x18330",
+        "verified": false
+      }
+    ]
+  }
+}

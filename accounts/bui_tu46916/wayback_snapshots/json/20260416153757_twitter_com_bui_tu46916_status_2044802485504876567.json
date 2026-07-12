@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2044801175002939512",
+    "created_at": "2026-04-16T15:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T16:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044802485504876567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690100855653965824",
+          "start": 0,
+          "username": "iLIc5147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044802485504876567",
+    "in_reply_to_user_id": "1690100855653965824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044801175002939512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iLIc5147 做个4个铁wiki之鸡哥二次DDoS攻击"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2044801175002939512",
+        "created_at": "2026-04-16T15:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044802485504876567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690100855653965824",
+              "start": 0,
+              "username": "iLIc5147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044802485504876567",
+        "in_reply_to_user_id": "1690100855653965824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044801175002939512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iLIc5147 做个4个铁wiki之鸡哥二次DDoS攻击"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690100855653965824",
+        "conversation_id": "2044801175002939512",
+        "created_at": "2026-04-16T15:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044801175002939512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044801175002939512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也许我后面没钱了可以做定制服务？比如说做一些定制的钢4mod？不然真没钱吃饭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 195,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 551
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-11T20:40:59.000Z",
+        "description": "欢迎女孩子找我 只收口令/赞赏码 坐标20 88/158/288私信只回口令红包🚪66看着给就行啦 呜呜缺钱od了可以给我打钱od吗 #od姐 #自伤      如果有机会 让我再看看优美小姐",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 67,
+                "tag": "od姐"
+              },
+              {
+                "end": 75,
+                "start": 72,
+                "tag": "自伤"
+              }
+            ]
+          }
+        },
+        "id": "1690100855653965824",
+        "location": "🚪66",
+        "name": "小孩不许欧大迪🍥",
+        "pinned_tweet_id": "2040788075560026570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040780641776857088/qT1Gz6p8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 613,
+          "like_count": 28756,
+          "listed_count": 7,
+          "media_count": 1047,
+          "tweet_count": 16461
+        },
+        "username": "iLIc5147",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2034967538418032739",
+    "created_at": "2026-03-20T12:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T13:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034967538418032739"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034967538418032739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“站在工厂管理的角度，情绪其实就是一座化学工厂根据输入的原料向外输出反应，他在工作正常的状态下尚能运作，但是在缺少原料或工件磨损时也会罢工，若不是及时维修，反倒用力拍打机器，那只会损坏机器。”\n我喜欢这种解释"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2034967538418032739",
+        "created_at": "2026-03-20T12:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T13:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034967538418032739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034967538418032739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“站在工厂管理的角度，情绪其实就是一座化学工厂根据输入的原料向外输出反应，他在工作正常的状态下尚能运作，但是在缺少原料或工件磨损时也会罢工，若不是及时维修，反倒用力拍打机器，那只会损坏机器。”\n我喜欢这种解释"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 94,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 191
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

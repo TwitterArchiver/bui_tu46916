@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2035595126979063991",
+    "created_at": "2026-03-22T05:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T06:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035595886806650929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815267698777133056",
+          "start": 0,
+          "username": "baimi693363m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035595886806650929",
+    "in_reply_to_user_id": "1815267698777133056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035595126979063991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baimi693363m +86的号营业厅重点监控的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2035595126979063991",
+        "created_at": "2026-03-22T05:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035595886806650929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815267698777133056",
+              "start": 0,
+              "username": "baimi693363m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035595886806650929",
+        "in_reply_to_user_id": "1815267698777133056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035595126979063991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baimi693363m +86的号营业厅重点监控的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815267698777133056",
+        "conversation_id": "2035595126979063991",
+        "created_at": "2026-03-22T05:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035595126979063991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035595126979063991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听话把tg删了，我还是+86的号，以后大概率是在tg见不到我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 96,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 204
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T06:08:49.000Z",
+        "description": "Od💊｜🍥Hrt🏳️‍⚧️2026.2.1｜Infp🦋｜泛性恋｜自残💖欢迎帮我割🔪｜Sub🐶｜好奇心想尝试一切｜欢迎互fo!｜✨喜欢可爱的东西✨｜重玉重焦(散发负能量🧬)",
+        "id": "1815267698777133056",
+        "location": "🚪50",
+        "name": "甲醛🏳️‍⚧️🍥#CH2O",
+        "pinned_tweet_id": "2019692908899946533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034089294617571328/RWj6EvPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 183,
+          "like_count": 1472,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 487
+        },
+        "username": "baimi693363m",
+        "verified": true
+      }
+    ]
+  }
+}

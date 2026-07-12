@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2032776213736075557",
+    "created_at": "2026-03-14T11:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T12:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032776213736075557"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032776213736075557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那一夜他思索良久，他想到千千万万牺牲的药师前辈， 难道他们牺牲一切换来的就是这么个overdose吗，他想到了广大的Oder，他们怎么办？他很不甘心，他做出一个决定，这件事哪怕是他摔的粉碎，即使失败他也不惧怕，因为他知道星星之火可以燎原。老药师说了一句壮语“以前我带你们od，现在我又带你们去od”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2032776213736075557",
+        "created_at": "2026-03-14T11:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T12:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032776213736075557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032776213736075557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那一夜他思索良久，他想到千千万万牺牲的药师前辈， 难道他们牺牲一切换来的就是这么个overdose吗，他想到了广大的Oder，他们怎么办？他很不甘心，他做出一个决定，这件事哪怕是他摔的粉碎，即使失败他也不惧怕，因为他知道星星之火可以燎原。老药师说了一句壮语“以前我带你们od，现在我又带你们去od”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 74,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 89
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

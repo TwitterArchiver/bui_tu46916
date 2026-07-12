@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2058143423442391545",
+    "created_at": "2026-05-23T12:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058169541050675691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1924482734396997632",
+          "start": 0,
+          "username": "_vvni_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058169541050675691",
+    "in_reply_to_user_id": "1924482734396997632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058143423442391545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_vvni_ 去春风家逛逛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2058143419185205249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_-iQVXkAEMT_v.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2058143423442391545",
+        "created_at": "2026-05-23T12:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058169541050675691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1924482734396997632",
+              "start": 0,
+              "username": "_vvni_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058169541050675691",
+        "in_reply_to_user_id": "1924482734396997632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058143423442391545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_vvni_ 去春风家逛逛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058143419185205249"
+          ]
+        },
+        "author_id": "1924482734396997632",
+        "conversation_id": "2058143423442391545",
+        "created_at": "2026-05-23T11:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058143423442391545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xFZE25l6hy",
+              "end": 44,
+              "expanded_url": "https://x.com/_vvni_/status/2058143423442391545/photo/1",
+              "media_key": "3_2058143419185205249",
+              "start": 21,
+              "url": "https://t.co/xFZE25l6hy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058143423442391545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有在南宁的推友来找我玩，我快闲出p了 https://t.co/xFZE25l6hy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜见证勿扰｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 214,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 633
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T15:11:13.000Z",
+        "description": "一般路过",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/christina40514",
+                "end": 23,
+                "expanded_url": "https://ngl.link/christina40514",
+                "start": 0,
+                "url": "https://t.co/VZuVq6aHcM"
+              }
+            ]
+          }
+        },
+        "id": "1924482734396997632",
+        "location": "被窝",
+        "name": "Vvni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941981282226855936/9T4K3Wht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 346,
+          "like_count": 43181,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1373
+        },
+        "url": "https://t.co/VZuVq6aHcM",
+        "username": "_vvni_",
+        "verified": false
+      }
+    ]
+  }
+}

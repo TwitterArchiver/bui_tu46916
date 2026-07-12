@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045170293786988544"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2045170302695653865",
+    "created_at": "2026-04-17T15:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T16:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045170302695653865"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eQeSy3RYsK",
+          "end": 41,
+          "expanded_url": "https://x.com/bui_tu46916/status/2045170302695653865/photo/1",
+          "media_key": "3_2045170293786988544",
+          "start": 18,
+          "url": "https://t.co/eQeSy3RYsK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045170302695653865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个pr有人吃过吗？感觉有点小赚啊 https://t.co/eQeSy3RYsK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045170293786988544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHni-Ja0AAkcFH.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045170293786988544"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2045170302695653865",
+        "created_at": "2026-04-17T15:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045170302695653865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQeSy3RYsK",
+              "end": 41,
+              "expanded_url": "https://x.com/bui_tu46916/status/2045170302695653865/photo/1",
+              "media_key": "3_2045170293786988544",
+              "start": 18,
+              "url": "https://t.co/eQeSy3RYsK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045170302695653865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个pr有人吃过吗？感觉有点小赚啊 https://t.co/eQeSy3RYsK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 198,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 567
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

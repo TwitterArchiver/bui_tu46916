@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066052418161524737"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2066052420548067417",
+    "created_at": "2026-06-14T06:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T07:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066052420548067417"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "You are invited to a group chat on Telegram. Click to",
+          "display_url": "t.me/+UQcUn2FxkPszZ…",
+          "end": 23,
+          "expanded_url": "https://t.me/+UQcUn2FxkPszZmQx",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/2066052421865046016/KYqQb-O9?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2066052421865046016/KYqQb-O9?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Join group chat on Telegram",
+          "unwound_url": "https://t.me/+UQcUn2FxkPszZmQx",
+          "url": "https://t.co/XBEhhwxKxQ"
+        },
+        {
+          "display_url": "pic.x.com/CZAyCoNaqE",
+          "end": 80,
+          "expanded_url": "https://x.com/bui_tu46916/status/2066052420548067417/photo/1",
+          "media_key": "3_2066052418161524737",
+          "start": 57,
+          "url": "https://t.co/CZAyCoNaqE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066052420548067417",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/XBEhhwxKxQ新开了一个tg群欢迎大家一起进来交流药理知识，药商打广每日限一次哦 https://t.co/CZAyCoNaqE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1554,
+        "media_key": "3_2066052418161524737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwXulfawAE6TCO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066052418161524737"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2066052420548067417",
+        "created_at": "2026-06-14T06:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066052420548067417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+UQcUn2FxkPszZ…",
+              "end": 23,
+              "expanded_url": "https://t.me/+UQcUn2FxkPszZmQx",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2066052421865046016/KYqQb-O9?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066052421865046016/KYqQb-O9?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+UQcUn2FxkPszZmQx",
+              "url": "https://t.co/XBEhhwxKxQ"
+            },
+            {
+              "display_url": "pic.x.com/CZAyCoNaqE",
+              "end": 80,
+              "expanded_url": "https://x.com/bui_tu46916/status/2066052420548067417/photo/1",
+              "media_key": "3_2066052418161524737",
+              "start": 57,
+              "url": "https://t.co/CZAyCoNaqE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066052420548067417",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XBEhhwxKxQ新开了一个tg群欢迎大家一起进来交流药理知识，药商打广每日限一次哦 https://t.co/CZAyCoNaqE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2047942018316517861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 232,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 719
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

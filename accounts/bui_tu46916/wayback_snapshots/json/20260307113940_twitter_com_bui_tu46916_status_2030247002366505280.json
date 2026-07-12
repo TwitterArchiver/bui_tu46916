@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2023053051607785528",
+    "created_at": "2026-03-07T11:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T12:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030247002366505280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2009773968891469824",
+          "start": 0,
+          "username": "420bbnnkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030247002366505280",
+    "in_reply_to_user_id": "2009773968891469824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023053051607785528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@420bbnnkk 这账户的实际操作者是谁😂😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2023052846435074048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNT2GGbAAABUBI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2023053051607785528",
+        "created_at": "2026-03-07T11:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030247002366505280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2009773968891469824",
+              "start": 0,
+              "username": "420bbnnkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030247002366505280",
+        "in_reply_to_user_id": "2009773968891469824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023053051607785528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@420bbnnkk 这账户的实际操作者是谁😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023052846435074048"
+          ]
+        },
+        "author_id": "2009773968891469824",
+        "conversation_id": "2023053051607785528",
+        "created_at": "2026-02-15T15:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023053051607785528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3PB3B3FCc",
+              "end": 32,
+              "expanded_url": "https://x.com/420bbnnkk/status/2023053051607785528/photo/1",
+              "media_key": "3_2023052846435074048",
+              "start": 9,
+              "url": "https://t.co/Q3PB3B3FCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023053051607785528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1626,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "鸡哥上岛照片曝光 https://t.co/Q3PB3B3FCc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 27,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T23:47:23.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，私信常开，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息",
+        "id": "2009773968891469824",
+        "location": " Australia",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023055132632702976/i-G8Lq9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 33,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 61
+        },
+        "username": "420bbnnkk",
+        "verified": false
+      }
+    ]
+  }
+}

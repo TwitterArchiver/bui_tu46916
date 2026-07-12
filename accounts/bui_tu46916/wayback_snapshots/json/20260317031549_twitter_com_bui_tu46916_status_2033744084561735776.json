@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2033743502321057956",
+    "created_at": "2026-03-17T03:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T04:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033744084561735776"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033744084561735776",
+    "in_reply_to_user_id": "2029908828125548546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033743812666003674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "良苦用心，竟然还用这些事来讥讽神，于是神降下了他的神罚右美沙芬单方被打入精二大牢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2033743502321057956",
+        "created_at": "2026-03-17T03:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033744084561735776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033744084561735776",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033743812666003674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "良苦用心，竟然还用这些事来讥讽神，于是神降下了他的神罚右美沙芬单方被打入精二大牢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2033743502321057956",
+        "created_at": "2026-03-17T03:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033743812666003674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033743812666003674",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033743502321057956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "首先是犯下傲慢之罪的右美沙芬\n只因先比神出名就露出不屑的笑，这种傲慢的药注定走不长远，事实也是如此，靠着解离赢了神之后一直在走下坡路，与之相比神就很谦卑，温柔的药效，良好的口感，都是神留给凡人的慈悲，神不是不会，只是不想通过太完美的药效让对手绝望所以故意不用，可笑有些人不理解神的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 81,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 118
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

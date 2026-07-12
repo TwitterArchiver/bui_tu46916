@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2047350960566239266",
+    "created_at": "2026-05-18T12:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056349104490565780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813561571941183488",
+          "start": 0,
+          "username": "careforme123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056349104490565780",
+    "in_reply_to_user_id": "1813561571941183488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047350960566239266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@careforme123 矮人工坊这一块儿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 351,
+        "media_key": "3_2047350958137737220",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmm2V5bAAQPW-s.jpg",
+        "width": 624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2047350960566239266",
+        "created_at": "2026-05-18T12:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056349104490565780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056349104490565780",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047350960566239266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 矮人工坊这一块儿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047350958137737220"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2047350960566239266",
+        "created_at": "2026-04-23T16:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047350960566239266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qjD6ZGGqfM",
+              "end": 118,
+              "expanded_url": "https://x.com/care1337_/status/2047350960566239266/photo/1",
+              "media_key": "3_2047350958137737220",
+              "start": 95,
+              "url": "https://t.co/qjD6ZGGqfM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047350960566239266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 434868,
+          "like_count": 2087,
+          "quote_count": 9,
+          "reply_count": 190,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "邓小平的贡献在于他成功将中国转型为了威权资本主义\n否则咱们今天就是北朝鲜\n                                                    ——袁腾飞 https://t.co/qjD6ZGGqfM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜见证勿扰｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 211,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 625
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055562423994613943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 610,
+          "like_count": 5737,
+          "listed_count": 6,
+          "media_count": 629,
+          "tweet_count": 2339
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

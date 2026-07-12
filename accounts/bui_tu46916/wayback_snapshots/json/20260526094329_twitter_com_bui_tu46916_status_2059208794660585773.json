@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2059208794660585773",
+    "created_at": "2026-05-26T09:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T10:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059208794660585773"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059208794660585773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你说的对但是《OD online》是由oder研发的开放世界冒险游戏。游戏发生在一个被称作「⏰」的幻想世界，在这被原生家庭选中的人将被授予「心理疾病」导引OD之力。你将扮演一位名为「oder」神秘角色，在冒险中邂逅性格各异、能力独特的药品，和他们一起击败耐受，找回失散的药效，同时发掘「高原」的真相"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2059208794660585773",
+        "created_at": "2026-05-26T09:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059208794660585773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059208794660585773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说的对但是《OD online》是由oder研发的开放世界冒险游戏。游戏发生在一个被称作「⏰」的幻想世界，在这被原生家庭选中的人将被授予「心理疾病」导引OD之力。你将扮演一位名为「oder」神秘角色，在冒险中邂逅性格各异、能力独特的药品，和他们一起击败耐受，找回失散的药效，同时发掘「高原」的真相"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜见证勿扰｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 214,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 647
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

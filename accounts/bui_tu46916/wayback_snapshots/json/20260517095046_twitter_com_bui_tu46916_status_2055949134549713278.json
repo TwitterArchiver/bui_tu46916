@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2055944669083926547",
+    "created_at": "2026-05-17T09:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055949134549713278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2007439875726028800",
+          "start": 0,
+          "username": "APeng87500"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055949134549713278",
+    "in_reply_to_user_id": "2007439875726028800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055944669083926547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@APeng87500 你真该停晚安了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2055944669083926547",
+        "created_at": "2026-05-17T09:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055949134549713278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2007439875726028800",
+              "start": 0,
+              "username": "APeng87500"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055949134549713278",
+        "in_reply_to_user_id": "2007439875726028800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055944669083926547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@APeng87500 你真该停晚安了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007439875726028800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2055944669083926547",
+        "created_at": "2026-05-17T09:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055944669083926547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bui_tu46916/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/bui_tu46916/status/2053756096117195083",
+              "start": 24,
+              "url": "https://t.co/dy5Hxzxmg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055944669083926547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053756096117195083",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "?金刚烷胺致幻好强，我一下子看去以为是。？动图 https://t.co/dy5Hxzxmg9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜见证勿扰｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 210,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 620
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T13:12:30.000Z",
+        "description": "",
+        "id": "2007439875726028800",
+        "location": "幻想乡",
+        "name": "博丽灵梦💊🍕（淡推版）",
+        "pinned_tweet_id": "2039974296567923078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853671457886208/RcGIFvmL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 263,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 209
+        },
+        "username": "APeng87500",
+        "verified": false
+      }
+    ]
+  }
+}

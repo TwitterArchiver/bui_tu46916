@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055173038321356800"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2055173386956058710",
+    "created_at": "2026-05-15T06:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T07:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055173386956058710"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nT5X4G1Cq9",
+          "end": 31,
+          "expanded_url": "https://x.com/bui_tu46916/status/2055173386956058710/video/1",
+          "media_key": "13_2055173038321356800",
+          "start": 8,
+          "url": "https://t.co/nT5X4G1Cq9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055173386956058710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "药圈的圆形监狱 https://t.co/nT5X4G1Cq9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 90000,
+        "height": 1080,
+        "media_key": "13_2055173038321356800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055173038321356800/img/0tOu3la8KzptiL4i.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055173038321356800/vid/avc1/480x270/EgWHfDxZBllreRl8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055173038321356800/vid/avc1/640x360/9dSACsXJnkxRFQcq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055173038321356800/vid/avc1/1280x720/JqBhRraaSy_5hnoe.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055173038321356800/pl/ZDoMCJf8KJUC69OH.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055173038321356800"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2055173386956058710",
+        "created_at": "2026-05-15T06:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055173386956058710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nT5X4G1Cq9",
+              "end": 31,
+              "expanded_url": "https://x.com/bui_tu46916/status/2055173386956058710/video/1",
+              "media_key": "13_2055173038321356800",
+              "start": 8,
+              "url": "https://t.co/nT5X4G1Cq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055173386956058710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药圈的圆形监狱 https://t.co/nT5X4G1Cq9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "你好/不见证/可能od/观察者",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 211,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 612
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

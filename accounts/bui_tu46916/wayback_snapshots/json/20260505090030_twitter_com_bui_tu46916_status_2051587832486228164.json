@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2051587832486228164",
+    "created_at": "2026-05-05T09:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T10:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051587832486228164"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051587832486228164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "o圈特殊藏品\n“雨之尘”\n类型：饰品\n沐雨于25年发售第一款也是最后一款rc月尘1t，该rc曾引发三个wiki及多位药师对此的激烈争论，现密封于密封袋中，携带此藏品获得以下效果\n“wiki倾销”当加入任意wiki时，资金收入加25%     \n你说谁这么天才发明的wiki卖Rc。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2051587832486228164",
+        "created_at": "2026-05-05T09:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051587832486228164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051587832486228164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "o圈特殊藏品\n“雨之尘”\n类型：饰品\n沐雨于25年发售第一款也是最后一款rc月尘1t，该rc曾引发三个wiki及多位药师对此的激烈争论，现密封于密封袋中，携带此藏品获得以下效果\n“wiki倾销”当加入任意wiki时，资金收入加25%     \n你说谁这么天才发明的wiki卖Rc。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "你好/不见证/可能od/观察者",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 210,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 662
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

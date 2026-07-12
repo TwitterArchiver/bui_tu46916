@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2075891842923847754",
+    "created_at": "2026-07-11T12:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075914017173070126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1404449980841005065",
+          "start": 0,
+          "username": "a1547025987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075914017173070126",
+    "in_reply_to_user_id": "1404449980841005065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075891842923847754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a1547025987 教我"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54056,
+        "height": 720,
+        "media_key": "7_2075891790054641664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075891790054641664/pu/img/wXW0dlYQR00YmUyd.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075891790054641664/pu/vid/avc1/480x270/0HqgiwCvhjGHGdF3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075891790054641664/pu/vid/avc1/640x360/LalZ1tDh4u_p4GrK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075891790054641664/pu/vid/avc1/1280x720/BkMCtoX3QEjG3EDN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075891790054641664/pu/pl/e7pb6BtLa2BbxumQ.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2075891842923847754",
+        "created_at": "2026-07-11T12:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075914017173070126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1404449980841005065",
+              "start": 0,
+              "username": "a1547025987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075914017173070126",
+        "in_reply_to_user_id": "1404449980841005065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075891842923847754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a1547025987 教我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075891790054641664"
+          ]
+        },
+        "author_id": "1404449980841005065",
+        "conversation_id": "2075891842923847754",
+        "created_at": "2026-07-11T10:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075891842923847754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GoiGwqIxOS",
+              "end": 30,
+              "expanded_url": "https://x.com/a1547025987/status/2075891842923847754/video/1",
+              "media_key": "7_2075891790054641664",
+              "start": 7,
+              "url": "https://t.co/GoiGwqIxOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075891842923847754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真厉害呀😽 https://t.co/GoiGwqIxOS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+UQcUn2FxkPszZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+UQcUn2FxkPszZmQx",
+                "start": 0,
+                "url": "https://t.co/i4pDJdGmt8"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 277,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 850
+        },
+        "url": "https://t.co/i4pDJdGmt8",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-14T14:45:55.000Z",
+        "description": "即使这是施加给我的诅咒，我也会将它当成祝福一样热爱！                            我的宝宝：@Ananan9113",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "Ananan9113"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/@Mutsumi_never…",
+                "end": 23,
+                "expanded_url": "https://t.me/@Mutsumi_never_cries",
+                "start": 0,
+                "url": "https://t.co/e6Z8zLqL78"
+              }
+            ]
+          }
+        },
+        "id": "1404449980841005065",
+        "location": "佛罗里达州",
+        "name": "机巧睦头不会受伤",
+        "pinned_tweet_id": "2070897702855176460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048337386590113793/PEyizSud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 910,
+          "like_count": 2495,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 293
+        },
+        "url": "https://t.co/e6Z8zLqL78",
+        "username": "a1547025987",
+        "verified": false
+      }
+    ]
+  }
+}

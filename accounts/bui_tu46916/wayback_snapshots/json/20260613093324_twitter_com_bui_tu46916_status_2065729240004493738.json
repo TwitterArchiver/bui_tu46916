@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2065456245080010844",
+    "created_at": "2026-06-13T09:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065729240004493738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1669376642094092290",
+          "start": 0,
+          "username": "yxzlwz"
+        },
+        {
+          "end": 22,
+          "id": "1946593949180993536",
+          "start": 8,
+          "username": "RogerDisboard"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065729240004493738",
+    "in_reply_to_user_id": "1669376642094092290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065701888168009847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxzlwz @RogerDisboard 没其他圈有活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2065456245080010844",
+        "created_at": "2026-06-13T09:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065729240004493738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1669376642094092290",
+              "start": 0,
+              "username": "yxzlwz"
+            },
+            {
+              "end": 22,
+              "id": "1946593949180993536",
+              "start": 8,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065729240004493738",
+        "in_reply_to_user_id": "1669376642094092290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065701888168009847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxzlwz @RogerDisboard 没其他圈有活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669376642094092290",
+        "conversation_id": "2065456245080010844",
+        "created_at": "2026-06-13T07:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065701888168009847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065701888168009847",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065456245080010844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard 技术圈真的这么微不足道吗……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2047942018316517861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 232,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 716
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T16:09:52.000Z",
+        "description": "CS在读｜全栈开发｜互fo｜欢迎来与我闲聊～\nGitHub: https://t.co/EiXDUTefUj\nEnglish account: @yxzlwz_en",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "yxzlwz_en"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/yxzlwz",
+                "end": 54,
+                "expanded_url": "https://github.com/yxzlwz",
+                "start": 31,
+                "url": "https://t.co/EiXDUTefUj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yxzl.dev",
+                "end": 23,
+                "expanded_url": "https://yxzl.dev/",
+                "start": 0,
+                "url": "https://t.co/DCTqcTLe0L"
+              }
+            ]
+          }
+        },
+        "id": "1669376642094092290",
+        "location": "上海",
+        "name": "异想之旅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059932666338607109/mZ1zhdtp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 300,
+          "like_count": 3029,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 730
+        },
+        "url": "https://t.co/DCTqcTLe0L",
+        "username": "yxzlwz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/继承@Aureliax17QwQ的心意，我将继续成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2065721861602992199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 1118,
+          "like_count": 9053,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 2401
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

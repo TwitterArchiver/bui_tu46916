@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2030978743813263850",
+    "created_at": "2026-03-09T13:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T14:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031003319343423719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1811690667720212480",
+          "start": 0,
+          "username": "y0zarashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031003319343423719",
+    "in_reply_to_user_id": "1811690667720212480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030978743813263850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y0zarashi 豪哥有没有吃行政处罚以后还能开无犯罪证明的路子"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13746,
+        "height": 1280,
+        "media_key": "7_2030978702650310657",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2030978702650310657/pu/img/hdBf9zYz9qvh_xOQ.jpg",
+        "public_metrics": {
+          "view_count": 43
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030978702650310657/pu/vid/avc1/320x568/T4hlie_4i8fnTMvI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030978702650310657/pu/vid/avc1/480x852/s3DSyVX-MrOJ5o8j.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030978702650310657/pu/vid/avc1/720x1280/Qpj7V0LnR0pHbrIm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2030978702650310657/pu/pl/F8E0RfrKlM2qacwh.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2030978743813263850",
+        "created_at": "2026-03-09T13:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031003319343423719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811690667720212480",
+              "start": 0,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031003319343423719",
+        "in_reply_to_user_id": "1811690667720212480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030978743813263850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y0zarashi 豪哥有没有吃行政处罚以后还能开无犯罪证明的路子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2030978702650310657"
+          ]
+        },
+        "author_id": "1811690667720212480",
+        "conversation_id": "2030978743813263850",
+        "created_at": "2026-03-09T12:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030978743813263850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6yYsxv7ipz",
+              "end": 140,
+              "expanded_url": "https://x.com/y0zarashi/status/2030978743813263850/video/1",
+              "media_key": "7_2030978702650310657",
+              "start": 117,
+              "url": "https://t.co/6yYsxv7ipz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030978743813263850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天跟我同事聊天，聊到了ai这个话题，有个新来的项目经理，说话那股味儿是真恶心人\n他说资深程序员比ai厉害，是因为程序员对代码有感性的认知，反复强调感性这个词，我合计那不就是指老程序员做过的项目多经验多呗，还整出个感性认知的装逼词汇\n现在的人背C++就是单纯为了面试唬住面试官，我认为像不同的对象传参方式这些知识对我工作效率提升的意义不大，写代码是ai的事儿，我只是一个指令的调度者\n我现在对程序员的未来是抱有悲观态度的，因为技术壁垒会消失，最后的时候会发现写一个异步交叉回调的服务器跟写产品文档的技术难度没有区别了，那么程序员凭什么还有高薪呢\n具体技术壁垒的消失时间我也不知道要多久，前端已经死了，什么时候会轮到算法呢，可能会几年吧说不准\n我觉得我应该攒点钱投资健身房，雇佣些长得帅的大专生健身私教，然后坑女白领的钱"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天跟我同事聊天，聊到了ai这个话题，有个新来的项目经理，说话那股味儿是真恶心人\n他说资深程序员比ai厉害，是因为程序员对代码有感性的认知，反复强调感性这个词，我合计那不就是指老程序员做过的项目多经验多呗，还整出个感性认知的装逼词汇 https://t.co/6yYsxv7ipz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 54,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 59
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "文学会改变人的心性，轻易的影响一个人使他走火入魔做不了凡人，读完一定程度的世界文学，十几年就过去了，而这条路才刚开始，而且读书之后大部分会忘却需要重新复读，留下来的比例如同鲁迅说的“炼炭”，精神会被前人之精神改造，如果你有诗歌或宗教的天赋，会更加偏离常人，你的友人家人同辈都会跟你谈不到一块，也很难有女人适合你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y0zarashi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y0zarashi",
+                "start": 0,
+                "url": "https://t.co/YWqrMoB9vO"
+              }
+            ]
+          }
+        },
+        "id": "1811690667720212480",
+        "location": "🚪30正常人形态把你当家人  🚪100以上天天骚扰你",
+        "name": "CallumL1（王烟洛欠我300块钱不还版）",
+        "pinned_tweet_id": "2030971997971505517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030260220031913984/AGa_W9qb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 214,
+          "like_count": 100,
+          "listed_count": 6,
+          "media_count": 496,
+          "tweet_count": 1569
+        },
+        "url": "https://t.co/YWqrMoB9vO",
+        "username": "y0zarashi",
+        "verified": true
+      }
+    ]
+  }
+}

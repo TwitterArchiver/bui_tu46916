@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2051242099086107126",
+    "created_at": "2026-05-04T11:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T12:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051259736969101362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1506521082853216258",
+          "start": 0,
+          "username": "17891956wer"
+        },
+        {
+          "end": 28,
+          "id": "1557839863151337473",
+          "start": 13,
+          "username": "scutigera_kuma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051259736969101362",
+    "in_reply_to_user_id": "1506521082853216258",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051257499706355942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17891956wer @scutigera_kuma 最富盛名的Rc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2051242099086107126",
+        "created_at": "2026-05-04T11:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051259736969101362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1506521082853216258",
+              "start": 0,
+              "username": "17891956wer"
+            },
+            {
+              "end": 28,
+              "id": "1557839863151337473",
+              "start": 13,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051259736969101362",
+        "in_reply_to_user_id": "1506521082853216258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051257499706355942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17891956wer @scutigera_kuma 最富盛名的Rc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506521082853216258",
+        "conversation_id": "2051242099086107126",
+        "created_at": "2026-05-04T11:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051257499706355942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051257499706355942",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051242099086107126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma 月尘开的先例吧www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "你好/不见证/可能od/观察者",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 208,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 658
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T06:39:55.000Z",
+        "description": "一个喜欢ACGN的死宅，灵魂自由，在精神世界中漫游~\n喝酒/吸烟/od/焦虑抑郁/休学中（改被迫上学）/中文/其他语言会用翻译器/诗歌/友跨/ACGN/电波系/猫猫/mtx～\n欢迎互粉喵～\n（有时互of没看到的私信）\n匿名私信https://t.co/6s74CaEsDY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Mumu",
+                "end": 136,
+                "expanded_url": "https://miyu.link/Mumu",
+                "start": 113,
+                "url": "https://t.co/6s74CaEsDY"
+              }
+            ]
+          }
+        },
+        "id": "1506521082853216258",
+        "location": "Shanghai",
+        "name": "秋风",
+        "pinned_tweet_id": "2025353338393694611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869799456050425858/n5q-m2lW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 240,
+          "like_count": 193,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 410
+        },
+        "username": "17891956wer",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4915,
+          "following_count": 3524,
+          "like_count": 34273,
+          "listed_count": 6,
+          "media_count": 470,
+          "tweet_count": 9125
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

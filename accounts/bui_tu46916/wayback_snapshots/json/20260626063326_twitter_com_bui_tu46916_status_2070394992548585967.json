@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2043924200315072621",
+    "created_at": "2026-06-26T06:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070394992548585967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1756513049488633856",
+          "start": 0,
+          "username": "yizhiyangguang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070394992548585967",
+    "in_reply_to_user_id": "1756513049488633856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070389975275979011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yizhiyangguang 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2043924200315072621",
+        "created_at": "2026-06-26T06:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070394992548585967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1756513049488633856",
+              "start": 0,
+              "username": "yizhiyangguang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070394992548585967",
+        "in_reply_to_user_id": "1756513049488633856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070389975275979011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yizhiyangguang 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756513049488633856",
+        "conversation_id": "2043924200315072621",
+        "created_at": "2026-06-26T06:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070389975275979011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070389975275979011",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043924200315072621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2068045440227151994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 254,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 767
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T02:59:03.000Z",
+        "description": "叫我惠子咪/06出厂/玉玉症/炸柜/家暴党/intp-t/mtf/xyn/无证含糖/大学不在读/偶尔od\n\n这里只是发些碎碎念，随缘发\n\n对上我的电波就请fo我吧！",
+        "id": "1756513049488633856",
+        "location": "Rainbow🌈",
+        "name": "草莓味惠子🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061955030790369280/_ravmONh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 52,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 250
+        },
+        "url": "",
+        "username": "yizhiyangguang",
+        "verified": false
+      }
+    ]
+  }
+}

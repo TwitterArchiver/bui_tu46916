@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2031578319926563038",
+    "created_at": "2026-03-11T03:49:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T04:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031578319926563038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xijiu_/status/…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/xijiu_/status/2031286287400054852",
+          "start": 52,
+          "url": "https://t.co/eFs0K2f6Di"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031578319926563038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031286287400054852",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "spring风定律:药理水平越高，o得越大，o得越大，死法越具有戏剧性，春风，沐雨，爱德华都可以佐证。 https://t.co/eFs0K2f6Di"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2031578319926563038",
+        "created_at": "2026-03-11T03:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T04:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031578319926563038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xijiu_/status/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/xijiu_/status/2031286287400054852",
+              "start": 52,
+              "url": "https://t.co/eFs0K2f6Di"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031578319926563038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031286287400054852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "spring风定律:药理水平越高，o得越大，o得越大，死法越具有戏剧性，春风，沐雨，爱德华都可以佐证。 https://t.co/eFs0K2f6Di"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560129932524544000",
+        "conversation_id": "2031286287400054852",
+        "created_at": "2026-03-10T08:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T09:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031286287400054852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/duanhjlt/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/duanhjlt/status/2031240281719451871",
+              "start": 29,
+              "url": "https://t.co/oWCySdETrR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031286287400054852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3261,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031240281719451871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那怎么我看某些推u一边学药理学急救学，一边大o特o呢🧐🥲 https://t.co/oWCySdETrR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 64,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 65
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "🏳️‍⚧️|生命久如暗室，不妨碍我明写春诗|I’m Nicy , a freshman majoring in chemistry from China.| The Jesus loves us equally.",
+        "id": "1560129932524544000",
+        "location": "爱人的小笼子",
+        "name": "希玖.",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3304,
+          "following_count": 850,
+          "like_count": 186284,
+          "listed_count": 2,
+          "media_count": 580,
+          "tweet_count": 8941
+        },
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

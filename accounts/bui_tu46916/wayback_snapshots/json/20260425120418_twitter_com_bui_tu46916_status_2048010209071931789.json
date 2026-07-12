@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2047842538418213064",
+    "created_at": "2026-04-25T12:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048010209071931789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777129646867542016",
+          "start": 0,
+          "username": "Sunset__3000"
+        },
+        {
+          "end": 26,
+          "id": "1754502413728280576",
+          "start": 14,
+          "username": "Erii_Wilson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048010209071931789",
+    "in_reply_to_user_id": "1777129646867542016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047996740670992665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sunset__3000 @Erii_Wilson 其实用AI就一句话的事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1876,
+        "media_key": "3_2047996737894379521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvyLq9acAEtRXf.jpg",
+        "width": 2166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2047842538418213064",
+        "created_at": "2026-04-25T12:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048010209071931789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777129646867542016",
+              "start": 0,
+              "username": "Sunset__3000"
+            },
+            {
+              "end": 26,
+              "id": "1754502413728280576",
+              "start": 14,
+              "username": "Erii_Wilson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048010209071931789",
+        "in_reply_to_user_id": "1777129646867542016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047996740670992665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sunset__3000 @Erii_Wilson 其实用AI就一句话的事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047996737894379521"
+          ]
+        },
+        "author_id": "1777129646867542016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1471629249366794241",
+              "name": "Clip Studio Paint"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1486871269001687042",
+              "name": "Procreate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1471629249366794241",
+              "name": "Clip Studio Paint"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486871269001687042",
+              "name": "Procreate"
+            }
+          }
+        ],
+        "conversation_id": "2047842538418213064",
+        "created_at": "2026-04-25T11:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047996740670992665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754502413728280576",
+              "start": 0,
+              "username": "Erii_Wilson"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TcBCXFx1QB",
+              "end": 67,
+              "expanded_url": "https://x.com/Sunset__3000/status/2047996740670992665/photo/1",
+              "media_key": "3_2047996737894379521",
+              "start": 44,
+              "url": "https://t.co/TcBCXFx1QB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047996740670992665",
+        "in_reply_to_user_id": "1754502413728280576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047842538418213064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Erii_Wilson 这样吗🤓ps，procreate，csp等绘图软件都很好用👍 https://t.co/TcBCXFx1QB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "你好/不见证/可能od/",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 199,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 621
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病 | 家里蹲备考 | 极端悲观主义 | 爱好生化药理板绘 | 同类互fo呀♡漏回提醒我🥹",
+        "id": "1777129646867542016",
+        "location": "宛平南路600号",
+        "name": "日落三千次💊",
+        "pinned_tweet_id": "2034272198798811213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 553,
+          "like_count": 3534,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 696
+        },
+        "username": "Sunset__3000",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:49:20.000Z",
+        "description": "Erii/梨梨: ♀ADHD⚠️ Erii和小伙伴们的个人Discord频道：私信可加 ｜可提供动物医疗/精神&全科等问询科普: 文字&语音 (提问内容不限) 照片在亮点/ Instagram⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/erii_w_?igsh=d…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/erii_w_?igsh=dzE2bzhzamt1emQ0&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/xk0eTZFbSh"
+              }
+            ]
+          }
+        },
+        "id": "1754502413728280576",
+        "location": "Equality On-Sea",
+        "name": "超绝可爱Erii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754502545244872704/x61GZNd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 112,
+          "like_count": 1506,
+          "listed_count": 2,
+          "media_count": 456,
+          "tweet_count": 1881
+        },
+        "url": "https://t.co/xk0eTZFbSh",
+        "username": "Erii_Wilson",
+        "verified": false
+      }
+    ]
+  }
+}

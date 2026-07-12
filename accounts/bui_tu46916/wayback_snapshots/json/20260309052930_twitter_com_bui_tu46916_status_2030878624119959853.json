@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2030509217258557516",
+    "created_at": "2026-03-09T05:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T06:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030878624119959853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1756246342676979713",
+          "start": 0,
+          "username": "shungleemain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030878624119959853",
+    "in_reply_to_user_id": "1756246342676979713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030509217258557516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shungleemain 灌注小姑娘了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030509213202759680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3RXw4bwAAvsjn.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2030509217258557516",
+        "created_at": "2026-03-09T05:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T06:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030878624119959853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1756246342676979713",
+              "start": 0,
+              "username": "shungleemain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030878624119959853",
+        "in_reply_to_user_id": "1756246342676979713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030509217258557516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shungleemain 灌注小姑娘了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030509213202759680"
+          ]
+        },
+        "author_id": "1756246342676979713",
+        "conversation_id": "2030509217258557516",
+        "created_at": "2026-03-08T05:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T06:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030509217258557516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Jqo1SjaAB",
+              "end": 31,
+              "expanded_url": "https://x.com/shungleemain/status/2030509217258557516/photo/1",
+              "media_key": "3_2030509213202759680",
+              "start": 8,
+              "url": "https://t.co/2Jqo1SjaAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030509217258557516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2055,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "拼多多台灣補貼 https://t.co/2Jqo1SjaAB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 50,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 44
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "斷糖順直男，性別認同真是男 | \n超級好詭秘@Akinoyo_desu \n超級好詭秘@bolckAshley \n可愛的蜜獾@kittymi030 \n可愛的小貓@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "kittymi030"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shungleemain",
+                "end": 23,
+                "expanded_url": "http://t.me/shungleemain",
+                "start": 0,
+                "url": "https://t.co/Ixd7gmIU6r"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "來看生力麵的門戶網站→",
+        "name": "聖米格爾生力麵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019219421693374464/PaBT0amc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2328,
+          "following_count": 619,
+          "like_count": 2697,
+          "listed_count": 7,
+          "media_count": 601,
+          "tweet_count": 6609
+        },
+        "url": "https://t.co/Ixd7gmIU6r",
+        "username": "shungleemain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2061494886243930614",
+    "created_at": "2026-06-02T17:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T18:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061857334067167684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243590342911410176",
+          "start": 0,
+          "username": "bing2000100830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061857334067167684",
+    "in_reply_to_user_id": "1243590342911410176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061494886243930614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bing2000100830 抱抱饼🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3968,
+        "media_key": "3_2061494810834546688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvmm7IasAAFviZ.jpg",
+        "width": 2240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2061494886243930614",
+        "created_at": "2026-06-02T17:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061857334067167684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061857334067167684",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061494886243930614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 抱抱饼🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061494810834546688"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2061494886243930614",
+        "created_at": "2026-06-01T17:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061494886243930614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJWvqsbsJa",
+              "end": 76,
+              "expanded_url": "https://x.com/bing2000100830/status/2061494886243930614/photo/1",
+              "media_key": "3_2061494810834546688",
+              "start": 53,
+              "url": "https://t.co/HJWvqsbsJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061494886243930614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 990,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我们还是永远都不要清醒了吧，世界那么可怕，为什么我们一定要受伤。躲进出租屋里，带上你的大麻和右美沙芬 。 https://t.co/HJWvqsbsJa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2047942018316517861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 224,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 706
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 1204,
+          "like_count": 43121,
+          "listed_count": 3,
+          "media_count": 97,
+          "tweet_count": 2673
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

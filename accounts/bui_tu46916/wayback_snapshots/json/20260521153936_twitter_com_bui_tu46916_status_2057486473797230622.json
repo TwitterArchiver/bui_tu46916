@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057485302458204160"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2057486473797230622",
+    "created_at": "2026-05-21T15:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057486473797230622"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0tm1HyeCij",
+          "end": 84,
+          "expanded_url": "https://x.com/bui_tu46916/status/2057486473797230622/photo/1",
+          "media_key": "3_2057485302458204160",
+          "start": 61,
+          "url": "https://t.co/0tm1HyeCij"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057486473797230622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要一些瑞鹤普瑞巴林和盐义井，一大瓶上好的笑气，加上所有的精神药品，再浇上浓浓的右美沙芬糖浆，另外再来一大杯冰镇西柚汁。 https://t.co/0tm1HyeCij"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_2057485302458204160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2n-0ebwAAo5fT.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057485302458204160"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2057486473797230622",
+        "created_at": "2026-05-21T15:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057486473797230622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0tm1HyeCij",
+              "end": 84,
+              "expanded_url": "https://x.com/bui_tu46916/status/2057486473797230622/photo/1",
+              "media_key": "3_2057485302458204160",
+              "start": 61,
+              "url": "https://t.co/0tm1HyeCij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057486473797230622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要一些瑞鹤普瑞巴林和盐义井，一大瓶上好的笑气，加上所有的精神药品，再浇上浓浓的右美沙芬糖浆，另外再来一大杯冰镇西柚汁。 https://t.co/0tm1HyeCij"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜见证勿扰｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 213,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 631
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

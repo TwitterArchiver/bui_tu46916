@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2071515498987327901",
+    "created_at": "2026-06-30T12:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071934660607873040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2065197628892356608",
+          "start": 0,
+          "username": "sgym1800"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071934660607873040",
+    "in_reply_to_user_id": "2065197628892356608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071515501369696570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sgym1800 实践是好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2071515498987327901",
+        "created_at": "2026-06-30T12:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071934660607873040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2065197628892356608",
+              "start": 0,
+              "username": "sgym1800"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071934660607873040",
+        "in_reply_to_user_id": "2065197628892356608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071515501369696570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sgym1800 实践是好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065197628892356608",
+        "conversation_id": "2071515498987327901",
+        "created_at": "2026-06-29T08:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071515501369696570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071515501369696570",
+        "in_reply_to_user_id": "2065197628892356608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071515498987327901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "克力加的α2δ1受体亲和度约普瑞的6-10倍，只要普瑞抢不到δ1是不是就全部抢δ2了？是不是意味着欣快感提升？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+UQcUn2FxkPszZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+UQcUn2FxkPszZmQx",
+                "start": 0,
+                "url": "https://t.co/i4pDJdGmt8"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 258,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 778
+        },
+        "url": "https://t.co/i4pDJdGmt8",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T22:22:54.000Z",
+        "description": "大学牲/酒蒙子/od/药物爱好者/药物滥用研究/双向情感障碍/不见证/古希腊掌管普瑞巴林的神/科普仅供参考娱乐具体疾病治疗请到正规医院咨询/欢迎各位大佬与小茗互fo\n唯一宝宝：@WangBai_LFYP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "WangBai_LFYP"
+              }
+            ]
+          }
+        },
+        "id": "2065197628892356608",
+        "name": "上官羽茗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065773387654537216/U2qbKjo5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 68,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "sgym1800",
+        "verified": false
+      }
+    ]
+  }
+}

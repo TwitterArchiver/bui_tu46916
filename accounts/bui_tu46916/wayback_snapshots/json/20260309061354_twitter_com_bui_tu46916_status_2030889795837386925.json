@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030889776543592448"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2030889795837386925",
+    "created_at": "2026-03-09T06:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T07:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030889795837386925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Onozr0dpNR",
+          "end": 35,
+          "expanded_url": "https://x.com/bui_tu46916/status/2030889795837386925/photo/1",
+          "media_key": "3_2030889776543592448",
+          "start": 12,
+          "url": "https://t.co/Onozr0dpNR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030889795837386925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "替尔泊肽2.4ml测试 https://t.co/Onozr0dpNR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2030889776543592448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8rfdzacAAtDca.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030889776543592448"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2030889795837386925",
+        "created_at": "2026-03-09T06:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T07:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030889795837386925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Onozr0dpNR",
+              "end": 35,
+              "expanded_url": "https://x.com/bui_tu46916/status/2030889795837386925/photo/1",
+              "media_key": "3_2030889776543592448",
+              "start": 12,
+              "url": "https://t.co/Onozr0dpNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030889795837386925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "替尔泊肽2.4ml测试 https://t.co/Onozr0dpNR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 50,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 45
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

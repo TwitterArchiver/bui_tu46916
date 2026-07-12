@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2038533623893446656"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2038533477625393376",
+    "created_at": "2026-03-30T08:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T09:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038533624958701606"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038533624958701606",
+    "in_reply_to_user_id": "2029908828125548546",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038533477625393376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "1"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-03-31T08:27:44.000Z",
+        "id": "2038533623893446656",
+        "options": [
+          {
+            "label": "本科",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "研究生",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "博士生",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2038533623893446656"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2038533477625393376",
+        "created_at": "2026-03-30T08:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038533624958701606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038533624958701606",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038533477625393376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2038533476564209664"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2038533477625393376",
+        "created_at": "2026-03-30T08:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038533477625393376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038533477625393376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Oder学历大抽查"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2037056043453432137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 138,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 311
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

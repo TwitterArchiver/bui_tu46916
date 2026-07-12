@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2036425449686049143",
+    "created_at": "2026-03-24T13:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T14:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036438609625272806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "985779789213691904",
+          "start": 0,
+          "username": "boomer_Yang"
+        },
+        {
+          "end": 27,
+          "id": "2888263328",
+          "start": 13,
+          "username": "Sino_Research"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036438609625272806",
+    "in_reply_to_user_id": "985779789213691904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036434559089385690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boomer_Yang @Sino_Research 现在学医牢成啥了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2036425449686049143",
+        "created_at": "2026-03-24T13:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036438609625272806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "985779789213691904",
+              "start": 0,
+              "username": "boomer_Yang"
+            },
+            {
+              "end": 27,
+              "id": "2888263328",
+              "start": 13,
+              "username": "Sino_Research"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036438609625272806",
+        "in_reply_to_user_id": "985779789213691904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036434559089385690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boomer_Yang @Sino_Research 现在学医牢成啥了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "985779789213691904",
+        "conversation_id": "2036425449686049143",
+        "created_at": "2026-03-24T13:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036434559089385690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2888263328",
+              "start": 0,
+              "username": "Sino_Research"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036434559089385690",
+        "in_reply_to_user_id": "2888263328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 837,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036425449686049143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sino_Research 其实还有一个人，可能比较小众，医学考研党都知道，刘不言。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 110,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 230
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-16T07:19:51.000Z",
+        "description": "",
+        "id": "985779789213691904",
+        "name": "那不是雪花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020732268936151042/D_tCINIK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 122,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 151
+        },
+        "username": "boomer_Yang",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-03T07:48:37.000Z",
+        "description": "中国人研究院院长兼任中国人第二偶像，p.s 中国人第一偶像毛泽东。",
+        "id": "2888263328",
+        "location": "Tokyo-to, Japan",
+        "name": "中国人研究院",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987202993616228352/OHaF1qWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55013,
+          "following_count": 207,
+          "like_count": 10944,
+          "listed_count": 201,
+          "media_count": 630,
+          "tweet_count": 7420
+        },
+        "username": "Sino_Research",
+        "verified": true
+      }
+    ]
+  }
+}

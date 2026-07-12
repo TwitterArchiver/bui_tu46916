@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2038533477625393376",
+    "created_at": "2026-03-30T13:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038608647446728954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1295507211599278081",
+          "start": 0,
+          "username": "w123456wbw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038608647446728954",
+    "in_reply_to_user_id": "1295507211599278081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038606739936096762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w123456wbw 因为本科包含211"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2038533477625393376",
+        "created_at": "2026-03-30T13:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038608647446728954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1295507211599278081",
+              "start": 0,
+              "username": "w123456wbw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038608647446728954",
+        "in_reply_to_user_id": "1295507211599278081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038606739936096762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w123456wbw 因为本科包含211"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1295507211599278081",
+        "conversation_id": "2038533477625393376",
+        "created_at": "2026-03-30T13:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038606739936096762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038606739936096762",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038533477625393376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 怎么没有211选项😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2037056043453432137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 143,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 321
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-17T23:46:16.000Z",
+        "description": "寻找同类雷达滴滴滴。。。坐标大连某211｜电子信息工程系｜高频率刷推⚡｜180/75 ｜ GPA3.90 ｜MDD服药ing。。。",
+        "id": "1295507211599278081",
+        "location": "你心里🩵",
+        "name": "AZURE 🩷（邪恶版",
+        "pinned_tweet_id": "2026993947814609204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037483446336176128/KbAyqH55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 522,
+          "like_count": 11239,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 790
+        },
+        "username": "w123456wbw",
+        "verified": false
+      }
+    ]
+  }
+}

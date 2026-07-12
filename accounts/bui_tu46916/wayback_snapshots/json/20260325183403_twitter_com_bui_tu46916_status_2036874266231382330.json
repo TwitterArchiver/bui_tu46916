@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2036874266231382330",
+    "created_at": "2026-03-25T18:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T19:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036874266231382330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hanji949540/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/hanji949540/status/2036873682862432533",
+          "start": 9,
+          "url": "https://t.co/YgCQf23fGO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036874266231382330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036873682862432533",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请帮帮我的好朋友 https://t.co/YgCQf23fGO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2036873669369380864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HERtz3sbwAAL3dp.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2036874266231382330",
+        "created_at": "2026-03-25T18:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T19:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036874266231382330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hanji949540/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/hanji949540/status/2036873682862432533",
+              "start": 9,
+              "url": "https://t.co/YgCQf23fGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036874266231382330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036873682862432533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请帮帮我的好朋友 https://t.co/YgCQf23fGO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036873669369380864"
+          ]
+        },
+        "author_id": "1769077710637375488",
+        "conversation_id": "2036873682862432533",
+        "created_at": "2026-03-25T18:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T19:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036873682862432533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8AOxq2sgV3",
+              "end": 47,
+              "expanded_url": "https://x.com/hanji949540/status/2036873682862432533/photo/1",
+              "media_key": "3_2036873669369380864",
+              "start": 24,
+              "url": "https://t.co/8AOxq2sgV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036873682862432533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "跟傻逼家长闹掰了。有没有人能打点钱让我渡难关🥹 https://t.co/8AOxq2sgV3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 118,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 252
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:06:21.000Z",
+        "description": "",
+        "id": "1769077710637375488",
+        "name": "kanaiilq",
+        "pinned_tweet_id": "2036873682862432533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009685139513573377/zG1-j_tN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 306,
+          "like_count": 1259,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 965
+        },
+        "username": "hanji949540",
+        "verified": false
+      }
+    ]
+  }
+}

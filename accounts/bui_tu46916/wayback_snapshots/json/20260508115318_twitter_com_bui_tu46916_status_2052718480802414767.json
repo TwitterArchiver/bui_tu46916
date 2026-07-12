@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052716598818226176"
+      ],
+      "media_source_tweet_id": [
+        "2052716614383284483"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2052718480802414767",
+    "created_at": "2026-05-08T11:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052718480802414767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1775522951749591040",
+          "start": 3,
+          "username": "binbin77930833"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1N9MMNG15i",
+          "end": 85,
+          "expanded_url": "https://x.com/binbin77930833/status/2052716614383284483/photo/1",
+          "media_key": "3_2052716598818226176",
+          "start": 62,
+          "url": "https://t.co/1N9MMNG15i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052718480802414767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052716614383284483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @binbin77930833: 有没有江苏省的 4i顺女 能接受3人 要求（纯m向xp猎奇的小药娘）如果想请联系: https://t.co/1N9MMNG15i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052716598818226176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHy23vEbwAABm15.jpg",
+        "width": 565
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052716598818226176"
+          ],
+          "media_source_tweet_id": [
+            "2052716614383284483"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2052718480802414767",
+        "created_at": "2026-05-08T11:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052718480802414767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1775522951749591040",
+              "start": 3,
+              "username": "binbin77930833"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1N9MMNG15i",
+              "end": 85,
+              "expanded_url": "https://x.com/binbin77930833/status/2052716614383284483/photo/1",
+              "media_key": "3_2052716598818226176",
+              "start": 62,
+              "url": "https://t.co/1N9MMNG15i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052718480802414767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052716614383284483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @binbin77930833: 有没有江苏省的 4i顺女 能接受3人 要求（纯m向xp猎奇的小药娘）如果想请联系: https://t.co/1N9MMNG15i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052716598818226176"
+          ]
+        },
+        "author_id": "1775522951749591040",
+        "conversation_id": "2052716614383284483",
+        "created_at": "2026-05-08T11:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052716614383284483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1N9MMNG15i",
+              "end": 65,
+              "expanded_url": "https://x.com/binbin77930833/status/2052716614383284483/photo/1",
+              "media_key": "3_2052716598818226176",
+              "start": 42,
+              "url": "https://t.co/1N9MMNG15i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052716614383284483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有没有江苏省的 4i顺女 能接受3人 要求（纯m向xp猎奇的小药娘）如果想请联系: https://t.co/1N9MMNG15i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "你好/不见证/可能od/观察者",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 213,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 604
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "pinned_tweet_id": "2049463049023861091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 314,
+          "like_count": 1172,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 473
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      }
+    ]
+  }
+}

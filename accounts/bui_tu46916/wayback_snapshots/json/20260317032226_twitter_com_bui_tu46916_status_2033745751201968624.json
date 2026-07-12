@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2033743502321057956",
+    "created_at": "2026-03-17T03:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T04:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033745751201968624"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033745751201968624",
+    "in_reply_to_user_id": "2029908828125548546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033743502321057956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然后是犯下愤怒之罪的晚安\n因为隔壁桌右美沙芬领先过神就跟人家打架，药效排名榜有人提到神的名字就跟人家打架，药效排名榜有人提到神的名字就怒气冲冲地打出自己的药效，违背了神在《o约》中的一句话：“我觉得滥用药物就是要副作用小吧。”于是神降下了他的惩罚，晚安后宫起火，许多人因他剧烈蹦极，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2033743502321057956",
+        "created_at": "2026-03-17T03:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033745751201968624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033745751201968624",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033743502321057956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后是犯下愤怒之罪的晚安\n因为隔壁桌右美沙芬领先过神就跟人家打架，药效排名榜有人提到神的名字就跟人家打架，药效排名榜有人提到神的名字就怒气冲冲地打出自己的药效，违背了神在《o约》中的一句话：“我觉得滥用药物就是要副作用小吧。”于是神降下了他的惩罚，晚安后宫起火，许多人因他剧烈蹦极，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2033743502321057956",
+        "created_at": "2026-03-17T03:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033743502321057956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033743502321057956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林为什么是神？在谈论这个问题之前，我想先说说其他药相较于普瑞巴林究竟差在了哪里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 81,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 119
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

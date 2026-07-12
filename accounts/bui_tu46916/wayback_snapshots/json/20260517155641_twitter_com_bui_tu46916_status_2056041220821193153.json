@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2056041220821193153",
+    "created_at": "2026-05-17T15:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056041220821193153"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056041220821193153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们来玩个游戏\n\n规则是呼吸\n\n我会让你在安全时闪回\n\n体验童年的恐惧、羞耻与窒息开启永恒的高度警觉\n\n在爱里看到背叛，在关心中看到控制无法信任世界，无法感受自己\n\n在渴望联结与厌恶靠近中\n\n永无止境地撕裂\n\n这游戏，一生有效\n\n怎么样，好玩吧?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2056041220821193153",
+        "created_at": "2026-05-17T15:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056041220821193153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056041220821193153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们来玩个游戏\n\n规则是呼吸\n\n我会让你在安全时闪回\n\n体验童年的恐惧、羞耻与窒息开启永恒的高度警觉\n\n在爱里看到背叛，在关心中看到控制无法信任世界，无法感受自己\n\n在渴望联结与厌恶靠近中\n\n永无止境地撕裂\n\n这游戏，一生有效\n\n怎么样，好玩吧?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜见证勿扰｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 211,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 622
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

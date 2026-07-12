@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2040499051863716197",
+    "created_at": "2026-04-05T17:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T18:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040841451765211315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1236967080773091328",
+          "start": 0,
+          "username": "Merimonemu"
+        },
+        {
+          "end": 26,
+          "id": "1518404201168007168",
+          "start": 12,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040841451765211315",
+    "in_reply_to_user_id": "1236967080773091328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040733299530924132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Merimonemu @godspeedyou50 感觉是没米导致的，NPC复用三次我是真的绷不住，肉眼可见的廉价，但鉴于是原作者写的剧本，将就看吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2040499051863716197",
+        "created_at": "2026-04-05T17:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040841451765211315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1236967080773091328",
+              "start": 0,
+              "username": "Merimonemu"
+            },
+            {
+              "end": 26,
+              "id": "1518404201168007168",
+              "start": 12,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040841451765211315",
+        "in_reply_to_user_id": "1236967080773091328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040733299530924132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Merimonemu @godspeedyou50 感觉是没米导致的，NPC复用三次我是真的绷不住，肉眼可见的廉价，但鉴于是原作者写的剧本，将就看吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236967080773091328",
+        "conversation_id": "2040499051863716197",
+        "created_at": "2026-04-05T10:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T11:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040733299530924132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040733299530924132",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 503,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040499051863716197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 这个番给人的感觉就是想要搞意识流那一套，结果高估自己水平，根本达不到那种境界，只能硬着头皮借着这个IP犯一堆文青病，生搬硬套一堆够使，试图榨干这个IP最后一点价值"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2037056043453432137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 162,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 421
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-09T10:48:47.000Z",
+        "description": "♻︎喜欢meme图以及点抽象◈🤝 友一切群体的非魔怔人 ◈ 🙋‍♂️欢迎互相Follow ◈⚠️非必要场合拒绝直球键政",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep35619",
+                "end": 23,
+                "expanded_url": "http://b23.tv/ep35619",
+                "start": 0,
+                "url": "https://t.co/zpgjvgUBw1"
+              }
+            ]
+          }
+        },
+        "id": "1236967080773091328",
+        "location": "07|He/Him|INFP|🇨🇳|简中/ENUS",
+        "name": "メリも眠🐑",
+        "pinned_tweet_id": "2013674961211183357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035395993056018432/shj61e5l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 87,
+          "like_count": 10213,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1369
+        },
+        "url": "https://t.co/zpgjvgUBw1",
+        "username": "Merimonemu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/双相I型/欢迎提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 198,
+          "like_count": 861,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2105
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

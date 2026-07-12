@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2044435344683401268",
+    "created_at": "2026-04-15T15:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T16:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044435344683401268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yangguangbaike…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/yangguangbaike/status/2044393219639889936",
+          "start": 31,
+          "url": "https://t.co/cjPS4h3DoH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044435344683401268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044393219639889936",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你会在哪里干鸡妈？\nA鸡哥卧室\nB厕所\nC鸡母家\nD鸡爸坟前 https://t.co/cjPS4h3DoH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2055,
+        "media_key": "3_2044393206650200064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8kyi-bYAAIqMP.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2044435344683401268",
+        "created_at": "2026-04-15T15:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044435344683401268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangguangbaike…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/yangguangbaike/status/2044393219639889936",
+              "start": 31,
+              "url": "https://t.co/cjPS4h3DoH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044435344683401268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044393219639889936",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你会在哪里干鸡妈？\nA鸡哥卧室\nB厕所\nC鸡母家\nD鸡爸坟前 https://t.co/cjPS4h3DoH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044393206650200064"
+          ]
+        },
+        "author_id": "1920438574715154432",
+        "conversation_id": "2044393219639889936",
+        "created_at": "2026-04-15T12:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044393219639889936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nemc7Jue80",
+              "end": 29,
+              "expanded_url": "https://x.com/xiangyangbmxi/status/2044393219639889936/photo/1",
+              "media_key": "3_2044393206650200064",
+              "start": 6,
+              "url": "https://t.co/nemc7Jue80"
+            },
+            {
+              "display_url": "x.com/yumeng0721/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/yumeng0721/status/2043905280967397423",
+              "start": 30,
+              "url": "https://t.co/Xun49jckra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044393219639889936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 388,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043905280967397423",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家加一下 https://t.co/nemc7Jue80 https://t.co/Xun49jckra"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 193,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 545
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T11:20:19.000Z",
+        "description": "TG交流群：https://t.co/Q0S9z9tNVv\nDC交流群：https://t.co/HId4n2CV2B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/weizhanersheng…",
+                "end": 29,
+                "expanded_url": "https://t.me/weizhanersheng666",
+                "start": 6,
+                "url": "https://t.co/Q0S9z9tNVv"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 59,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 36,
+                "url": "https://t.co/HId4n2CV2B"
+              }
+            ]
+          }
+        },
+        "id": "1920438574715154432",
+        "name": "拥抱阳光百科",
+        "pinned_tweet_id": "2044019557678100510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036726953869549568/CsU2778i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 384,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 207
+        },
+        "username": "yangguangbaike",
+        "verified": false
+      }
+    ]
+  }
+}

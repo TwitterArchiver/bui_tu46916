@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040730045174644736"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2040730048542691565",
+    "created_at": "2026-04-05T09:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T10:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040730048542691565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dbjGTo24v4",
+          "end": 35,
+          "expanded_url": "https://x.com/bui_tu46916/status/2040730048542691565/photo/1",
+          "media_key": "3_2040730045174644736",
+          "start": 12,
+          "url": "https://t.co/dbjGTo24v4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040730048542691565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇这东西画的好有立体感 https://t.co/dbjGTo24v4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 977,
+        "media_key": "3_2040730045174644736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFIhKfEaAAAUikL.jpg",
+        "width": 1277
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040730045174644736"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2040730048542691565",
+        "created_at": "2026-04-05T09:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040730048542691565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dbjGTo24v4",
+              "end": 35,
+              "expanded_url": "https://x.com/bui_tu46916/status/2040730048542691565/photo/1",
+              "media_key": "3_2040730045174644736",
+              "start": 12,
+              "url": "https://t.co/dbjGTo24v4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040730048542691565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇这东西画的好有立体感 https://t.co/dbjGTo24v4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2037056043453432137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040607813534416897/RnxtGyCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 162,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 415
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

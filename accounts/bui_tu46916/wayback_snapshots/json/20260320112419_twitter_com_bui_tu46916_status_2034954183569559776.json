@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2034864065236046275",
+    "created_at": "2026-03-20T11:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T12:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034954183569559776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1693873810469199872",
+          "start": 0,
+          "username": "eve_city"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034954183569559776",
+    "in_reply_to_user_id": "1693873810469199872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034864065236046275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eve_city 大战场和摸金都能玩的地图"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1308,
+        "media_key": "3_2034864057849884672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD1KFFZaMAAiKAL.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2034864065236046275",
+        "created_at": "2026-03-20T11:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T12:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034954183569559776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1693873810469199872",
+              "start": 0,
+              "username": "eve_city"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034954183569559776",
+        "in_reply_to_user_id": "1693873810469199872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034864065236046275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eve_city 大战场和摸金都能玩的地图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034864057849884672"
+          ]
+        },
+        "author_id": "1693873810469199872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034864065236046275",
+        "created_at": "2026-03-20T05:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T06:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034864065236046275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rE8DOzgmkZ",
+              "end": 32,
+              "expanded_url": "https://x.com/eve_city/status/2034864065236046275/photo/1",
+              "media_key": "3_2034864057849884672",
+              "start": 9,
+              "url": "https://t.co/rE8DOzgmkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034864065236046275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6194,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "三角洲新地图爆料 https://t.co/rE8DOzgmkZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 94,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 186
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T06:32:52.000Z",
+        "description": "HRT 2024.3.4 / 07年 高二在读 成都📖 / 1056540854🐧 /  喜欢音游 MC 轨交🐱 / 最可爱的猫猫🐈 @Jin_Ge233 @TianshaYS / 最可爱的月月🌕@Dymoons_tis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "Jin_Ge233"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "TianshaYS"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "Dymoons_tis"
+              }
+            ]
+          }
+        },
+        "id": "1693873810469199872",
+        "location": "Estradiol Planet",
+        "name": "雨城EveCity🍥",
+        "pinned_tweet_id": "1992962235057205687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026701321991229440/MAy0wQpA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6290,
+          "following_count": 988,
+          "like_count": 26225,
+          "listed_count": 9,
+          "media_count": 410,
+          "tweet_count": 6508
+        },
+        "username": "eve_city",
+        "verified": false
+      }
+    ]
+  }
+}

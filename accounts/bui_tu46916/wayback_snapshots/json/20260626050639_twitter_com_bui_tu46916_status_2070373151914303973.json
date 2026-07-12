@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2070373151914303973",
+    "created_at": "2026-06-26T05:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T06:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070373151914303973"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070373151914303973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "垃圾学校特点\n1老师不管事，学生被欺负也是小事化无大事化小\n2同学以嘲笑弱者取外号为乐，告家长书收上去立马家长名字被所有人所熟知\n3教的知识完全没有深度，教师也是混日子\n4学校偏僻，非市区或校舍年久失修没有新校区\n5有教官常住\n适用于，初中，高中职高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2070373151914303973",
+        "created_at": "2026-06-26T05:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070373151914303973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070373151914303973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "垃圾学校特点\n1老师不管事，学生被欺负也是小事化无大事化小\n2同学以嘲笑弱者取外号为乐，告家长书收上去立马家长名字被所有人所熟知\n3教的知识完全没有深度，教师也是混日子\n4学校偏僻，非市区或校舍年久失修没有新校区\n5有教官常住\n适用于，初中，高中职高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2068045440227151994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 254,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 766
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

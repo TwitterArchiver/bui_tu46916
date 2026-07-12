@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2037538136150933838",
+    "created_at": "2026-03-29T10:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T11:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038206415874281614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        },
+        {
+          "end": 26,
+          "id": "1621496530728529921",
+          "start": 16,
+          "username": "_bigfrog_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038206415874281614",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037538136150933838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele @_bigfrog_ 李畜这是想把画师往死里整，本来大人物不想管的，这一下给画师号都注销了"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [_bigfrog_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "_bigfrog_",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "_bigfrog_"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2037485345588105216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaaIHLX0AAOK4Y.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1410,
+        "media_key": "3_2037485360066752512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaaI9HWcAATL9g.jpg",
+        "width": 324
+      },
+      {
+        "height": 576,
+        "media_key": "3_2037485371286761472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaaJm6aMAAmkls.png",
+        "width": 255
+      },
+      {
+        "height": 926,
+        "media_key": "3_2037485389418500096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaaKqdWkAAxl_R.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2037538136150933838",
+        "created_at": "2026-03-29T10:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038206415874281614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 26,
+              "id": "1621496530728529921",
+              "start": 16,
+              "username": "_bigfrog_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038206415874281614",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037538136150933838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele @_bigfrog_ 李畜这是想把画师往死里整，本来大人物不想管的，这一下给画师号都注销了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037485345588105216",
+            "3_2037485360066752512",
+            "3_2037485371286761472",
+            "3_2037485389418500096"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2037538136150933838",
+        "created_at": "2026-03-27T14:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:40:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037525042888618464",
+          "2037538136150933838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 52,
+              "id": "1621496530728529921",
+              "start": 42,
+              "username": "_bigfrog_"
+            },
+            {
+              "end": 98,
+              "id": "1831519924352905216",
+              "start": 84,
+              "username": "ChinaMilBugle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fkPw0JUGAA",
+              "end": 166,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2037538136150933838/photo/1",
+              "media_key": "3_2037485345588105216",
+              "start": 143,
+              "url": "https://t.co/fkPw0JUGAA"
+            },
+            {
+              "display_url": "pic.x.com/fkPw0JUGAA",
+              "end": 166,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2037538136150933838/photo/1",
+              "media_key": "3_2037485360066752512",
+              "start": 143,
+              "url": "https://t.co/fkPw0JUGAA"
+            },
+            {
+              "display_url": "pic.x.com/fkPw0JUGAA",
+              "end": 166,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2037538136150933838/photo/1",
+              "media_key": "3_2037485371286761472",
+              "start": 143,
+              "url": "https://t.co/fkPw0JUGAA"
+            },
+            {
+              "display_url": "pic.x.com/fkPw0JUGAA",
+              "end": 166,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2037538136150933838/photo/1",
+              "media_key": "3_2037485389418500096",
+              "start": 143,
+              "url": "https://t.co/fkPw0JUGAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037538136150933838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 98,
+                "id": "1831519924352905216",
+                "start": 84,
+                "username": "ChinaMilBugle"
+              }
+            ]
+          },
+          "text": "网友投稿：“画师 被 中国官方海外军事账号 用AI抄袭后，维权惨被拉黑”\n画师七曜（@_bigfrog_）的原创插画作品，在未获任何授权的情况下，被中国官方海外军事账号@ChinaMilBugle 用于AI二次创作，将原作品形象丑化为带有日本元素的模样，并作为谴责日本罪行的内容发布。\n画师发现后，向在该账号评论区反映版权问题、提出维权诉求，结果被该账号直接拉黑。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 591,
+          "impression_count": 483208,
+          "like_count": 4615,
+          "quote_count": 91,
+          "reply_count": 195,
+          "retweet_count": 419
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿：“画师 被 中国官方海外军事账号 用AI抄袭后，维权惨被拉黑”\n画师七曜（@_bigfrog_）的原创插画作品，在未获任何授权的情况下，被中国官方海外军事账号@ChinaMilBugle 用于AI二次创作，将原作品形象丑化为带有日本元素的模样，并作为谴责日本罪行的内容发布。 https://t.co/fkPw0JUGAA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2037056043453432137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 131,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 294
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2034624681609933025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196391,
+          "following_count": 1028,
+          "like_count": 9352,
+          "listed_count": 8634,
+          "media_count": 44312,
+          "tweet_count": 51377
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

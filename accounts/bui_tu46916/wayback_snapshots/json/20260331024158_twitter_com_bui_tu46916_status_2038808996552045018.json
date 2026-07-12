@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2038533477625393376",
+    "created_at": "2026-03-31T02:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T03:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038808996552045018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1112738127087427584",
+          "start": 0,
+          "username": "KEwM6iwGoqwnGtw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038808996552045018",
+    "in_reply_to_user_id": "1112738127087427584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038807810428014750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KEwM6iwGoqwnGtw 评论区"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2038533477625393376",
+        "created_at": "2026-03-31T02:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038808996552045018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1112738127087427584",
+              "start": 0,
+              "username": "KEwM6iwGoqwnGtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038808996552045018",
+        "in_reply_to_user_id": "1112738127087427584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038807810428014750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KEwM6iwGoqwnGtw 评论区"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1112738127087427584",
+        "conversation_id": "2038533477625393376",
+        "created_at": "2026-03-31T02:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038807810428014750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038807810428014750",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038533477625393376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 ？不在里面怎么选"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2037056043453432137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 144,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 328
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-01T15:26:57.000Z",
+        "description": "已经到顶了",
+        "id": "1112738127087427584",
+        "location": "Toilet",
+        "name": "千早爱丽丝",
+        "pinned_tweet_id": "1963792790879654046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984135985710665729/Ej8EdEay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 741,
+          "like_count": 8759,
+          "listed_count": 8,
+          "media_count": 941,
+          "tweet_count": 16284
+        },
+        "username": "KEwM6iwGoqwnGtw",
+        "verified": false
+      }
+    ]
+  }
+}

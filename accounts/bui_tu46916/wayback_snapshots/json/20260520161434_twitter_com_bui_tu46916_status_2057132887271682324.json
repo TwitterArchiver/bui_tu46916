@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057132665908916224"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2057132887271682324",
+    "created_at": "2026-05-20T16:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057132887271682324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UdBAZkRhLM",
+          "end": 34,
+          "expanded_url": "https://x.com/bui_tu46916/status/2057132887271682324/video/1",
+          "media_key": "13_2057132665908916224",
+          "start": 11,
+          "url": "https://t.co/UdBAZkRhLM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057132887271682324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "究竟是药效还是爱呢？ https://t.co/UdBAZkRhLM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45000,
+        "height": 1080,
+        "media_key": "13_2057132665908916224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057132665908916224/img/iAgTihuR_A2et5R6.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057132665908916224/vid/avc1/480x270/qMs_IVv6xsNYBpE0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057132665908916224/vid/avc1/640x360/p0fxLuMAuuOGsTFG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057132665908916224/vid/avc1/1280x720/LXqEv2EnXKlB5AHG.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057132665908916224/pl/nbBX5Rh4uaLDPu28.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057132665908916224"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2057132887271682324",
+        "created_at": "2026-05-20T16:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057132887271682324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UdBAZkRhLM",
+              "end": 34,
+              "expanded_url": "https://x.com/bui_tu46916/status/2057132887271682324/video/1",
+              "media_key": "13_2057132665908916224",
+              "start": 11,
+              "url": "https://t.co/UdBAZkRhLM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057132887271682324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "究竟是药效还是爱呢？ https://t.co/UdBAZkRhLM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜见证勿扰｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 212,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 627
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

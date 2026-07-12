@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041098903857348608"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2041077777257173279",
+    "created_at": "2026-04-06T10:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T11:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041098906185130198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967962536000753666",
+          "start": 0,
+          "username": "FUHGRC8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p4KE3fdSlv",
+          "end": 45,
+          "expanded_url": "https://x.com/bui_tu46916/status/2041098906185130198/photo/1",
+          "media_key": "3_2041098903857348608",
+          "start": 22,
+          "url": "https://t.co/p4KE3fdSlv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041098906185130198",
+    "in_reply_to_user_id": "1967962536000753666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041077777257173279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FUHGRC8964 看到你头像有点南蚌 https://t.co/p4KE3fdSlv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_2041098903857348608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNwo4vbQAAyZ_Q.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041077773910089728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNda9jbIAAQddF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041098903857348608"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2041077777257173279",
+        "created_at": "2026-04-06T10:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041098906185130198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967962536000753666",
+              "start": 0,
+              "username": "FUHGRC8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p4KE3fdSlv",
+              "end": 45,
+              "expanded_url": "https://x.com/bui_tu46916/status/2041098906185130198/photo/1",
+              "media_key": "3_2041098903857348608",
+              "start": 22,
+              "url": "https://t.co/p4KE3fdSlv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041098906185130198",
+        "in_reply_to_user_id": "1967962536000753666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041077777257173279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FUHGRC8964 看到你头像有点南蚌 https://t.co/p4KE3fdSlv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041077773910089728"
+          ]
+        },
+        "author_id": "1967962536000753666",
+        "conversation_id": "2041077777257173279",
+        "created_at": "2026-04-06T08:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041077777257173279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BToy6Z3s7h",
+              "end": 67,
+              "expanded_url": "https://x.com/FUHGRC8964/status/2041077777257173279/photo/1",
+              "media_key": "3_2041077773910089728",
+              "start": 44,
+              "url": "https://t.co/BToy6Z3s7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041077777257173279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好這下震撼美味了但是吃完這盒我我就死了因為晶哥在天上失禁的看著我而且我沒錢了我自殺了。 https://t.co/BToy6Z3s7h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2039703724067782991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 165,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 428
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T14:43:37.000Z",
+        "description": "死藤水、庸醫／ftm04012010／躁鬱症／可能是odtwt,shtwt／碎碎念／這個傻逼換頭像名字很頻繁我錯了／嗯我不知道寫甚麼／",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cultsphil",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cultsphil",
+                "start": 0,
+                "url": "https://t.co/jBwePHUXbF"
+              }
+            ]
+          }
+        },
+        "id": "1967962536000753666",
+        "location": "迷拉星",
+        "name": "小人民大革命",
+        "pinned_tweet_id": "2035007617672888499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041007945073504256/HEwSaB1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 99,
+          "like_count": 64081,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2762
+        },
+        "url": "https://t.co/jBwePHUXbF",
+        "username": "FUHGRC8964",
+        "verified": false
+      }
+    ]
+  }
+}

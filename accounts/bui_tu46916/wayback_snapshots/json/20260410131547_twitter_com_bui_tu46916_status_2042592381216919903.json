@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2042568095701832111",
+    "created_at": "2026-04-10T13:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T14:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042592381216919903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040970554635931648",
+          "start": 0,
+          "username": "MercyForerverU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042592381216919903",
+    "in_reply_to_user_id": "2040970554635931648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042588167040331815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MercyForerverU 没有啊，这是感叹词，你很好啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2042588167040331815].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2042588167040331815",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2042588167040331815"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2042568095701832111",
+        "created_at": "2026-04-10T13:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042592381216919903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040970554635931648",
+              "start": 0,
+              "username": "MercyForerverU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042592381216919903",
+        "in_reply_to_user_id": "2040970554635931648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042588167040331815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MercyForerverU 没有啊，这是感叹词，你很好啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 177,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 485
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T01:51:40.000Z",
+        "description": "我...也许永远在你身边。\nHer/She,BD/DPDR\nMTX，希望大家喜欢；💊#Drugtwt/#shtwt\n就说这么多吧....欢迎私信了解更多关于我。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "Drugtwt"
+              },
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o1",
+                "start": 0,
+                "url": "https://t.co/Ry4ztU7893"
+              }
+            ]
+          }
+        },
+        "id": "2040970554635931648",
+        "location": "ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "2042111686975623246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042130236528361472/DoFAj1dM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 105,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 114
+        },
+        "url": "https://t.co/Ry4ztU7893",
+        "username": "MercyForerverU",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2060792407898353956",
+    "created_at": "2026-05-30T18:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060792407898353956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Maedarikuonly1…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/Maedarikuonly1/status/2060018224419266669",
+          "start": 106,
+          "url": "https://t.co/bYXf4kib1R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060792407898353956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060018224419266669",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "o不扩散不早已经是24年就已经毫无用处的东西了吗，现在的小资力甚至都不知道还有这回事，在抖音小众比的侵袭和墙内诸如冷却报告之类的up科普加上如广东禁毒的稳定更新之下OD早已不是以前那个连搜都不一定有结果的存在了 https://t.co/bYXf4kib1R"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2060792407898353956",
+        "created_at": "2026-05-30T18:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060792407898353956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Maedarikuonly1…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/Maedarikuonly1/status/2060018224419266669",
+              "start": 106,
+              "url": "https://t.co/bYXf4kib1R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060792407898353956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060018224419266669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "o不扩散不早已经是24年就已经毫无用处的东西了吗，现在的小资力甚至都不知道还有这回事，在抖音小众比的侵袭和墙内诸如冷却报告之类的up科普加上如广东禁毒的稳定更新之下OD早已不是以前那个连搜都不一定有结果的存在了 https://t.co/bYXf4kib1R"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675444856288870401",
+        "conversation_id": "2060018224419266669",
+        "created_at": "2026-05-28T15:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060018224419266669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060018224419266669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7182,
+          "like_count": 137,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "现在od圈o不扩散真的防不住了，什么都不懂的群体是感康的消费第一动力，这类药物害人太深了，广州禁毒的视频当成热流吸引更多人关注，一大波未成年涌入推特，主页写的13年吓死我了，与其让他们跟风吃傻逼药还不如好好给他们科普什么能吃什么不能（叠甲 我没有引导他们去磕的意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜见证勿扰｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2047942018316517861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 218,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 676
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T10:02:43.000Z",
+        "description": "爱着沃尔玛塑料袋，备孕中。少管我是谁，认识我的肯定认得出来。想fo就fo，我不会无缘由取关任何人。最喜欢的运动是左脑揍右脑，右脑再打回来，谁也不吃亏。",
+        "id": "1675444856288870401",
+        "location": "Украина",
+        "name": "Она не хочет умирать🍀",
+        "pinned_tweet_id": "1982503111794250042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986111679604903936/qclllEvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 90,
+          "like_count": 2255,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 676
+        },
+        "username": "Maedarikuonly1",
+        "verified": false
+      }
+    ]
+  }
+}

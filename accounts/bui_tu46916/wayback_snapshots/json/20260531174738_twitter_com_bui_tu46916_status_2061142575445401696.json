@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061142567778205696",
+        "3_2061142572442259456",
+        "3_2061142568528908288"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2061142575445401696",
+    "created_at": "2026-05-31T17:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061142575445401696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xfoyG1rczO",
+          "end": 48,
+          "expanded_url": "https://x.com/bui_tu46916/status/2061142575445401696/photo/1",
+          "media_key": "3_2061142567778205696",
+          "start": 25,
+          "url": "https://t.co/xfoyG1rczO"
+        },
+        {
+          "display_url": "pic.x.com/xfoyG1rczO",
+          "end": 48,
+          "expanded_url": "https://x.com/bui_tu46916/status/2061142575445401696/photo/1",
+          "media_key": "3_2061142572442259456",
+          "start": 25,
+          "url": "https://t.co/xfoyG1rczO"
+        },
+        {
+          "display_url": "pic.x.com/xfoyG1rczO",
+          "end": 48,
+          "expanded_url": "https://x.com/bui_tu46916/status/2061142575445401696/photo/1",
+          "media_key": "3_2061142568528908288",
+          "start": 25,
+          "url": "https://t.co/xfoyG1rczO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061142575445401696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "墙外药圈神人多，墙内药圈神人神\n横批：权斗部诗人 https://t.co/xfoyG1rczO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2124,
+        "media_key": "3_2061142567778205696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqmPrfbQAAxa-K.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1226,
+        "media_key": "3_2061142572442259456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqmP83bEAAe-5D.jpg",
+        "width": 575
+      },
+      {
+        "height": 1439,
+        "media_key": "3_2061142568528908288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqmPuSaEAAhem6.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061142567778205696",
+            "3_2061142572442259456",
+            "3_2061142568528908288"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2061142575445401696",
+        "created_at": "2026-05-31T17:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061142575445401696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xfoyG1rczO",
+              "end": 48,
+              "expanded_url": "https://x.com/bui_tu46916/status/2061142575445401696/photo/1",
+              "media_key": "3_2061142567778205696",
+              "start": 25,
+              "url": "https://t.co/xfoyG1rczO"
+            },
+            {
+              "display_url": "pic.x.com/xfoyG1rczO",
+              "end": 48,
+              "expanded_url": "https://x.com/bui_tu46916/status/2061142575445401696/photo/1",
+              "media_key": "3_2061142572442259456",
+              "start": 25,
+              "url": "https://t.co/xfoyG1rczO"
+            },
+            {
+              "display_url": "pic.x.com/xfoyG1rczO",
+              "end": 48,
+              "expanded_url": "https://x.com/bui_tu46916/status/2061142575445401696/photo/1",
+              "media_key": "3_2061142568528908288",
+              "start": 25,
+              "url": "https://t.co/xfoyG1rczO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061142575445401696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墙外药圈神人多，墙内药圈神人神\n横批：权斗部诗人 https://t.co/xfoyG1rczO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜见证勿扰｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2047942018316517861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 218,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 687
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2059097909749227764",
+    "created_at": "2026-05-26T03:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T04:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059112694536667289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750684739441446912",
+          "start": 0,
+          "username": "wngy189327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059112694536667289",
+    "in_reply_to_user_id": "1750684739441446912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059097909749227764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngy189327 一眼假"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059097907186511872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNioxOaMAAu10_.jpg",
+        "width": 949
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2059097909749227764",
+        "created_at": "2026-05-26T03:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059112694536667289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750684739441446912",
+              "start": 0,
+              "username": "wngy189327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059112694536667289",
+        "in_reply_to_user_id": "1750684739441446912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059097909749227764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngy189327 一眼假"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059097907186511872"
+          ]
+        },
+        "author_id": "1750684739441446912",
+        "conversation_id": "2059097909749227764",
+        "created_at": "2026-05-26T02:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059097909749227764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rvfk5ds1Ni",
+              "end": 64,
+              "expanded_url": "https://x.com/wngy189327/status/2059097909749227764/photo/1",
+              "media_key": "3_2059097907186511872",
+              "start": 41,
+              "url": "https://t.co/rvfk5ds1Ni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059097909749227764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个是真的假的？右美沙芬和普瑞巴林买不到了，试试替来他明怎么样？目前还没有列管。 https://t.co/rvfk5ds1Ni"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜见证勿扰｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 214,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 645
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T00:59:19.000Z",
+        "description": "mtf\n2010年5月4日生日\n15岁的xyn\n1米8\n141斤\n1000度近视\n陆续含糖",
+        "id": "1750684739441446912",
+        "name": "核弹 🍥",
+        "pinned_tweet_id": "2041862853091864617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970280968453050368/psYA8YL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 844,
+          "like_count": 9906,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 1484
+        },
+        "username": "wngy189327",
+        "verified": false
+      }
+    ]
+  }
+}

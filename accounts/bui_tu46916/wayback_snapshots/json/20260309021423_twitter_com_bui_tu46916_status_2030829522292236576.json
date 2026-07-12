@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030538172162359296"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2030829522292236576",
+    "created_at": "2026-03-09T02:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T03:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030829522292236576"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hqAhTH6flJ",
+          "end": 136,
+          "expanded_url": "https://x.com/bui_tu46916/status/2030829522292236576/photo/1",
+          "media_key": "3_2030538172162359296",
+          "start": 113,
+          "url": "https://t.co/hqAhTH6flJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030829522292236576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在派出所尿检板就查4个，1冰2吗啡3氯胺酮4右美沙芬，至于我怎么知道的，因为我进去过，不确定以后会不会加其他的，反正冰阳了说吃了司来吉兰，吗啡阳了说吃了复方甘草片，氯胺酮阳了说自己有抑郁症，右美沙芬阳了说自己感冒吃了玉米片 https://t.co/hqAhTH6flJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2030538172162359296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3rtZabwAArxOq.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030538172162359296"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2030829522292236576",
+        "created_at": "2026-03-09T02:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T03:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030829522292236576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hqAhTH6flJ",
+              "end": 136,
+              "expanded_url": "https://x.com/bui_tu46916/status/2030829522292236576/photo/1",
+              "media_key": "3_2030538172162359296",
+              "start": 113,
+              "url": "https://t.co/hqAhTH6flJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030829522292236576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在派出所尿检板就查4个，1冰2吗啡3氯胺酮4右美沙芬，至于我怎么知道的，因为我进去过，不确定以后会不会加其他的，反正冰阳了说吃了司来吉兰，吗啡阳了说吃了复方甘草片，氯胺酮阳了说自己有抑郁症，右美沙芬阳了说自己感冒吃了玉米片 https://t.co/hqAhTH6flJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 40,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 33
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

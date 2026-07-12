@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2046256846093353159",
+    "created_at": "2026-04-21T09:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T10:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046521646132195620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1492852697896161280",
+          "start": 0,
+          "username": "X251489191"
+        },
+        {
+          "end": 27,
+          "id": "1557839863151337473",
+          "start": 12,
+          "username": "scutigera_kuma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046521646132195620",
+    "in_reply_to_user_id": "1492852697896161280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046444811306270861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X251489191 @scutigera_kuma 一会儿搞得所有💊限购就老实了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2046256846093353159",
+        "created_at": "2026-04-21T09:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046521646132195620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1492852697896161280",
+              "start": 0,
+              "username": "X251489191"
+            },
+            {
+              "end": 27,
+              "id": "1557839863151337473",
+              "start": 12,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046521646132195620",
+        "in_reply_to_user_id": "1492852697896161280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046444811306270861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X251489191 @scutigera_kuma 一会儿搞得所有💊限购就老实了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492852697896161280",
+        "conversation_id": "2046256846093353159",
+        "created_at": "2026-04-21T04:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046444811306270861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046444811306270861",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046256846093353159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma 还能发，一堆感康跟风狗，居然还有发布洛芬的就离谱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "你好",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 201,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 601
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T13:27:05.000Z",
+        "description": "",
+        "id": "1492852697896161280",
+        "name": "Saltice",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998454676447178752/zUhzvY5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 311,
+          "like_count": 8695,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 154
+        },
+        "username": "X251489191",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4752,
+          "following_count": 3486,
+          "like_count": 34206,
+          "listed_count": 6,
+          "media_count": 482,
+          "tweet_count": 9115
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

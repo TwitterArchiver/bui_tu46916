@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2033877232276672893",
+    "created_at": "2026-03-18T09:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T10:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034193517778809048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2029605557850755073",
+          "start": 0,
+          "username": "EmovOoooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034193517778809048",
+    "in_reply_to_user_id": "2029605557850755073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033877232276672893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmovOoooo 一般人享受不了，dpt试一次bad一次，dmt有春风前辈的栗子，估计只有混药圈老逼才会买吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2033877232276672893",
+        "created_at": "2026-03-18T09:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T10:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034193517778809048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2029605557850755073",
+              "start": 0,
+              "username": "EmovOoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034193517778809048",
+        "in_reply_to_user_id": "2029605557850755073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033877232276672893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmovOoooo 一般人享受不了，dpt试一次bad一次，dmt有春风前辈的栗子，估计只有混药圈老逼才会买吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029605557850755073",
+        "conversation_id": "2033877232276672893",
+        "created_at": "2026-03-17T12:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T13:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033877232276672893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033877232276672893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 762,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我一直在想色胺类药物这个肌肉注射市场真的很大吗，🤔手里有一批mitp和dbt dmt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 87,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 150
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T17:10:55.000Z",
+        "description": "od的神，n55的朋友，冰棍的策划药商，tyw的坚实后盾，励志成为简中跨圈最大化学商，有证持糖，生产日期2011年，10后励志还上家里所有贷款欠款的入，hrt 2/9/2022咨询请https://t.co/GxPcjxsK5C\n第一个唐毓文认可的五级社会危害跨",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/emovoooo",
+                "end": 114,
+                "expanded_url": "https://ngl.link/emovoooo",
+                "start": 91,
+                "url": "https://t.co/GxPcjxsK5C"
+              }
+            ]
+          }
+        },
+        "id": "2029605557850755073",
+        "name": "Emo🍥🏳️‍⚧️💊",
+        "pinned_tweet_id": "2033205290183897427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029605836990156800/04-xlRj8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 60,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 236
+        },
+        "username": "EmovOoooo",
+        "verified": false
+      }
+    ]
+  }
+}
