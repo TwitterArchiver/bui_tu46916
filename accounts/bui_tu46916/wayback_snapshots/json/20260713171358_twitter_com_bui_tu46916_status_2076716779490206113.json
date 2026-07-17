@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2076714033915613408",
+    "created_at": "2026-07-13T17:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T18:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076716779490206113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809500399394779143",
+          "start": 0,
+          "username": "QWQ_0312"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076716779490206113",
+    "in_reply_to_user_id": "1809500399394779143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076716384940356050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QWQ_0312 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2076714033915613408",
+        "created_at": "2026-07-13T17:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076716779490206113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809500399394779143",
+              "start": 0,
+              "username": "QWQ_0312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076716779490206113",
+        "in_reply_to_user_id": "1809500399394779143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076716384940356050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWQ_0312 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809500399394779143",
+        "conversation_id": "2076714033915613408",
+        "created_at": "2026-07-13T17:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076716384940356050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076716384940356050",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076714033915613408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 生日快乐德子🥰🥰🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+KZfLw5BnHHFlN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+KZfLw5BnHHFlNDAx",
+                "start": 0,
+                "url": "https://t.co/lOBvcBeApx"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076314885777129472/CJiIlAcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 281,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 860
+        },
+        "url": "https://t.co/lOBvcBeApx",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T08:11:49.000Z",
+        "description": "10.3.12|165 48|oder|摇滚|欢迎互fo",
+        "id": "1809500399394779143",
+        "name": "ramune-小波🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1955700739646365848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073383557423407104/_xXjOBeU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 322,
+          "like_count": 1564,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 734
+        },
+        "url": "",
+        "username": "QWQ_0312",
+        "verified": false
+      }
+    ]
+  }
+}

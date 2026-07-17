@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2076714033915613408",
+    "created_at": "2026-07-13T19:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T20:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076755548293443616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1717624548512714752",
+          "start": 0,
+          "username": "Patrycja030701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076755548293443616",
+    "in_reply_to_user_id": "1717624548512714752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076753266332029137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Patrycja030701 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2076714033915613408",
+        "created_at": "2026-07-13T19:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T20:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076755548293443616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717624548512714752",
+              "start": 0,
+              "username": "Patrycja030701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076755548293443616",
+        "in_reply_to_user_id": "1717624548512714752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076753266332029137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Patrycja030701 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717624548512714752",
+        "conversation_id": "2076714033915613408",
+        "created_at": "2026-07-13T19:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T20:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076753266332029137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076753266332029137",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076714033915613408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+KZfLw5BnHHFlN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+KZfLw5BnHHFlNDAx",
+                "start": 0,
+                "url": "https://t.co/lOBvcBeApx"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076314885777129472/CJiIlAcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 285,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 874
+        },
+        "url": "https://t.co/lOBvcBeApx",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T19:29:47.000Z",
+        "description": "原账号@AmorDesperatus｜持证MTF｜hrt开始于2025/12/5｜生产日期2006/9｜初中学历｜177cm/69kg｜现居地:China｜tg:https://t.co/sHOCxeU2Fg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "AmorDesperatus"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/NewLightAsia",
+                "end": 104,
+                "expanded_url": "http://t.me/NewLightAsia",
+                "start": 81,
+                "url": "https://t.co/sHOCxeU2Fg"
+              }
+            ]
+          }
+        },
+        "id": "1717624548512714752",
+        "location": "暗适应",
+        "name": "STAR LIGHT•暗适应🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074770455391805440/XQSG2Fkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 94,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 157
+        },
+        "url": "",
+        "username": "Patrycja030701",
+        "verified": false
+      }
+    ]
+  }
+}
