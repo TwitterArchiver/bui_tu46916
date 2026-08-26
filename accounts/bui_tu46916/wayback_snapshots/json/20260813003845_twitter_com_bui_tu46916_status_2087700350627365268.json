@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2087700350627365268",
+    "created_at": "2026-08-13T00:38:45.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T01:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087700350627365268"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087700350627365268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请选择你的势力：老广精度铁拳团，抖音感康地雷武装力量，OD shop联合阵线，原料革命兄弟会，大化学物质开源国"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2087700350627365268",
+        "created_at": "2026-08-13T00:38:45.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T01:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087700350627365268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087700350627365268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请选择你的势力：老广精度铁拳团，抖音感康地雷武装力量，OD shop联合阵线，原料革命兄弟会，大化学物质开源国"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "右美沙芬小道",
+        "most_recent_tweet_id": "2087700350627365268",
+        "name": "Exp cat",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 332,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1095
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

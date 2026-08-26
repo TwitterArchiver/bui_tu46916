@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2082802522293747911",
+    "created_at": "2026-07-30T12:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082809300951671008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973748660975587328",
+          "start": 0,
+          "username": "xmaa0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082809300951671008",
+    "in_reply_to_user_id": "1973748660975587328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082802522293747911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmaa0721 短期工都这样，工价低，休假少，上班多，都是奴隶活"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082802507789778944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeZ2H4aQAAuWlp.jpg",
+        "width": 992
+      },
+      {
+        "height": 1533,
+        "media_key": "3_2082802507701731328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeZ2HjawAAikmJ.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2082802522293747911",
+        "created_at": "2026-07-30T12:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082809300951671008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973748660975587328",
+              "start": 0,
+              "username": "xmaa0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082809300951671008",
+        "in_reply_to_user_id": "1973748660975587328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082802522293747911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmaa0721 短期工都这样，工价低，休假少，上班多，都是奴隶活"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082802507789778944",
+            "3_2082802507701731328"
+          ]
+        },
+        "author_id": "1973748660975587328",
+        "conversation_id": "2082802522293747911",
+        "created_at": "2026-07-30T12:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082802522293747911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OkQnBjR28X",
+              "end": 43,
+              "expanded_url": "https://x.com/xmaa0721/status/2082802522293747911/photo/1",
+              "media_key": "3_2082802507789778944",
+              "start": 20,
+              "url": "https://t.co/OkQnBjR28X"
+            },
+            {
+              "display_url": "pic.x.com/OkQnBjR28X",
+              "end": 43,
+              "expanded_url": "https://x.com/xmaa0721/status/2082802522293747911/photo/1",
+              "media_key": "3_2082802507701731328",
+              "start": 20,
+              "url": "https://t.co/OkQnBjR28X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082802522293747911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "18一个小时的时薪在广东算不算有点低？ https://t.co/OkQnBjR28X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 299,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 959
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T13:55:36.000Z",
+        "description": "合约炒币输5万，大学已退学，在东莞打工，准备参加2028年高考//QQ259756720、微信Anan3ww\n\n傻逼东西别开150倍杠杆乱搞，去死吧",
+        "id": "1973748660975587328",
+        "name": "夏目安安",
+        "pinned_tweet_id": "2082668022574277004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082691371920699392/981M_EkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 747,
+          "like_count": 5027,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 551
+        },
+        "url": "",
+        "username": "xmaa0721",
+        "verified": false
+      }
+    ]
+  }
+}

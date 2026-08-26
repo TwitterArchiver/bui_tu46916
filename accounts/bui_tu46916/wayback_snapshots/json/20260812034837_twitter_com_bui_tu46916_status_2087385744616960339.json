@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2086074779585650960",
+    "created_at": "2026-08-12T03:48:37.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T04:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087385744616960339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2055578305718583296",
+          "start": 0,
+          "username": "Su142148"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087385744616960339",
+    "in_reply_to_user_id": "2055578305718583296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087221614870249891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Su142148 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2086074779585650960",
+        "created_at": "2026-08-12T03:48:37.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T04:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087385744616960339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2055578305718583296",
+              "start": 0,
+              "username": "Su142148"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087385744616960339",
+        "in_reply_to_user_id": "2055578305718583296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087221614870249891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Su142148 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055578305718583296",
+        "conversation_id": "2086074779585650960",
+        "created_at": "2026-08-11T16:56:26.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087221614870249891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087221614870249891",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086074779585650960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 好神….好棒🥹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "右美沙芬小道",
+        "most_recent_tweet_id": "2087385744616960339",
+        "name": "Exp cat",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 329,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1085
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-16T09:19:26.000Z",
+        "description": "06/精神病/个人整合报告/日常分享\n友跨/无性别/oder",
+        "id": "2055578305718583296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087363254578454590",
+        "name": "去码头整点阿片",
+        "pinned_tweet_id": "2081231803915153840",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055578305718583296/1778923569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086854676012736512/2qkHWubI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 25,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "Su142148",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

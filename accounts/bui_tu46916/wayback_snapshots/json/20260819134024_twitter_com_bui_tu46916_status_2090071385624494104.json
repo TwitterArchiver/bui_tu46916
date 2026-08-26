@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2089646134822347044",
+    "created_at": "2026-08-19T13:40:24.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T14:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090071385624494104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1756513049488633856",
+          "start": 0,
+          "username": "yizhiyangguang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090071385624494104",
+    "in_reply_to_user_id": "1756513049488633856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090052846251077872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yizhiyangguang 妈妈🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2089646134822347044",
+        "created_at": "2026-08-19T13:40:24.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090071385624494104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1756513049488633856",
+              "start": 0,
+              "username": "yizhiyangguang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090071385624494104",
+        "in_reply_to_user_id": "1756513049488633856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090052846251077872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yizhiyangguang 妈妈🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756513049488633856",
+        "conversation_id": "2089646134822347044",
+        "created_at": "2026-08-19T12:26:44.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090052846251077872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090052846251077872",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089646134822347044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 焦耳巨大"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ \n情绪阴晴不定\n看情况回fo \n渴望成为健全比",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gYZzt0V9qtA5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gYZzt0V9qtA5NzBh",
+                "start": 0,
+                "url": "https://t.co/AGjSXP1Xx7"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "梦想的路上",
+        "most_recent_tweet_id": "2090071385624494104",
+        "name": "Exp cat",
+        "pinned_tweet_id": "2086846471576642007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 328,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1133
+        },
+        "url": "https://t.co/AGjSXP1Xx7",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-11T02:59:03.000Z",
+        "description": "叫我惠子咪/06出厂/玉玉症/炸柜/家暴党/intp-t/mtf/xyn/无证含糖/大学不在读/偶尔od\n\n这里只是发些碎碎念，随缘发\n\n对上我的电波就请fo我吧！",
+        "id": "1756513049488633856",
+        "is_identity_verified": false,
+        "location": "彩虹的女儿",
+        "most_recent_tweet_id": "2090052846251077872",
+        "name": "红枣味惠子🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756513049488633856/1780392710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061955030790369280/_ravmONh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 76,
+          "like_count": 1035,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 551
+        },
+        "url": "",
+        "username": "yizhiyangguang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

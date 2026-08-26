@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2087009671077093497",
+    "created_at": "2026-08-12T08:53:59.000Z",
+    "display_text_range": [
+      27,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T09:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087462589311967465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065149033379971072",
+          "start": 0,
+          "username": "Lomyral896444"
+        },
+        {
+          "end": 26,
+          "id": "1800728241025785856",
+          "start": 15,
+          "username": "ezaizi_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087462589311967465",
+    "in_reply_to_user_id": "2065149033379971072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087456507445342342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral896444 @ezaizi_ovo 阿片猫想你了😿🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2087009671077093497",
+        "created_at": "2026-08-12T08:53:59.000Z",
+        "display_text_range": [
+          27,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087462589311967465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065149033379971072",
+              "start": 0,
+              "username": "Lomyral896444"
+            },
+            {
+              "end": 26,
+              "id": "1800728241025785856",
+              "start": 15,
+              "username": "ezaizi_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087462589311967465",
+        "in_reply_to_user_id": "2065149033379971072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087456507445342342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral896444 @ezaizi_ovo 阿片猫想你了😿🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2087009671077093497",
+        "created_at": "2026-08-12T08:29:49.000Z",
+        "display_text_range": [
+          25,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087456507445342342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1800728241025785856",
+              "start": 0,
+              "username": "ezaizi_ovo"
+            },
+            {
+              "end": 24,
+              "id": "2029908828125548546",
+              "start": 12,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087456507445342342",
+        "in_reply_to_user_id": "1800728241025785856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087357751571931412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ezaizi_ovo @bui_tu46916 羡慕老资历(？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "右美沙芬小道",
+        "most_recent_tweet_id": "2087462589311967465",
+        "name": "Exp cat",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 331,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1087
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they(他/ta)|INTP/重抑中焦\n最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit\n碎碎念推，不吸毒|这里是四号机，互关寻回中，下面是匿名提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "TheB17w153"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "Zukawbit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-TW/lomyral",
+                "end": 23,
+                "expanded_url": "https://peing.net/zh-TW/lomyral",
+                "start": 0,
+                "url": "https://t.co/WpWmwWAsHM"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087457405613588838",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2070796191520952604",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065149033379971072/1781340520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 478,
+          "like_count": 4647,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1084
+        },
+        "url": "https://t.co/WpWmwWAsHM",
+        "username": "Lomyral896444",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-12T03:14:20.000Z",
+        "description": "鵝",
+        "id": "1800728241025785856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087357751571931412",
+        "name": "e.rar",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846542065905311744/kNYHVmu0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 44,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 556
+        },
+        "url": "",
+        "username": "ezaizi_ovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

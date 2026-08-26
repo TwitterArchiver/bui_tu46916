@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2081189443546095934",
+    "created_at": "2026-07-26T01:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T02:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081189443546095934"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081189443546095934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雌二醇是我这辈子用过最好的面膜、身体乳、爽肤水、面霜、祛痘精华、美白精华、控油精华、抗衰老精华、止汗剂、脂肪重分布药、脱毛药，以及无数可能太习惯了就没想出来的功能，总之这里站得下这么多护肤美容品。雌二醇是小虚空最好的医美。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2081189443546095934",
+        "created_at": "2026-07-26T01:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081189443546095934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081189443546095934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雌二醇是我这辈子用过最好的面膜、身体乳、爽肤水、面霜、祛痘精华、美白精华、控油精华、抗衰老精华、止汗剂、脂肪重分布药、脱毛药，以及无数可能太习惯了就没想出来的功能，总之这里站得下这么多护肤美容品。雌二醇是小虚空最好的医美。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "爱发OD内容 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 290,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 926
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

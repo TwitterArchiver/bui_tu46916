@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2081037740326732121",
+    "created_at": "2026-07-25T15:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081037740326732121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "You are invited to a group chat on Telegram. Click to",
+          "display_url": "t.me/+KZfLw5BnHHFlN…",
+          "end": 23,
+          "expanded_url": "https://t.me/+KZfLw5BnHHFlNDAx",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/2081037740771299329/rTQVH-aH?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2081037740771299329/rTQVH-aH?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Join group chat on Telegram",
+          "unwound_url": "https://t.me/+KZfLw5BnHHFlNDAx",
+          "url": "https://t.co/1T6F2ULrbm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081037740326732121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/1T6F2ULrbm\n贴个自家的群"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2081037740326732121",
+        "created_at": "2026-07-25T15:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081037740326732121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+KZfLw5BnHHFlN…",
+              "end": 23,
+              "expanded_url": "https://t.me/+KZfLw5BnHHFlNDAx",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2081037740771299329/rTQVH-aH?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2081037740771299329/rTQVH-aH?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+KZfLw5BnHHFlNDAx",
+              "url": "https://t.co/1T6F2ULrbm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081037740326732121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1T6F2ULrbm\n贴个自家的群"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "爱发OD内容 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 290,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 925
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2090077146073219533",
+    "created_at": "2026-08-20T07:08:30.000Z",
+    "display_text_range": [
+      28,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T08:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090335146084008169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1556279645502427136",
+          "start": 0,
+          "username": "tianxiao0502"
+        },
+        {
+          "end": 27,
+          "id": "1327197298930028544",
+          "start": 14,
+          "username": "Psydrugswiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090335146084008169",
+    "in_reply_to_user_id": "1556279645502427136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090077146073219533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianxiao0502 @Psydrugswiki 甜笑牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090077027575746560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFx-53bUAAhz7X.jpg",
+        "width": 1536
+      },
+      {
+        "height": 920,
+        "media_key": "3_2090077027571564544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFx-52bgAAvASI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090077027877707776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFx-6_a4AAui3Q.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2090077027869310976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFx-69awAA1eLG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2090077146073219533",
+        "created_at": "2026-08-20T07:08:30.000Z",
+        "display_text_range": [
+          28,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T08:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090335146084008169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1556279645502427136",
+              "start": 0,
+              "username": "tianxiao0502"
+            },
+            {
+              "end": 27,
+              "id": "1327197298930028544",
+              "start": 14,
+              "username": "Psydrugswiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090335146084008169",
+        "in_reply_to_user_id": "1556279645502427136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090077146073219533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianxiao0502 @Psydrugswiki 甜笑牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090077027575746560",
+            "3_2090077027571564544",
+            "3_2090077027877707776",
+            "3_2090077027869310976"
+          ]
+        },
+        "author_id": "1556279645502427136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1508516052753285122",
+              "name": "Mahjong Soul"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1508516052753285122",
+              "name": "Mahjong Soul"
+            }
+          }
+        ],
+        "conversation_id": "2090077146073219533",
+        "created_at": "2026-08-19T14:03:18.000Z",
+        "display_text_range": [
+          0,
+          174
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:02:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090077042889064591",
+          "2090077146073219533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 64,
+              "id": "1327197298930028544",
+              "start": 51,
+              "username": "Psydrugswiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gwvwa2zpqo",
+              "end": 198,
+              "expanded_url": "https://x.com/tianxiao0502/status/2090077146073219533/photo/1",
+              "media_key": "3_2090077027575746560",
+              "start": 175,
+              "url": "https://t.co/Gwvwa2zpqo"
+            },
+            {
+              "display_url": "pic.x.com/Gwvwa2zpqo",
+              "end": 198,
+              "expanded_url": "https://x.com/tianxiao0502/status/2090077146073219533/photo/1",
+              "media_key": "3_2090077027571564544",
+              "start": 175,
+              "url": "https://t.co/Gwvwa2zpqo"
+            },
+            {
+              "display_url": "pic.x.com/Gwvwa2zpqo",
+              "end": 198,
+              "expanded_url": "https://x.com/tianxiao0502/status/2090077146073219533/photo/1",
+              "media_key": "3_2090077027877707776",
+              "start": 175,
+              "url": "https://t.co/Gwvwa2zpqo"
+            },
+            {
+              "display_url": "pic.x.com/Gwvwa2zpqo",
+              "end": 198,
+              "expanded_url": "https://x.com/tianxiao0502/status/2090077146073219533/photo/1",
+              "media_key": "3_2090077027869310976",
+              "start": 175,
+              "url": "https://t.co/Gwvwa2zpqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090077146073219533",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090077027575746560"
+          },
+          {
+            "media_key": "3_2090077027571564544"
+          },
+          {
+            "media_key": "3_2090077027877707776"
+          },
+          {
+            "media_key": "3_2090077027869310976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 311,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "更新置顶\n我是天晓，psydrugswiki暂任wiki主，淡推偶尔上来看看/纷争别找我/。pdw官号@Psydrugswiki \nmaimai真极超将晓将桃极白极持有，小歌王但是大歌一点不会（泣\n其他音游很菜让让我。😭\n雀魂/邦多利/v+/jpop/drugs🉑我成分很杂。\n友lgbt友一切正常人。\n我adhd很严重容易忘记要干啥别骂我球球了。 https://t.co/Gwvwa2zpqo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ \n情绪阴晴不定\n看情况回fo \n渴望成为健全比",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gYZzt0V9qtA5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gYZzt0V9qtA5NzBh",
+                "start": 0,
+                "url": "https://t.co/AGjSXP1Xx7"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "梦想的路上",
+        "most_recent_tweet_id": "2090335146084008169",
+        "name": "Exp cat",
+        "pinned_tweet_id": "2086846471576642007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 330,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1138
+        },
+        "url": "https://t.co/AGjSXP1Xx7",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-07T14:02:46.000Z",
+        "description": "曾pdw副wiki主 现暂任wiki主编/叫我天晓\npdw官号@Psydrugswiki\n里推@maimai_Prism_\n🍐妈妈@K1ku21_ \nkr @KrvyScorpii\n苦力怕@Akinoyo_desu\n彻子@aokitetsu111\n叶子@WinbornN94577\n苦瓜大人@C4usT1c_03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "Psydrugswiki"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "maimai_Prism_"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "KrvyScorpii"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "aokitetsu111"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "WinbornN94577"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "C4usT1c_03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/kbttTgmTXj"
+              }
+            ]
+          }
+        },
+        "id": "1556279645502427136",
+        "is_identity_verified": false,
+        "location": "庄俞南路 1号",
+        "most_recent_tweet_id": "2090334298192891975",
+        "name": "Pr5ga6al1N",
+        "pinned_tweet_id": "2090077146073219533",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1556279645502427136/1774033198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041020314524815360/KxdTr0Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 212,
+          "like_count": 1921,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1627
+        },
+        "url": "https://t.co/kbttTgmTXj",
+        "username": "tianxiao0502",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "精神活性物质指栏 Psydrugs Wiki官方账号，多人运营中，https://t.co/CB9yLA9IjF 专注于精神药物科普",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 56,
+                "expanded_url": "https://psydrugs.org",
+                "start": 33,
+                "url": "https://t.co/CB9yLA9IjF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "https://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/CB9yLA9IjF"
+              }
+            ]
+          }
+        },
+        "id": "1327197298930028544",
+        "is_identity_verified": false,
+        "location": "Kansai, Hyogo",
+        "most_recent_tweet_id": "2090067800337592514",
+        "name": "Psydrugs official",
+        "pinned_tweet_id": "2060449609210831206",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1327197298930028544/1769262047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015057185953263616/EoNq2pvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 238,
+          "like_count": 6277,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1353
+        },
+        "url": "https://t.co/CB9yLA9IjF",
+        "username": "Psydrugswiki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

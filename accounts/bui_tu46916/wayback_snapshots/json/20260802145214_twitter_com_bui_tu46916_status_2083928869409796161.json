@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2083926309348966455",
+    "created_at": "2026-08-02T14:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083928869409796161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076280150044610560",
+          "start": 0,
+          "username": "Antares04_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083928869409796161",
+    "in_reply_to_user_id": "2076280150044610560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083926309348966455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Antares04_8964 pdd有灌装器为什么要手灌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2083926181079044096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuX0hFaUAAETAm.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2083926309348966455",
+        "created_at": "2026-08-02T14:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083928869409796161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076280150044610560",
+              "start": 0,
+              "username": "Antares04_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083928869409796161",
+        "in_reply_to_user_id": "2076280150044610560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083926309348966455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Antares04_8964 pdd有灌装器为什么要手灌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083926181079044096"
+          ]
+        },
+        "author_id": "2076280150044610560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083926309348966455",
+        "created_at": "2026-08-02T14:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083926309348966455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q50chF1fy5",
+              "end": 70,
+              "expanded_url": "https://x.com/Antares04_8964/status/2083926309348966455/photo/1",
+              "media_key": "3_2083926181079044096",
+              "start": 47,
+              "url": "https://t.co/q50chF1fy5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083926309348966455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃，经过一晚上的努力，终于灌装出来了200粒😭😭😭快累死了。\n(根据处方用药，拒绝药物滥用) https://t.co/q50chF1fy5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 313,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 997
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T12:19:52.000Z",
+        "description": "你好,你可以叫我煜或者04/ODer💊/双相/记忆力很差/自伤/生产日期：2010.9.8♂/正在学习药理学🧬/非必要不建证🏳️/喜欢同类看见会直接回/不支持引导自残嗑药❗/欢迎私信互fo喵    /    /(这里是煜3.0)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/antares04_8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/antares04_8964",
+                "start": 0,
+                "url": "https://t.co/7kJ3zIrxwy"
+              }
+            ]
+          }
+        },
+        "id": "2076280150044610560",
+        "location": "＃心宿二",
+        "name": "煜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076581989763932160/cA0oli6i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 45,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 173
+        },
+        "url": "https://t.co/7kJ3zIrxwy",
+        "username": "Antares04_8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2091009181512073396",
+    "created_at": "2026-08-22T03:52:21.000Z",
+    "display_text_range": [
+      13,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T04:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091010559210815592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1430117480865746952",
+          "start": 0,
+          "username": "HuytrewqKPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091010559210815592",
+    "in_reply_to_user_id": "1430117480865746952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091009181512073396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuytrewqKPS 怎么做的，能不能发个素材谢谢🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15026,
+        "height": 446,
+        "media_key": "13_2091009102004858880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091009102004858880/img/3nok0rZjyhwVD3fK.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091009102004858880/vid/avc1/408x270/g6y68nlEpaWo0qit.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091009102004858880/vid/avc1/674x446/Gz-6cnH5IO870alL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091009102004858880/pl/bdli9CgBfiF4ZXJK.m3u8"
+          }
+        ],
+        "width": 674
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2091009181512073396",
+        "created_at": "2026-08-22T03:52:21.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T04:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091010559210815592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1430117480865746952",
+              "start": 0,
+              "username": "HuytrewqKPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091010559210815592",
+        "in_reply_to_user_id": "1430117480865746952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091009181512073396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuytrewqKPS 怎么做的，能不能发个素材谢谢🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091009102004858880"
+          ]
+        },
+        "author_id": "1430117480865746952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Social causes",
+              "id": "1074751614123008000",
+              "name": "Social causes"
+            }
+          }
+        ],
+        "conversation_id": "2091009181512073396",
+        "created_at": "2026-08-22T03:46:52.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T04:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091009181512073396"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 10,
+              "tag": "needygirloverdose"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "ngo"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "od"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xsKHoHnDmP",
+              "end": 61,
+              "expanded_url": "https://x.com/HuytrewqKPS/status/2091009181512073396/video/1",
+              "media_key": "13_2091009102004858880",
+              "start": 38,
+              "url": "https://t.co/xsKHoHnDmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091009181512073396",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091009102004858880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闲的没事干做的东西\n#needygirloverdose #ngo #od https://t.co/xsKHoHnDmP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ \n情绪阴晴不定\n看情况回fo \n渴望成为健全比",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gYZzt0V9qtA5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gYZzt0V9qtA5NzBh",
+                "start": 0,
+                "url": "https://t.co/AGjSXP1Xx7"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "梦想的路上",
+        "most_recent_tweet_id": "2091010559210815592",
+        "name": "Exp cat",
+        "pinned_tweet_id": "2086846471576642007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 331,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1151
+        },
+        "url": "https://t.co/AGjSXP1Xx7",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-24T10:39:20.000Z",
+        "description": "普通的od蛆od着普通的普瑞巴林\n请直接使用telegram联系，x私信回复可能较慢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kwangel_1",
+                "end": 23,
+                "expanded_url": "https://t.me/kwangel_1",
+                "start": 0,
+                "url": "https://t.co/Z3UyL7wUMy"
+              }
+            ]
+          }
+        },
+        "id": "1430117480865746952",
+        "is_identity_verified": false,
+        "location": "普瑞巴林星球",
+        "most_recent_tweet_id": "2091009181512073396",
+        "name": "huytrewq_kps",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1430117480865746952/1784637022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1430118149144256514/mhYnEPWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 189,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 75
+        },
+        "url": "https://t.co/Z3UyL7wUMy",
+        "username": "HuytrewqKPS",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

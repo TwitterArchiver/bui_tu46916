@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2085789085671805294",
+    "created_at": "2026-08-07T23:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T00:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085873844884291895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1989627406391635968",
+          "start": 0,
+          "username": "drug_artist2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085873844884291895",
+    "in_reply_to_user_id": "1989627406391635968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085789085671805294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artist2 给我吃月尘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2085789085671805294",
+        "created_at": "2026-08-07T23:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T00:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085873844884291895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1989627406391635968",
+              "start": 0,
+              "username": "drug_artist2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085873844884291895",
+        "in_reply_to_user_id": "1989627406391635968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085789085671805294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist2 给我吃月尘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2085789085671805294",
+        "created_at": "2026-08-07T18:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085789085671805294"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085789085671805294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 864,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是新入圈的oder 有什么要注意的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 324,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1042
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱杀回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 67,
+          "like_count": 450,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 527
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true
+      }
+    ]
+  }
+}

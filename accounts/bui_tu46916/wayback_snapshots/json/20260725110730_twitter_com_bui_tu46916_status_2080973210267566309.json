@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080973197009395712"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2080973210267566309",
+    "created_at": "2026-07-25T11:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080973210267566309"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/i2VPgEpGDW",
+          "end": 31,
+          "expanded_url": "https://x.com/bui_tu46916/status/2080973210267566309/photo/1",
+          "media_key": "3_2080973197009395712",
+          "start": 8,
+          "url": "https://t.co/i2VPgEpGDW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080973210267566309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自由还是牢笼？ https://t.co/i2VPgEpGDW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2080973197009395712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEaGOLaoAA2nAZ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080973197009395712"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2080973210267566309",
+        "created_at": "2026-07-25T11:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080973210267566309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i2VPgEpGDW",
+              "end": 31,
+              "expanded_url": "https://x.com/bui_tu46916/status/2080973210267566309/photo/1",
+              "media_key": "3_2080973197009395712",
+              "start": 8,
+              "url": "https://t.co/i2VPgEpGDW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080973210267566309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自由还是牢笼？ https://t.co/i2VPgEpGDW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "爱发OD内容 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 288,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 921
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

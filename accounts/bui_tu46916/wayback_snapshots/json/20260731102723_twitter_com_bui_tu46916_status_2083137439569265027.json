@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083137431281504256"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2083137439569265027",
+    "created_at": "2026-07-31T10:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T11:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083137439569265027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eUiFrWNM1i",
+          "end": 212,
+          "expanded_url": "https://x.com/bui_tu46916/status/2083137439569265027/photo/1",
+          "media_key": "3_2083137431281504256",
+          "start": 189,
+          "url": "https://t.co/eUiFrWNM1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083137439569265027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1988年前后，美国西北大学的化学家 Richard Bruce Silverman开始研究如何改造GABA类似物\n他的想法是：\n如果让某些分子促进制造GABA的酶，也许可以增加脑内GABA水平从而抗癫痫。\n团队研究合成了一系列化合物其中包括：\n(S)-3-(aminomethyl)-5-methylhexanoic acid\n后来被命名：\nPregabalin（普瑞巴林） https://t.co/eUiFrWNM1i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1672,
+        "media_key": "3_2083137431281504256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjKdPHakAAzPiW.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083137431281504256"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2083137439569265027",
+        "created_at": "2026-07-31T10:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083137439569265027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eUiFrWNM1i",
+              "end": 212,
+              "expanded_url": "https://x.com/bui_tu46916/status/2083137439569265027/photo/1",
+              "media_key": "3_2083137431281504256",
+              "start": 189,
+              "url": "https://t.co/eUiFrWNM1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083137439569265027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1988年前后，美国西北大学的化学家 Richard Bruce Silverman开始研究如何改造GABA类似物\n他的想法是：\n如果让某些分子促进制造GABA的酶，也许可以增加脑内GABA水平从而抗癫痫。\n团队研究合成了一系列化合物其中包括：\n(S)-3-(aminomethyl)-5-methylhexanoic acid\n后来被命名：\nPregabalin（普瑞巴林） https://t.co/eUiFrWNM1i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 301,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 970
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

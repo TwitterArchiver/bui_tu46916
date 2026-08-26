@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091515198658269184"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2091347107336831402",
+    "created_at": "2026-08-23T13:17:38.000Z",
+    "display_text_range": [
+      13,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T14:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091515206732218842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066629255577182208",
+          "start": 0,
+          "username": "Antares04_64"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XoX8gfCKE0",
+          "end": 37,
+          "expanded_url": "https://x.com/bui_tu46916/status/2091515206732218842/photo/1",
+          "media_key": "3_2091515198658269184",
+          "start": 14,
+          "url": "https://t.co/XoX8gfCKE0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091515206732218842",
+    "in_reply_to_user_id": "2066629255577182208",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2091515198658269184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091500761482178946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Antares04_64 https://t.co/XoX8gfCKE0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_2091515198658269184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQaN_epbUAA6x7i.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091515198658269184"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2091347107336831402",
+        "created_at": "2026-08-23T13:17:38.000Z",
+        "display_text_range": [
+          13,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091515206732218842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066629255577182208",
+              "start": 0,
+              "username": "Antares04_64"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XoX8gfCKE0",
+              "end": 37,
+              "expanded_url": "https://x.com/bui_tu46916/status/2091515206732218842/photo/1",
+              "media_key": "3_2091515198658269184",
+              "start": 14,
+              "url": "https://t.co/XoX8gfCKE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091515206732218842",
+        "in_reply_to_user_id": "2066629255577182208",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2091515198658269184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091500761482178946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Antares04_64 https://t.co/XoX8gfCKE0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066629255577182208",
+        "conversation_id": "2091347107336831402",
+        "created_at": "2026-08-23T12:20:14.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T13:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091500761482178946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091500761482178946",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091347107336831402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 还真算是，毕竟盐野义是真贵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ \n情绪阴晴不定\n看情况回fo \n渴望成为健全人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gYZzt0V9qtA5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gYZzt0V9qtA5NzBh",
+                "start": 0,
+                "url": "https://t.co/AGjSXP1Xx7"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "硫磺岛",
+        "most_recent_tweet_id": "2091515206732218842",
+        "name": "Exp cat",
+        "pinned_tweet_id": "2086846471576642007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 333,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1159
+        },
+        "url": "https://t.co/AGjSXP1Xx7",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-15T21:10:54.000Z",
+        "description": "你好,你可以叫我煜或者04/ODer💊/双相/记忆力很差/自伤/生产日期：2010.9.8♂/正在学习药理学🧬/非必要不建证🏳️/喜欢同类看见会直接回/不支持引导自残嗑药❗/欢迎私信互fo喵    /    /(这里是煜4.0)",
+        "id": "2066629255577182208",
+        "is_identity_verified": false,
+        "location": "＃心宿二",
+        "most_recent_tweet_id": "2091513811471839420",
+        "name": "煜",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066629255577182208/1781558900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066633487910866944/1KdcHk1w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 62,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "Antares04_64",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

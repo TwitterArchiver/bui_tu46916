@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2083137439569265027",
+    "created_at": "2026-08-01T01:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T02:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083368556616724599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1884957076113567744",
+          "start": 0,
+          "username": "Wilhelm949151"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083368556616724599",
+    "in_reply_to_user_id": "1884957076113567744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083255317090168940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wilhelm949151 GPT干的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2083137439569265027",
+        "created_at": "2026-08-01T01:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083368556616724599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1884957076113567744",
+              "start": 0,
+              "username": "Wilhelm949151"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083368556616724599",
+        "in_reply_to_user_id": "1884957076113567744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083255317090168940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wilhelm949151 GPT干的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884957076113567744",
+        "conversation_id": "2083137439569265027",
+        "created_at": "2026-07-31T18:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083255317090168940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083255317090168940",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083137439569265027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 打着普瑞名字结构式画劳拉西泮😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 308,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 982
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T13:29:32.000Z",
+        "description": "",
+        "id": "1884957076113567744",
+        "name": "Wilhelm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026158444160634880/HrUp-SuK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 38,
+          "like_count": 859,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "Wilhelm949151",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2083174551350088189",
+    "created_at": "2026-07-31T14:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083192117896364073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1846633907690917891",
+          "start": 0,
+          "username": "Gobi20877842714"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083192117896364073",
+    "in_reply_to_user_id": "1846633907690917891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083174551350088189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gobi20877842714 主要成分是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083174537945108480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjsNINbUAACugp.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2083174551350088189",
+        "created_at": "2026-07-31T14:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083192117896364073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1846633907690917891",
+              "start": 0,
+              "username": "Gobi20877842714"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083192117896364073",
+        "in_reply_to_user_id": "1846633907690917891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083174551350088189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gobi20877842714 主要成分是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083174537945108480"
+          ]
+        },
+        "author_id": "1846633907690917891",
+        "conversation_id": "2083174551350088189",
+        "created_at": "2026-07-31T12:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083174551350088189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/81tbkWDV0y",
+              "end": 32,
+              "expanded_url": "https://x.com/Gobi20877842714/status/2083174551350088189/photo/1",
+              "media_key": "3_2083174537945108480",
+              "start": 9,
+              "url": "https://t.co/81tbkWDV0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083174551350088189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个有哦的价值吗 https://t.co/81tbkWDV0y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 305,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 974
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T19:27:06.000Z",
+        "description": "",
+        "id": "1846633907690917891",
+        "name": "苦夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075952174417563648/w3AfqQ4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "Gobi20877842714",
+        "verified": false
+      }
+    ]
+  }
+}

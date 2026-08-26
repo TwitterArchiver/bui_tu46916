@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087493390846038016"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2087493400048156722",
+    "created_at": "2026-08-12T10:56:24.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T11:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087493400048156722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CJ4IRdXzwa",
+          "end": 31,
+          "expanded_url": "https://x.com/bui_tu46916/status/2087493400048156722/photo/1",
+          "media_key": "3_2087493390846038016",
+          "start": 8,
+          "url": "https://t.co/CJ4IRdXzwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087493400048156722",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087493390846038016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不惜代价的OD https://t.co/CJ4IRdXzwa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_2087493390846038016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhELdBakAAc9d0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087493390846038016"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2087493400048156722",
+        "created_at": "2026-08-12T10:56:24.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087493400048156722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CJ4IRdXzwa",
+              "end": 31,
+              "expanded_url": "https://x.com/bui_tu46916/status/2087493400048156722/photo/1",
+              "media_key": "3_2087493390846038016",
+              "start": 8,
+              "url": "https://t.co/CJ4IRdXzwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087493400048156722",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087493390846038016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不惜代价的OD https://t.co/CJ4IRdXzwa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "右美沙芬小道",
+        "most_recent_tweet_id": "2087493400048156722",
+        "name": "Exp cat",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 331,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1090
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

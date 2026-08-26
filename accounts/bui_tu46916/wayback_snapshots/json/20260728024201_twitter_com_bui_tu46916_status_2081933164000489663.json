@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2081299778810560999",
+    "created_at": "2026-07-28T02:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081933164000489663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063809217488982016",
+          "start": 0,
+          "username": "Nijika_Dark2"
+        },
+        {
+          "end": 27,
+          "id": "1556279645502427136",
+          "start": 14,
+          "username": "tianxiao0502"
+        },
+        {
+          "end": 41,
+          "id": "1567203042872926208",
+          "start": 28,
+          "username": "Akinoyo_desu"
+        },
+        {
+          "end": 57,
+          "id": "1243491753019101184",
+          "start": 42,
+          "username": "fanduizhongxiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081933164000489663",
+    "in_reply_to_user_id": "2063809217488982016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081476421663457681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nijika_Dark2 @tianxiao0502 @Akinoyo_desu @fanduizhongxiu 绷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2081299778810560999",
+        "created_at": "2026-07-28T02:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081933164000489663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063809217488982016",
+              "start": 0,
+              "username": "Nijika_Dark2"
+            },
+            {
+              "end": 27,
+              "id": "1556279645502427136",
+              "start": 14,
+              "username": "tianxiao0502"
+            },
+            {
+              "end": 41,
+              "id": "1567203042872926208",
+              "start": 28,
+              "username": "Akinoyo_desu"
+            },
+            {
+              "end": 57,
+              "id": "1243491753019101184",
+              "start": 42,
+              "username": "fanduizhongxiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081933164000489663",
+        "in_reply_to_user_id": "2063809217488982016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081476421663457681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nijika_Dark2 @tianxiao0502 @Akinoyo_desu @fanduizhongxiu 绷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2081299778810560999",
+        "created_at": "2026-07-26T20:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081476421663457681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1556279645502427136",
+              "start": 0,
+              "username": "tianxiao0502"
+            },
+            {
+              "end": 27,
+              "id": "1567203042872926208",
+              "start": 14,
+              "username": "Akinoyo_desu"
+            },
+            {
+              "end": 43,
+              "id": "1243491753019101184",
+              "start": 28,
+              "username": "fanduizhongxiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081476421663457681",
+        "in_reply_to_user_id": "1556279645502427136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081456539173564690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianxiao0502 @Akinoyo_desu @fanduizhongxiu 绷绷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "爱发OD内容 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 297,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 940
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "name": "超级虹虹虹虹夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 131,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 145
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T14:02:46.000Z",
+        "description": "曾pdw副wiki主 现暂任wiki主编/叫我天晓\npdw官号@Psydrugswiki\n里推@maimai_Prism_\n🍐妈妈@K1ku21_ \nkr @KrvyScorpii\n苦力怕@Akinoyo_desu\n彻子@aokitetsu111\n叶子@WinbornN94577\n苦瓜大人@C4usT1c_03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "Psydrugswiki"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "maimai_Prism_"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "KrvyScorpii"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "aokitetsu111"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "WinbornN94577"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "C4usT1c_03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/kbttTgmTXj"
+              }
+            ]
+          }
+        },
+        "id": "1556279645502427136",
+        "location": "庄俞南路 1号",
+        "name": "Pr5ga6al1N",
+        "pinned_tweet_id": "2049637066645053756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041020314524815360/KxdTr0Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 204,
+          "like_count": 1846,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1562
+        },
+        "url": "https://t.co/kbttTgmTXj",
+        "username": "tianxiao0502",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 1095,
+          "like_count": 5211,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1781
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-27T10:55:19.000Z",
+        "description": "反一切压迫剥削｜民主社会主义｜最终目标是以此跨入民主的共产主义高级阶段｜友跨性别｜欢迎不同看法 但要理性讨论 ｜反对废除死刑｜支持严肃处刑毒贩｜顺直丨非被迫不销号，欢迎互fo，记得私信",
+        "id": "1243491753019101184",
+        "location": "中南海",
+        "name": "天宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080186687720984576/rD5O9a8P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 195,
+          "like_count": 8226,
+          "listed_count": 1,
+          "media_count": 320,
+          "tweet_count": 3324
+        },
+        "url": "",
+        "username": "fanduizhongxiu",
+        "verified": true
+      }
+    ]
+  }
+}

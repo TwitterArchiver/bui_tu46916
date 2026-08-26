@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2079227650678362391",
+    "created_at": "2026-07-21T10:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T11:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079517538963374574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741220157463379968",
+          "start": 0,
+          "username": "xialing253446"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079517538963374574",
+    "in_reply_to_user_id": "1741220157463379968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079333634755183013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xialing253446 隐退结局"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2079227650678362391",
+        "created_at": "2026-07-21T10:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079517538963374574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741220157463379968",
+              "start": 0,
+              "username": "xialing253446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079517538963374574",
+        "in_reply_to_user_id": "1741220157463379968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079333634755183013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xialing253446 隐退结局"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741220157463379968",
+        "conversation_id": "2079227650678362391",
+        "created_at": "2026-07-20T22:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T23:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079333634755183013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079333634755183013",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079227650678362391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 赶语校出勤懒得od怎么说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "我已气哭",
+        "id": "2029908828125548546",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 284,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 904
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T22:10:20.000Z",
+        "description": "幸せになりたい\nllm低手/提供免费药物咨询/od圈最大受害人\noverdose everyday",
+        "id": "1741220157463379968",
+        "location": "✝天国✝",
+        "name": "xialingXD🚥",
+        "pinned_tweet_id": "2009230908403175897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009455316258238464/-wr_l2TT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 246,
+          "like_count": 1231,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1128
+        },
+        "url": "",
+        "username": "xialing253446",
+        "verified": false
+      }
+    ]
+  }
+}

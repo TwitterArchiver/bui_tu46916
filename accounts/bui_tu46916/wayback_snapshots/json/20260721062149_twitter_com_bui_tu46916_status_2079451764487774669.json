@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079451758368374784"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2079451764487774669",
+    "created_at": "2026-07-21T06:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T07:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079451764487774669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HFn3y1ZKmF",
+          "end": 47,
+          "expanded_url": "https://x.com/bui_tu46916/status/2079451764487774669/photo/1",
+          "media_key": "3_2079451758368374784",
+          "start": 24,
+          "url": "https://t.co/HFn3y1ZKmF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079451764487774669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "oder去医院直接点菜就行，你提需求，医生解决 https://t.co/HFn3y1ZKmF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1013,
+        "media_key": "3_2079451758368374784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuyW1kbwAAWzxN.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079451758368374784"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2079451764487774669",
+        "created_at": "2026-07-21T06:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079451764487774669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HFn3y1ZKmF",
+              "end": 47,
+              "expanded_url": "https://x.com/bui_tu46916/status/2079451764487774669/photo/1",
+              "media_key": "3_2079451758368374784",
+              "start": 24,
+              "url": "https://t.co/HFn3y1ZKmF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079451764487774669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "oder去医院直接点菜就行，你提需求，医生解决 https://t.co/HFn3y1ZKmF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "我已气哭",
+        "id": "2029908828125548546",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 284,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 899
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

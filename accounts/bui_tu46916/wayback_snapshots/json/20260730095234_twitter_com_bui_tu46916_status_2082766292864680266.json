@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082766280097230850"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2082766292864680266",
+    "created_at": "2026-07-30T09:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T10:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082766292864680266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q2lTjc4mwG",
+          "end": 36,
+          "expanded_url": "https://x.com/bui_tu46916/status/2082766292864680266/photo/1",
+          "media_key": "3_2082766280097230850",
+          "start": 13,
+          "url": "https://t.co/q2lTjc4mwG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082766292864680266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“不要把药圈出卖给晶方” https://t.co/q2lTjc4mwG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2082766280097230850",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd45ZNbcAITvk0.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082766280097230850"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2082766292864680266",
+        "created_at": "2026-07-30T09:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082766292864680266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q2lTjc4mwG",
+              "end": 36,
+              "expanded_url": "https://x.com/bui_tu46916/status/2082766292864680266/photo/1",
+              "media_key": "3_2082766280097230850",
+              "start": 13,
+              "url": "https://t.co/q2lTjc4mwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082766292864680266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“不要把药圈出卖给晶方” https://t.co/q2lTjc4mwG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 300,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 957
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

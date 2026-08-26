@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2090097865460703721",
+    "created_at": "2026-08-19T15:31:12.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T16:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090099268619280389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2090066465802067968",
+          "start": 0,
+          "username": "drugs_artistbro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090099268619280389",
+    "in_reply_to_user_id": "2090066465802067968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090097865460703721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drugs_artistbro 何音乐🎶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2090097865460703721",
+        "created_at": "2026-08-19T15:31:12.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090099268619280389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2090066465802067968",
+              "start": 0,
+              "username": "drugs_artistbro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090099268619280389",
+        "in_reply_to_user_id": "2090066465802067968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090097865460703721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drugs_artistbro 何音乐🎶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090066465802067968",
+        "conversation_id": "2090097865460703721",
+        "created_at": "2026-08-19T15:25:37.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090097865460703721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "沐雨’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1kKzD…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1kKzDPazzYXJv",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2090097866681266176/T8lyWShb?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2090097866681266176/T8lyWShb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 中国人能飞专场～ 沐雨直播测试苯巴比妥 340mg 东莨菪碱 2.4mg DXM42t sns4t 配合西柚汁 氟伏沙明 2t（治疗剂量）",
+              "unwound_url": "https://twitter.com/i/spaces/1kKzDPazzYXJv/peek",
+              "url": "https://t.co/qUJWwt1cVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090097865460703721",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qUJWwt1cVl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ \n情绪阴晴不定\n看情况回fo \n渴望成为健全比",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gYZzt0V9qtA5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gYZzt0V9qtA5NzBh",
+                "start": 0,
+                "url": "https://t.co/AGjSXP1Xx7"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "梦想的路上",
+        "most_recent_tweet_id": "2090099268619280389",
+        "name": "Exp cat",
+        "pinned_tweet_id": "2086846471576642007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 329,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1135
+        },
+        "url": "https://t.co/AGjSXP1Xx7",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T13:25:46.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|4i男娘INFP|提问箱:https://t.co/CSC72A8dFF|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy！年号雨玄二年  名人堂梦工厂RC-沐雨 零售策划药产品联系我的tg：@drug_artist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "drug_artist"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 56,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 33,
+                "url": "https://t.co/CSC72A8dFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/B866JKncpo"
+              }
+            ]
+          }
+        },
+        "id": "2090066465802067968",
+        "is_identity_verified": false,
+        "location": "Xanax天国 2mg省",
+        "most_recent_tweet_id": "2090098079722561863",
+        "name": "沐雨",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090068838293331968/paabMn1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 37,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/B866JKncpo",
+        "username": "drugs_artistbro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

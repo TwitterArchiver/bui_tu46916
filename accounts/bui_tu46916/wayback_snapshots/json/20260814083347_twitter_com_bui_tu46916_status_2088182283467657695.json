@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2088165294527455655",
+    "created_at": "2026-08-14T08:33:47.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T09:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088182283467657695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1755494652889661440",
+          "start": 0,
+          "username": "Victor_zhang233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088182283467657695",
+    "in_reply_to_user_id": "1755494652889661440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088165294527455655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Victor_zhang233 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2088165294527455655",
+        "created_at": "2026-08-14T08:33:47.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088182283467657695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088182283467657695",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088165294527455655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2088165294527455655",
+        "created_at": "2026-08-14T07:26:17.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088165294527455655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088165294527455655",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无人在意我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "右美沙芬小道",
+        "most_recent_tweet_id": "2088182283467657695",
+        "name": "Exp cat",
+        "pinned_tweet_id": "2086846471576642007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 330,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1105
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "is_identity_verified": false,
+        "location": "在人间，在地狱",
+        "most_recent_tweet_id": "2088165294527455655",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755494652889661440/1782484842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 524,
+          "like_count": 12526,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 2812
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

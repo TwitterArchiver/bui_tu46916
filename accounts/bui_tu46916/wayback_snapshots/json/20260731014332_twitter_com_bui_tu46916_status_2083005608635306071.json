@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083005601534324736"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2083005608635306071",
+    "created_at": "2026-07-31T01:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T02:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083005608635306071"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kIkBoepZJS",
+          "end": 50,
+          "expanded_url": "https://x.com/bui_tu46916/status/2083005608635306071/photo/1",
+          "media_key": "3_2083005601534324736",
+          "start": 27,
+          "url": "https://t.co/kIkBoepZJS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083005608635306071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求求你别OD了，我怕你死床上，地上全都是你OD的药盒 https://t.co/kIkBoepZJS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 716,
+        "media_key": "3_2083005601534324736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhSjvCaMAA4fWf.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083005601534324736"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2083005608635306071",
+        "created_at": "2026-07-31T01:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083005608635306071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIkBoepZJS",
+              "end": 50,
+              "expanded_url": "https://x.com/bui_tu46916/status/2083005608635306071/photo/1",
+              "media_key": "3_2083005601534324736",
+              "start": 27,
+              "url": "https://t.co/kIkBoepZJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083005608635306071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求求你别OD了，我怕你死床上，地上全都是你OD的药盒 https://t.co/kIkBoepZJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 301,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 967
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

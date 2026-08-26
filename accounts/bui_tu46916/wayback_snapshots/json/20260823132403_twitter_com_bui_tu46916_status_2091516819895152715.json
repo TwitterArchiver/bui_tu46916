@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091516813645668352"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2091516819895152715",
+    "created_at": "2026-08-23T13:24:03.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T14:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091516819895152715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZMkTArrl5W",
+          "end": 37,
+          "expanded_url": "https://x.com/bui_tu46916/status/2091516819895152715/photo/1",
+          "media_key": "3_2091516813645668352",
+          "start": 14,
+          "url": "https://t.co/ZMkTArrl5W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091516819895152715",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091516813645668352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "制作一些梗图，滥用一些药物 https://t.co/ZMkTArrl5W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_2091516813645668352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQaPde8bYAAuisb.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091516813645668352"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2091516819895152715",
+        "created_at": "2026-08-23T13:24:03.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091516819895152715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMkTArrl5W",
+              "end": 37,
+              "expanded_url": "https://x.com/bui_tu46916/status/2091516819895152715/photo/1",
+              "media_key": "3_2091516813645668352",
+              "start": 14,
+              "url": "https://t.co/ZMkTArrl5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091516819895152715",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091516813645668352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "制作一些梗图，滥用一些药物 https://t.co/ZMkTArrl5W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ \n情绪阴晴不定\n看情况回fo \n渴望成为健全人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gYZzt0V9qtA5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gYZzt0V9qtA5NzBh",
+                "start": 0,
+                "url": "https://t.co/AGjSXP1Xx7"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "硫磺岛",
+        "most_recent_tweet_id": "2091516819895152715",
+        "name": "Exp cat",
+        "pinned_tweet_id": "2086846471576642007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 333,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1160
+        },
+        "url": "https://t.co/AGjSXP1Xx7",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

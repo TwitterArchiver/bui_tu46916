@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2085204458582233309",
+    "created_at": "2026-08-06T09:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T10:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085293631888634314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031270533359349761",
+          "start": 0,
+          "username": "senzhiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085293631888634314",
+    "in_reply_to_user_id": "2031270533359349761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085204458582233309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senzhiwu 懂你意思"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085204451254738945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAiZokaIAE5Pu2.jpg",
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2085204458582233309",
+        "created_at": "2026-08-06T09:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085293631888634314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031270533359349761",
+              "start": 0,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085293631888634314",
+        "in_reply_to_user_id": "2031270533359349761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085204458582233309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senzhiwu 懂你意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085204451254738945"
+          ]
+        },
+        "author_id": "2031270533359349761",
+        "conversation_id": "2085204458582233309",
+        "created_at": "2026-08-06T03:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085204458582233309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MKHTMeQ2GT",
+              "end": 28,
+              "expanded_url": "https://x.com/senzhiwu/status/2085204458582233309/photo/1",
+              "media_key": "3_2085204451254738945",
+              "start": 5,
+              "url": "https://t.co/MKHTMeQ2GT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085204458582233309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 51634,
+          "like_count": 126,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "懂你意思 https://t.co/MKHTMeQ2GT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 317,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1030
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "一个什么都不擅长的废物｜喜欢一切可爱事物｜entp-t 现infp/j｜心归所至：@74025hai 愿为你的天使，化作你的羽翼，与你共赴天堂｜mtx🏳️‍⚧️｜Autogynephilia（性别认同仍然为x）｜小证偷吃｜hrt3.29｜欢迎互fo喵｜常驻南京",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "74025hai"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055955740553355693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070681859684798464/sOsRMjEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 424,
+          "like_count": 3355,
+          "listed_count": 5,
+          "media_count": 128,
+          "tweet_count": 2571
+        },
+        "url": "",
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

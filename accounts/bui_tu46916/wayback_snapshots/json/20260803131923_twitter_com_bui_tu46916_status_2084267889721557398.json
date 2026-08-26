@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2084261889228587092",
+    "created_at": "2026-08-03T13:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T14:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084267889721557398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1755494652889661440",
+          "start": 0,
+          "username": "Victor_zhang233"
+        },
+        {
+          "end": 22,
+          "id": "1720665183188922368",
+          "start": 17,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084267889721557398",
+    "in_reply_to_user_id": "1755494652889661440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084261889228587092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Victor_zhang233 @grok 男娘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2084261889228587092",
+        "created_at": "2026-08-03T13:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084267889721557398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            },
+            {
+              "end": 22,
+              "id": "1720665183188922368",
+              "start": 17,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084267889721557398",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084261889228587092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 @grok 男娘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2084261889228587092",
+        "created_at": "2026-08-03T12:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084261889228587092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1720665183188922368",
+              "start": 5,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/grok/status/20…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/grok/status/2084256417465135220",
+              "start": 11,
+              "url": "https://t.co/Cbzmyqsefu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084261889228587092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084256417465135220",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我讨厌你 @grok https://t.co/Cbzmyqsefu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 315,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1004
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him\n被诅咒的孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rerp"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 503,
+          "like_count": 11391,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 2602
+        },
+        "url": "https://t.co/zTC2P2rerp",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8904656,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7257,
+          "media_count": 9214283,
+          "tweet_count": 133686416
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

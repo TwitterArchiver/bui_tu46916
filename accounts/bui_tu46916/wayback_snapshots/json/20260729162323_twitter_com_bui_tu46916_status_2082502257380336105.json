@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2082502257380336105",
+    "created_at": "2026-07-29T16:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T17:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082502257380336105"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082502257380336105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在骁龙8gen3成色好的机器市场价多少，不追求拍照和电池容量，16+256够用就行，我天玑8100处理器的机子可能是摔到GPU了，发热就容易花屏加闪烁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2082502257380336105",
+        "created_at": "2026-07-29T16:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082502257380336105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082502257380336105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在骁龙8gen3成色好的机器市场价多少，不追求拍照和电池容量，16+256够用就行，我天玑8100处理器的机子可能是摔到GPU了，发热就容易花屏加闪烁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "爱发OD内容 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 300,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 954
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

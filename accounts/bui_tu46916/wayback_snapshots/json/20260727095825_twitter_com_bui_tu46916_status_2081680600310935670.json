@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081680587459563520"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2081680600310935670",
+    "created_at": "2026-07-27T09:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081680600310935670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a0u3Y4hHb3",
+          "end": 78,
+          "expanded_url": "https://x.com/bui_tu46916/status/2081680600310935670/photo/1",
+          "media_key": "3_2081680587459563520",
+          "start": 55,
+          "url": "https://t.co/a0u3Y4hHb3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081680600310935670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“你在看什么”\n“落日”\n“这有什么好看的”\n“只是在怀念从前放学以后踏着夕阳归家的日子，那时候我还很健全” https://t.co/a0u3Y4hHb3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2081680587459563520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOddw9akAAOT20.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081680587459563520"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2081680600310935670",
+        "created_at": "2026-07-27T09:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081680600310935670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a0u3Y4hHb3",
+              "end": 78,
+              "expanded_url": "https://x.com/bui_tu46916/status/2081680600310935670/photo/1",
+              "media_key": "3_2081680587459563520",
+              "start": 55,
+              "url": "https://t.co/a0u3Y4hHb3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081680600310935670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“你在看什么”\n“落日”\n“这有什么好看的”\n“只是在怀念从前放学以后踏着夕阳归家的日子，那时候我还很健全” https://t.co/a0u3Y4hHb3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "爱发OD内容 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 293,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 935
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

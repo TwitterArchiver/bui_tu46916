@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2081189443546095934",
+    "created_at": "2026-07-26T02:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T03:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081210382287605955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1404449980841005065",
+          "start": 0,
+          "username": "a1547025987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081210382287605955",
+    "in_reply_to_user_id": "1404449980841005065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081209996826812727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a1547025987 我甘之如饴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2081189443546095934",
+        "created_at": "2026-07-26T02:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T03:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081210382287605955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1404449980841005065",
+              "start": 0,
+              "username": "a1547025987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081210382287605955",
+        "in_reply_to_user_id": "1404449980841005065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081209996826812727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a1547025987 我甘之如饴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1404449980841005065",
+        "conversation_id": "2081189443546095934",
+        "created_at": "2026-07-26T02:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T03:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081209996826812727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081209996826812727",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081200952607174749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 😸我有梅毒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "爱发OD内容 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 290,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 928
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-14T14:45:55.000Z",
+        "description": "你说你不会忘记我。我相信，从今往后我的全部生命，就寄托在你的这句话里。即使这是施加给我的诅咒，我也会将它当成祝福一样热爱！                                                  我的宝宝：@Ananan9113              *苯海索/唑吡坦最大受害者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Ananan9113"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/@Mutsumi_never…",
+                "end": 23,
+                "expanded_url": "https://t.me/@Mutsumi_never_cries",
+                "start": 0,
+                "url": "https://t.co/e6Z8zLqL78"
+              }
+            ]
+          }
+        },
+        "id": "1404449980841005065",
+        "location": "佛罗里达州",
+        "name": "机巧睦头不会受伤",
+        "pinned_tweet_id": "2070897702855176460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048337386590113793/PEyizSud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 1134,
+          "like_count": 3593,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 390
+        },
+        "url": "https://t.co/e6Z8zLqL78",
+        "username": "a1547025987",
+        "verified": false
+      }
+    ]
+  }
+}

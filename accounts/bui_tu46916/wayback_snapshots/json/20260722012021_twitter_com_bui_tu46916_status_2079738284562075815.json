@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2079451764487774669",
+    "created_at": "2026-07-22T01:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T02:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079738284562075815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2049059884466143232",
+          "start": 0,
+          "username": "Sewerslvt7n2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079738284562075815",
+    "in_reply_to_user_id": "2049059884466143232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079528797519626639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sewerslvt7n2 找个好理由就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2079451764487774669",
+        "created_at": "2026-07-22T01:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079738284562075815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2049059884466143232",
+              "start": 0,
+              "username": "Sewerslvt7n2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079738284562075815",
+        "in_reply_to_user_id": "2049059884466143232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079528797519626639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sewerslvt7n2 找个好理由就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049059884466143232",
+        "conversation_id": "2079451764487774669",
+        "created_at": "2026-07-21T11:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079528797519626639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079528797519626639",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079451764487774669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 能直接点？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "我已气哭",
+        "id": "2029908828125548546",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 284,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 906
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T09:36:17.000Z",
+        "description": "qq空间",
+        "id": "2049059884466143232",
+        "name": "Sewerslvt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049060648513134592/OF8Q7Sws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 60,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "Sewerslvt7n2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2079514266278015124",
+    "created_at": "2026-07-21T11:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079521926838407555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1404449980841005065",
+          "start": 0,
+          "username": "a1547025987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079521926838407555",
+    "in_reply_to_user_id": "1404449980841005065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079514266278015124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a1547025987 给我地址我也给你送"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3142,
+        "media_key": "3_2079514254470950912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvrMlsaMAAp62K.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2079514266278015124",
+        "created_at": "2026-07-21T11:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079521926838407555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1404449980841005065",
+              "start": 0,
+              "username": "a1547025987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079521926838407555",
+        "in_reply_to_user_id": "1404449980841005065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079514266278015124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a1547025987 给我地址我也给你送"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079514254470950912"
+          ]
+        },
+        "author_id": "1404449980841005065",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079514266278015124",
+        "created_at": "2026-07-21T10:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079514266278015124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/94xt5JChGM",
+              "end": 60,
+              "expanded_url": "https://x.com/a1547025987/status/2079514266278015124/photo/1",
+              "media_key": "3_2079514254470950912",
+              "start": 37,
+              "url": "https://t.co/94xt5JChGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079514266278015124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "居然真的有女孩子大老远跑过来给我送吃的，我真的很感动，只不过配送费有点贵 https://t.co/94xt5JChGM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "我已气哭",
+        "id": "2029908828125548546",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 284,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 905
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-14T14:45:55.000Z",
+        "description": "你说你不会忘记我。我相信，从今往后我的全部生命，就寄托在你的这句话里。即使这是施加给我的诅咒，我也会将它当成祝福一样热爱！                                                  我的宝宝：@Ananan9113              *苯海索/唑吡坦最大受害者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Ananan9113"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/@Mutsumi_never…",
+                "end": 23,
+                "expanded_url": "https://t.me/@Mutsumi_never_cries",
+                "start": 0,
+                "url": "https://t.co/e6Z8zLqL78"
+              }
+            ]
+          }
+        },
+        "id": "1404449980841005065",
+        "location": "佛罗里达州",
+        "name": "机巧睦头不会受伤",
+        "pinned_tweet_id": "2070897702855176460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048337386590113793/PEyizSud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 1074,
+          "like_count": 3264,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 364
+        },
+        "url": "https://t.co/e6Z8zLqL78",
+        "username": "a1547025987",
+        "verified": false
+      }
+    ]
+  }
+}

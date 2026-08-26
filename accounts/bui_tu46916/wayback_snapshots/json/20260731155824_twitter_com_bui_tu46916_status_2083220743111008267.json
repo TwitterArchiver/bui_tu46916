@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2083200861489258598",
+    "created_at": "2026-07-31T15:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083220743111008267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2061066746203652100",
+          "start": 0,
+          "username": "Feifeimian8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083220743111008267",
+    "in_reply_to_user_id": "2061066746203652100",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083217060881170852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Feifeimian8964 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2083200861489258598",
+        "created_at": "2026-07-31T15:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083220743111008267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061066746203652100",
+              "start": 0,
+              "username": "Feifeimian8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083220743111008267",
+        "in_reply_to_user_id": "2061066746203652100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083217060881170852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Feifeimian8964 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2083200861489258598",
+        "created_at": "2026-07-31T15:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083217060881170852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083217060881170852",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083216590884184508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 www真的嘛☺️☺️我平时在学校也喜欢画画的、没什么技巧啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 306,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 980
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mmm",
+        "pinned_tweet_id": "2080250651427426744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 190,
+          "like_count": 2208,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 821
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2082802522293747911",
+    "created_at": "2026-07-30T12:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082813337893556537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973748660975587328",
+          "start": 0,
+          "username": "xmaa0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082813337893556537",
+    "in_reply_to_user_id": "1973748660975587328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082812949971013753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmaa0721 那太狗屎了12h遭老罪了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2082802522293747911",
+        "created_at": "2026-07-30T12:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082813337893556537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973748660975587328",
+              "start": 0,
+              "username": "xmaa0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082813337893556537",
+        "in_reply_to_user_id": "1973748660975587328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082812949971013753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmaa0721 那太狗屎了12h遭老罪了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973748660975587328",
+        "conversation_id": "2082802522293747911",
+        "created_at": "2026-07-30T12:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082812949971013753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082812949971013753",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082809300951671008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 我长期工，劳务派遣真是畜生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 300,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 960
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T13:55:36.000Z",
+        "description": "合约炒币输5万，大学已退学，在东莞打工，准备参加2028年高考//QQ259756720、微信Anan3ww\n\n傻逼东西别开150倍杠杆乱搞，去死吧",
+        "id": "1973748660975587328",
+        "name": "夏目安安",
+        "pinned_tweet_id": "2082668022574277004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082691371920699392/981M_EkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 747,
+          "like_count": 5028,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 552
+        },
+        "url": "",
+        "username": "xmaa0721",
+        "verified": false
+      }
+    ]
+  }
+}

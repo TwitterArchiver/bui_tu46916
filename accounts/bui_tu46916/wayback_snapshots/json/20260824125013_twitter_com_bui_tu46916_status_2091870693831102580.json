@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2091840979145986363",
+    "created_at": "2026-08-24T12:50:13.000Z",
+    "display_text_range": [
+      14,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T13:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091870693831102580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777129646867542016",
+          "start": 0,
+          "username": "Sunset__3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091870693831102580",
+    "in_reply_to_user_id": "1777129646867542016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091840979145986363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sunset__3000 为什么，不参加春风祭吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2091840979145986363].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2091840979145986363",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2091840979145986363"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2091840979145986363",
+        "created_at": "2026-08-24T12:50:13.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T13:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091870693831102580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777129646867542016",
+              "start": 0,
+              "username": "Sunset__3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091870693831102580",
+        "in_reply_to_user_id": "1777129646867542016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091840979145986363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sunset__3000 为什么，不参加春风祭吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ \n情绪阴晴不定\n看情况回fo \n渴望成为健全人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gYZzt0V9qtA5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gYZzt0V9qtA5NzBh",
+                "start": 0,
+                "url": "https://t.co/AGjSXP1Xx7"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "硫磺岛",
+        "most_recent_tweet_id": "2091870693831102580",
+        "name": "Exp cat",
+        "pinned_tweet_id": "2086846471576642007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 339,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1169
+        },
+        "url": "https://t.co/AGjSXP1Xx7",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病 | 悲观主义 | 爱好生化药理板绘 | 只fo同类",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/swMyC2Mdbe"
+              }
+            ]
+          }
+        },
+        "id": "1777129646867542016",
+        "is_identity_verified": false,
+        "location": "第五高原",
+        "most_recent_tweet_id": "2091840979145986363",
+        "name": "日落三千次💊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1777129646867542016/1775231096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 588,
+          "like_count": 3950,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/swMyC2Mdbe",
+        "username": "Sunset__3000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

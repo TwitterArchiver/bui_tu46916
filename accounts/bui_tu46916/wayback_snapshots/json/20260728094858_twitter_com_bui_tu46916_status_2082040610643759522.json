@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2081965661027549668",
+    "created_at": "2026-07-28T09:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082040610643759522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1762178935012610048",
+          "start": 0,
+          "username": "rLMj8iYK5v3459"
+        },
+        {
+          "end": 31,
+          "id": "2061066746203652100",
+          "start": 16,
+          "username": "Feifeimian8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082040610643759522",
+    "in_reply_to_user_id": "1762178935012610048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082011686912065624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rLMj8iYK5v3459 @Feifeimian8964 卖比买严重，非列管买了最多批评教育你一顿，你把聊天记录删一下，组织好语言就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2081965661027549668",
+        "created_at": "2026-07-28T09:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082040610643759522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1762178935012610048",
+              "start": 0,
+              "username": "rLMj8iYK5v3459"
+            },
+            {
+              "end": 31,
+              "id": "2061066746203652100",
+              "start": 16,
+              "username": "Feifeimian8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082040610643759522",
+        "in_reply_to_user_id": "1762178935012610048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082011686912065624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rLMj8iYK5v3459 @Feifeimian8964 卖比买严重，非列管买了最多批评教育你一顿，你把聊天记录删一下，组织好语言就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762178935012610048",
+        "conversation_id": "2081965661027549668",
+        "created_at": "2026-07-28T07:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082011686912065624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061066746203652100",
+              "start": 0,
+              "username": "Feifeimian8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082011686912065624",
+        "in_reply_to_user_id": "2061066746203652100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081965661027549668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Feifeimian8964 事已至此先磕药吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "爱发OD内容 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 297,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 947
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T18:13:04.000Z",
+        "description": "可以叫我梦境！友跨顺女，中焦中抑，可以找我聊天喵，看看比那种滚，直fo就是眼熟你喜欢你😽，查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qi56064",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qi56064",
+                "start": 0,
+                "url": "https://t.co/9JIUprWKlu"
+              }
+            ]
+          }
+        },
+        "id": "1762178935012610048",
+        "name": "🦋",
+        "pinned_tweet_id": "2080365623264121225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071690011079237633/Ias3-Tz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 128,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1018
+        },
+        "url": "https://t.co/9JIUprWKlu",
+        "username": "rLMj8iYK5v3459",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\n小天使：@lulu72010\n小天使：@YeanyeRun\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "lulu72010"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "YeanyeRun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 95,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 72,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mmm",
+        "pinned_tweet_id": "2080250651427426744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 199,
+          "like_count": 2058,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 725
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      }
+    ]
+  }
+}

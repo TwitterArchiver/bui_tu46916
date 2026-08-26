@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2087609000594739365",
+    "created_at": "2026-08-13T00:22:09.000Z",
+    "display_text_range": [
+      17,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T01:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087696170756001942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033892007937249284",
+          "start": 0,
+          "username": "Overdose_Aether"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087696170756001942",
+    "in_reply_to_user_id": "2033892007937249284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087609000594739365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_Aether 什么瘾欣欲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1209,
+        "media_key": "3_2087608994617868289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPitUeobwAEVZW9.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2087609000594739365",
+        "created_at": "2026-08-13T00:22:09.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T01:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087696170756001942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033892007937249284",
+              "start": 0,
+              "username": "Overdose_Aether"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087696170756001942",
+        "in_reply_to_user_id": "2033892007937249284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087609000594739365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_Aether 什么瘾欣欲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087608994617868289"
+          ]
+        },
+        "author_id": "2033892007937249284",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087609000594739365",
+        "created_at": "2026-08-12T18:35:46.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087609000594739365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2omoCdmkvi",
+              "end": 81,
+              "expanded_url": "https://x.com/Overdose_Aether/status/2087609000594739365/photo/1",
+              "media_key": "3_2087608994617868289",
+              "start": 58,
+              "url": "https://t.co/2omoCdmkvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087609000594739365",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087608994617868289"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全新普悦糖已出炉！\nAetherLAB独家小糖果💫\n具体详情看图喵\n需要的话私信or加入简介tg频道询问代理购买哦 https://t.co/2omoCdmkvi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "右美沙芬小道",
+        "most_recent_tweet_id": "2087696170756001942",
+        "name": "Exp cat",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 332,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1094
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-17T13:04:15.000Z",
+        "description": "小糖铺子，分享好吃的糖🍬 tg分享频道https://t.co/oEbYzOtKnL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/AetherLAB01",
+                "end": 42,
+                "expanded_url": "https://t.me/AetherLAB01",
+                "start": 19,
+                "url": "https://t.co/oEbYzOtKnL"
+              }
+            ]
+          }
+        },
+        "id": "2033892007937249284",
+        "is_identity_verified": false,
+        "location": "Carina",
+        "most_recent_tweet_id": "2087609000594739365",
+        "name": "⚛️Aether 🅻🅰🅱🍬",
+        "pinned_tweet_id": "2084547066630652016",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033892007937249284/1782409141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070200170030215168/CGg-EHDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 72,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "Overdose_Aether",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

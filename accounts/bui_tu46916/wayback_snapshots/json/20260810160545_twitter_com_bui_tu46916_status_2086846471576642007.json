@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "card_uri": "https://t.co/1T6F2ULrbm",
+    "conversation_id": "2086846471576642007",
+    "created_at": "2026-08-10T16:05:45.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T17:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086846471576642007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "You are invited to a group chat on Telegram. Click to",
+          "display_url": "t.me/+KZfLw5BnHHFlN…",
+          "end": 23,
+          "expanded_url": "https://t.me/+KZfLw5BnHHFlNDAx",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/2081037740771299329/rTQVH-aH?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2081037740771299329/rTQVH-aH?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Join group chat on Telegram",
+          "unwound_url": "https://t.me/+KZfLw5BnHHFlNDAx",
+          "url": "https://t.co/1T6F2ULrbm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086846471576642007",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/1T6F2ULrbm贴一个自家群"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "card_uri": "https://t.co/1T6F2ULrbm",
+        "conversation_id": "2086846471576642007",
+        "created_at": "2026-08-10T16:05:45.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086846471576642007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+KZfLw5BnHHFlN…",
+              "end": 23,
+              "expanded_url": "https://t.me/+KZfLw5BnHHFlNDAx",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2081037740771299329/rTQVH-aH?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2081037740771299329/rTQVH-aH?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+KZfLw5BnHHFlNDAx",
+              "url": "https://t.co/1T6F2ULrbm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086846471576642007",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1T6F2ULrbm贴一个自家群"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "右美沙芬小道",
+        "most_recent_tweet_id": "2086846471576642007",
+        "name": "Exp cat",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 331,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1066
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

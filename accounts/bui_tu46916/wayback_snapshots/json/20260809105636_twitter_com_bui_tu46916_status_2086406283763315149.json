@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2078117102893072694",
+    "created_at": "2026-08-09T10:56:36.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T11:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086406283763315149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778696847563104256",
+          "start": 0,
+          "username": "gold_bihu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086406283763315149",
+    "in_reply_to_user_id": "1778696847563104256",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078117102893072694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gold_bihu xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 477,
+        "media_key": "3_2078117098644197376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNb0fapaUAAQMZz.jpg",
+        "width": 1075
+      },
+      {
+        "height": 1296,
+        "media_key": "3_2078117100133228544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNb0fgMbIAAvC9w.jpg",
+        "width": 1741
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2078117102893072694",
+        "created_at": "2026-08-09T10:56:36.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T11:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086406283763315149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778696847563104256",
+              "start": 0,
+              "username": "gold_bihu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086406283763315149",
+        "in_reply_to_user_id": "1778696847563104256",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078117102893072694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gold_bihu xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078117098644197376",
+            "3_2078117100133228544"
+          ]
+        },
+        "author_id": "1778696847563104256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078117102893072694",
+        "created_at": "2026-07-17T13:58:21.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078117102893072694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SzGtrCzC7F",
+              "end": 29,
+              "expanded_url": "https://x.com/gold_bihu/status/2078117102893072694/photo/1",
+              "media_key": "3_2078117098644197376",
+              "start": 6,
+              "url": "https://t.co/SzGtrCzC7F"
+            },
+            {
+              "display_url": "pic.x.com/SzGtrCzC7F",
+              "end": 29,
+              "expanded_url": "https://x.com/gold_bihu/status/2078117102893072694/photo/1",
+              "media_key": "3_2078117100133228544",
+              "start": 6,
+              "url": "https://t.co/SzGtrCzC7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078117102893072694",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2078117098644197376"
+          },
+          {
+            "media_key": "3_2078117100133228544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1818,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就在今天！ https://t.co/SzGtrCzC7F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "右美沙芬小道",
+        "most_recent_tweet_id": "2086406283763315149",
+        "name": "Exp cat",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 328,
+          "like_count": 381,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1060
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "od🐛｜同类互fo｜喜欢一切有意思的东西｜💊od:https://t.co/S8S0zEK1mv｜万幸在今天已经鱼龙混杂的互联网里，总有一个角落容许我们遇见:@KKKillua07070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "KKKillua07070"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 48,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 25,
+                "url": "https://t.co/S8S0zEK1mv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl30",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl30",
+                "start": 0,
+                "url": "https://t.co/KYuxfpJQLx"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086348115616149592",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2024004502555074878",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778696847563104256/1761665630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009205027009859584/M8J2SLDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 514,
+          "like_count": 11625,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 2674
+        },
+        "url": "https://t.co/KYuxfpJQLx",
+        "username": "gold_bihu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
