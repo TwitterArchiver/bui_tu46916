@@ -1,0 +1,596 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2098213536040435842",
+    "created_at": "2026-09-11T01:11:15.000Z",
+    "display_text_range": [
+      75,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T02:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098217775705772424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778696847563104256",
+          "start": 0,
+          "username": "gold_bihu"
+        },
+        {
+          "end": 24,
+          "id": "1964331185590718464",
+          "start": 11,
+          "username": "breakcoreWTF"
+        },
+        {
+          "end": 37,
+          "id": "1820207828931424256",
+          "start": 25,
+          "username": "neko0202002"
+        },
+        {
+          "end": 46,
+          "id": "1546104577161760768",
+          "start": 38,
+          "username": "R0y0o0u"
+        },
+        {
+          "end": 63,
+          "id": "1751672682733875200",
+          "start": 47,
+          "username": "MichaeI32935889"
+        },
+        {
+          "end": 74,
+          "id": "1707712590472957952",
+          "start": 64,
+          "username": "samuel6po"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098217775705772424",
+    "in_reply_to_user_id": "1778696847563104256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098213536040435842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gold_bihu @breakcoreWTF @neko0202002 @R0y0o0u @MichaeI32935889 @samuel6po 我的呢我的呢我的呢？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098213525672148992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5aFbSbwAA5TJW.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098213525714051072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5aFbcbIAAGEX9.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098213526125047808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5aFc-acAAOhAC.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098213525667864576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5aFbRaYAA9df0.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2098213536040435842",
+        "created_at": "2026-09-11T01:11:15.000Z",
+        "display_text_range": [
+          75,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T02:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098217775705772424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778696847563104256",
+              "start": 0,
+              "username": "gold_bihu"
+            },
+            {
+              "end": 24,
+              "id": "1964331185590718464",
+              "start": 11,
+              "username": "breakcoreWTF"
+            },
+            {
+              "end": 37,
+              "id": "1820207828931424256",
+              "start": 25,
+              "username": "neko0202002"
+            },
+            {
+              "end": 46,
+              "id": "1546104577161760768",
+              "start": 38,
+              "username": "R0y0o0u"
+            },
+            {
+              "end": 63,
+              "id": "1751672682733875200",
+              "start": 47,
+              "username": "MichaeI32935889"
+            },
+            {
+              "end": 74,
+              "id": "1707712590472957952",
+              "start": 64,
+              "username": "samuel6po"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098217775705772424",
+        "in_reply_to_user_id": "1778696847563104256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098213536040435842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gold_bihu @breakcoreWTF @neko0202002 @R0y0o0u @MichaeI32935889 @samuel6po 我的呢我的呢我的呢？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098213525672148992",
+            "3_2098213525714051072",
+            "3_2098213526125047808",
+            "3_2098213525667864576"
+          ]
+        },
+        "author_id": "1778696847563104256",
+        "conversation_id": "2098213536040435842",
+        "created_at": "2026-09-11T00:54:24.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T01:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098213536040435842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1964331185590718464",
+              "start": 12,
+              "username": "breakcoreWTF"
+            },
+            {
+              "end": 41,
+              "id": "1820207828931424256",
+              "start": 29,
+              "username": "neko0202002"
+            },
+            {
+              "end": 62,
+              "id": "1546104577161760768",
+              "start": 54,
+              "username": "R0y0o0u"
+            },
+            {
+              "end": 80,
+              "id": "1751672682733875200",
+              "start": 64,
+              "username": "MichaeI32935889"
+            },
+            {
+              "end": 92,
+              "id": "1707712590472957952",
+              "start": 82,
+              "username": "samuel6po"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4E1hswbz9w",
+              "end": 116,
+              "expanded_url": "https://x.com/gold_bihu/status/2098213536040435842/photo/1",
+              "media_key": "3_2098213525672148992",
+              "start": 93,
+              "url": "https://t.co/4E1hswbz9w"
+            },
+            {
+              "display_url": "pic.x.com/4E1hswbz9w",
+              "end": 116,
+              "expanded_url": "https://x.com/gold_bihu/status/2098213536040435842/photo/1",
+              "media_key": "3_2098213525714051072",
+              "start": 93,
+              "url": "https://t.co/4E1hswbz9w"
+            },
+            {
+              "display_url": "pic.x.com/4E1hswbz9w",
+              "end": 116,
+              "expanded_url": "https://x.com/gold_bihu/status/2098213536040435842/photo/1",
+              "media_key": "3_2098213526125047808",
+              "start": 93,
+              "url": "https://t.co/4E1hswbz9w"
+            },
+            {
+              "display_url": "pic.x.com/4E1hswbz9w",
+              "end": 116,
+              "expanded_url": "https://x.com/gold_bihu/status/2098213536040435842/photo/1",
+              "media_key": "3_2098213525667864576",
+              "start": 93,
+              "url": "https://t.co/4E1hswbz9w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098213536040435842",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098213525672148992"
+          },
+          {
+            "media_key": "3_2098213525714051072"
+          },
+          {
+            "media_key": "3_2098213526125047808"
+          },
+          {
+            "media_key": "3_2098213525667864576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开奖，尽快私信我领取😋\n@breakcoreWTF pr\n@neko0202002 玉米\n以下三位6.66\n@R0y0o0u \n@MichaeI32935889 \n@samuel6po https://t.co/4E1hswbz9w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ \n情绪阴晴不定\n看情况回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gYZzt0V9qtA5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gYZzt0V9qtA5NzBh",
+                "start": 0,
+                "url": "https://t.co/AGjSXP1Xx7"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "硫磺岛",
+        "most_recent_tweet_id": "2098217775705772424",
+        "name": "Exp cat",
+        "pinned_tweet_id": "2086846471576642007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 362,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1228
+        },
+        "url": "https://t.co/AGjSXP1Xx7",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "od🐛｜同类互fo｜喜欢一切有意思的东西｜💊od:https://t.co/S8S0zEJtwX｜万幸在今天已经鱼龙混杂的互联网里，总有一个角落容许我们遇见:@dlgsq0701",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "dlgsq0701"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 48,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 25,
+                "url": "https://t.co/S8S0zEJtwX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl30",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl30",
+                "start": 0,
+                "url": "https://t.co/KYuxfpJiVZ"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098213606630592772",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2024004502555074878",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778696847563104256/1761665630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009205027009859584/M8J2SLDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 596,
+          "like_count": 11498,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 2701
+        },
+        "url": "https://t.co/KYuxfpJiVZ",
+        "username": "gold_bihu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\n雜多丨OD丨自傷丨Vocaloid丨maimai丨🏳️‍🌈friendly\n不卖药 眼熟回关 取关请双取 不喜欢的直接b\nサブ垢＆避難垢→@Hashi_988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Hashi_988"
+              }
+            ]
+          }
+        },
+        "id": "1964331185590718464",
+        "is_identity_verified": false,
+        "location": "颅内",
+        "most_recent_tweet_id": "2098115463884726564",
+        "name": "箸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964331185590718464/1788644554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093963390620487680/sATuTGb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 806,
+          "like_count": 47505,
+          "listed_count": 0,
+          "media_count": 472,
+          "tweet_count": 8418
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2098147379182797300",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 558,
+          "like_count": 2791,
+          "listed_count": 4,
+          "media_count": 2672,
+          "tweet_count": 7626
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-10T12:11:13.000Z",
+        "description": "🇨🇳16↑｜❤️→@Monika13145201 @qcqcqccq｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "Monika13145201"
+              },
+              {
+                "end": 34,
+                "start": 25,
+                "username": "qcqcqccq"
+              }
+            ]
+          }
+        },
+        "id": "1546104577161760768",
+        "is_identity_verified": false,
+        "location": "Suisei",
+        "most_recent_tweet_id": "2098017916503593389",
+        "name": "Ryou",
+        "pinned_tweet_id": "2003518084133585011",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097194692912021504/u6M9pZ0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 364,
+          "like_count": 6906,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 9126
+        },
+        "url": "",
+        "username": "R0y0o0u",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-28T18:24:56.000Z",
+        "description": "",
+        "id": "1751672682733875200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098132829704262005",
+        "name": "Michael",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097813580293066752/xzjK52Cz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 78,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 298
+        },
+        "url": "",
+        "username": "MichaeI32935889",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T11:03:22.000Z",
+        "description": "等我跳进那条河",
+        "id": "1707712590472957952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097183881506193504",
+        "name": "萨麦尔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707712590472957952/1708262961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951323612222464001/VGOtCKsd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 126,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "samuel6po",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

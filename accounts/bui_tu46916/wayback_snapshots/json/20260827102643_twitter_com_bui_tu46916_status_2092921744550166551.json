@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2092921744550166551",
+    "created_at": "2026-08-27T10:26:43.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T11:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092921744550166551"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yelai431420/st…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/yelai431420/status/2092788308996948055",
+          "start": 38,
+          "url": "https://t.co/S6aaoMQmiN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092921744550166551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092788308996948055",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天我找到一家普瑞巴林厅坐了一会儿，要了一杯普瑞巴林，喝了之后感觉非常开心 https://t.co/S6aaoMQmiN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2092921744550166551",
+        "created_at": "2026-08-27T10:26:43.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092921744550166551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yelai431420/st…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/yelai431420/status/2092788308996948055",
+              "start": 38,
+              "url": "https://t.co/S6aaoMQmiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092921744550166551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092788308996948055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天我找到一家普瑞巴林厅坐了一会儿，要了一杯普瑞巴林，喝了之后感觉非常开心 https://t.co/S6aaoMQmiN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775846129243942912",
+        "conversation_id": "2092788308996948055",
+        "created_at": "2026-08-27T01:36:29.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T02:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092788308996948055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2092675817105179035",
+              "start": 35,
+              "url": "https://t.co/ddsQbsbkT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092788308996948055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092675817105179035",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天我找到一家美沙酮厅坐了一会，要了一杯美沙酮，喝了之后感觉非常开心 https://t.co/ddsQbsbkT3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ \n情绪阴晴不定\n看情况回fo \n渴望成为健全人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gYZzt0V9qtA5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gYZzt0V9qtA5NzBh",
+                "start": 0,
+                "url": "https://t.co/AGjSXP1Xx7"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "硫磺岛",
+        "most_recent_tweet_id": "2092921744550166551",
+        "name": "Exp cat",
+        "pinned_tweet_id": "2086846471576642007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 342,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1180
+        },
+        "url": "https://t.co/AGjSXP1Xx7",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "/💊/爱人TV幸存者/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgeP3T"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "is_identity_verified": false,
+        "location": "Please just have laugh withme",
+        "most_recent_tweet_id": "2092850689030631688",
+        "name": "yellahana～🍡",
+        "pinned_tweet_id": "2080162737750188215",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775846129243942912/1784987105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 343,
+          "like_count": 3723,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 758
+        },
+        "url": "https://t.co/yiPFTgeP3T",
+        "username": "yelai431420",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

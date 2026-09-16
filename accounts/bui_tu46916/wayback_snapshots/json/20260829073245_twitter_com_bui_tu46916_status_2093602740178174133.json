@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093602725426860032"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2092980370220130370",
+    "created_at": "2026-08-29T07:32:45.000Z",
+    "display_text_range": [
+      15,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T08:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093602740178174133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1508408540360507393",
+          "start": 0,
+          "username": "YuRain_Is_Doll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cIB6V4IY2L",
+          "end": 39,
+          "expanded_url": "https://x.com/bui_tu46916/status/2093602740178174133/photo/1",
+          "media_key": "3_2093602725426860032",
+          "start": 16,
+          "url": "https://t.co/cIB6V4IY2L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093602740178174133",
+    "in_reply_to_user_id": "1508408540360507393",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2093602725426860032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092980370220130370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuRain_Is_Doll https://t.co/cIB6V4IY2L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_2093602725426860032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ34lh3bkAAA3iv.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093602725426860032"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2092980370220130370",
+        "created_at": "2026-08-29T07:32:45.000Z",
+        "display_text_range": [
+          15,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T08:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093602740178174133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1508408540360507393",
+              "start": 0,
+              "username": "YuRain_Is_Doll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cIB6V4IY2L",
+              "end": 39,
+              "expanded_url": "https://x.com/bui_tu46916/status/2093602740178174133/photo/1",
+              "media_key": "3_2093602725426860032",
+              "start": 16,
+              "url": "https://t.co/cIB6V4IY2L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093602740178174133",
+        "in_reply_to_user_id": "1508408540360507393",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2093602725426860032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092980370220130370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuRain_Is_Doll https://t.co/cIB6V4IY2L"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508408540360507393",
+        "conversation_id": "2092980370220130370",
+        "created_at": "2026-08-27T14:19:40.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092980370220130370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092980370220130370",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8428,
+          "like_count": 232,
+          "quote_count": 5,
+          "reply_count": 27,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "右派才嗑右美沙芬\n我們左批都嗑佐匹克隆的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ \n情绪阴晴不定\n看情况回fo \n渴望成为健全人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gYZzt0V9qtA5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gYZzt0V9qtA5NzBh",
+                "start": 0,
+                "url": "https://t.co/AGjSXP1Xx7"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "硫磺岛",
+        "most_recent_tweet_id": "2093602740178174133",
+        "name": "Exp cat",
+        "pinned_tweet_id": "2086846471576642007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 343,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1182
+        },
+        "url": "https://t.co/AGjSXP1Xx7",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-28T11:40:34.000Z",
+        "description": "一個幽幽子，共產主義的幽幽子，在幻想鄉遊蕩。名字的鯨魚是台灣獨立的意思。一隻摺耳貓，MtX，雙相/焦慮/P-DID/亞斯/CPTSD。小說作者、會點歌詞創作，需要的可以合作",
+        "id": "1508408540360507393",
+        "is_identity_verified": false,
+        "location": "臺灣、高砂及金馬群島蘇維埃公社聯邦",
+        "most_recent_tweet_id": "2093587405433614490",
+        "name": "🏳️‍⚧️ꨄ︎共產主義的幽々子☭🌏🐋🇵🇸🇪🇭🇺🇦🇨🇺",
+        "pinned_tweet_id": "1897527739915362642",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1508408540360507393/1708959034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895006997944078336/0Nnvy5Ja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 4730,
+          "like_count": 18414,
+          "listed_count": 8,
+          "media_count": 3592,
+          "tweet_count": 68267
+        },
+        "url": "",
+        "username": "YuRain_Is_Doll",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

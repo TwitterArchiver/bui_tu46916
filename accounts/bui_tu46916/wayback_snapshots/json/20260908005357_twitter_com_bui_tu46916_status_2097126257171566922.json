@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2097072490443108703",
+    "created_at": "2026-09-08T00:53:57.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T01:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097126257171566922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1833795907470704640",
+          "start": 0,
+          "username": "lynn_m57596"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097126257171566922",
+    "in_reply_to_user_id": "1833795907470704640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097072490443108703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lynn_m57596 🐀王你怎么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2097072490443108703",
+        "created_at": "2026-09-08T00:53:57.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T01:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097126257171566922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1833795907470704640",
+              "start": 0,
+              "username": "lynn_m57596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097126257171566922",
+        "in_reply_to_user_id": "1833795907470704640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097072490443108703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lynn_m57596 🐀王你怎么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833795907470704640",
+        "conversation_id": "2097072490443108703",
+        "created_at": "2026-09-07T21:20:18.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T22:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097072490443108703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097072490443108703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位再见"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ \n情绪阴晴不定\n看情况回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gYZzt0V9qtA5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gYZzt0V9qtA5NzBh",
+                "start": 0,
+                "url": "https://t.co/AGjSXP1Xx7"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "硫磺岛",
+        "most_recent_tweet_id": "2097126257171566922",
+        "name": "Exp cat",
+        "pinned_tweet_id": "2086846471576642007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 354,
+          "like_count": 436,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1215
+        },
+        "url": "https://t.co/AGjSXP1Xx7",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-11T09:13:22.000Z",
+        "description": "😖纯社恐大鼠欢迎各位找我聊天，双相偶尔发癫🖐️😭🖐️\n💊+互fo欢迎\n本账号含有：💊｜负能量碎碎念｜丑画｜偶尔色色；不接受请左转\n全世界最好的宝宝 @QAQhuaq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 74,
+                "username": "QAQhuaq"
+              }
+            ]
+          }
+        },
+        "id": "1833795907470704640",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097072490443108703",
+        "name": "软鼠",
+        "pinned_tweet_id": "2012454215260733710",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1833795907470704640/1780247581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021277904718659584/8sN9IxiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 124,
+          "like_count": 1534,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 305
+        },
+        "url": "",
+        "username": "lynn_m57596",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
