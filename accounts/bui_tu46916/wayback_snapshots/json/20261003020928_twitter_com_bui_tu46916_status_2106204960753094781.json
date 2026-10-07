@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2105934674879275507",
+    "created_at": "2026-10-03T02:09:28.000Z",
+    "display_text_range": [
+      11,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T03:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106204960753094781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022153081031733252",
+          "start": 0,
+          "username": "KHika2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106204960753094781",
+    "in_reply_to_user_id": "2022153081031733252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106192981401481522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KHika2024 假死4个月重生，剧情反转让人瞠目结舌，然后我联想到了某个fps游戏当中剧情假死的故事某个难崩台词金杰活了s"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2105934674879275507",
+        "created_at": "2026-10-03T02:09:28.000Z",
+        "display_text_range": [
+          11,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T03:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106204960753094781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "KHika2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106204960753094781",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106192981401481522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KHika2024 假死4个月重生，剧情反转让人瞠目结舌，然后我联想到了某个fps游戏当中剧情假死的故事某个难崩台词金杰活了s"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2105934674879275507",
+        "created_at": "2026-10-03T01:21:52.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T02:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106192981401481522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106192981401481522",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106054500259901678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 什么意思喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠|情绪阴晴不定|看情况回fo\n有时产出视频",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gYZzt0V9qtA5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gYZzt0V9qtA5NzBh",
+                "start": 0,
+                "url": "https://t.co/AGjSXP1Xx7"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "硫磺岛",
+        "most_recent_tweet_id": "2106204960753094781",
+        "name": "Exp cat",
+        "pinned_tweet_id": "2100942513586794811",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1789611876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 382,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1364
+        },
+        "url": "https://t.co/AGjSXP1Xx7",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "BD-II (Dep/Mixed/RC/Mel) + AnxD + OCD\n苏州/09/MTF🏳️‍⚧️\nbirth.2009.10.05\nGAHT.2026.5.11\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为热爱而行，以初心长守",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 89,
+                "username": "Echo42es"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "is_identity_verified": false,
+        "location": "The People's Republic of China",
+        "most_recent_tweet_id": "2106193058408927487",
+        "name": "KuroHikari.",
+        "pinned_tweet_id": "2102331456915922974",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022153081031733252/1785028949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 1748,
+          "like_count": 4691,
+          "listed_count": 0,
+          "media_count": 616,
+          "tweet_count": 4260
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "KHika2024",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

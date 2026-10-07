@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100493532847091712"
+      ]
+    },
+    "author_id": "2029908828125548546",
+    "conversation_id": "2100493544649859376",
+    "created_at": "2026-09-17T07:54:20.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T08:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100493544649859376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mC64cdR1tz",
+          "end": 44,
+          "expanded_url": "https://x.com/bui_tu46916/status/2100493544649859376/photo/1",
+          "media_key": "3_2100493532847091712",
+          "start": 21,
+          "url": "https://t.co/mC64cdR1tz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100493544649859376",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100493532847091712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "xx尘的时代结束了\n鸡尘应该改名叫唤鸡糖 https://t.co/mC64cdR1tz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2100493532847091712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZzvT5bMAAaT7F.jpg",
+        "width": 3572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100493532847091712"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2100493544649859376",
+        "created_at": "2026-09-17T07:54:20.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T08:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100493544649859376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mC64cdR1tz",
+              "end": 44,
+              "expanded_url": "https://x.com/bui_tu46916/status/2100493544649859376/photo/1",
+              "media_key": "3_2100493532847091712",
+              "start": 21,
+              "url": "https://t.co/mC64cdR1tz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100493544649859376",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100493532847091712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "xx尘的时代结束了\n鸡尘应该改名叫唤鸡糖 https://t.co/mC64cdR1tz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠|情绪阴晴不定|看情况回fo\n有时产出视频",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gYZzt0V9qtA5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gYZzt0V9qtA5NzBh",
+                "start": 0,
+                "url": "https://t.co/AGjSXP1Xx7"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "硫磺岛",
+        "most_recent_tweet_id": "2100493544649859376",
+        "name": "Exp cat",
+        "pinned_tweet_id": "2086846471576642007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1789611876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 382,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1267
+        },
+        "url": "https://t.co/AGjSXP1Xx7",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

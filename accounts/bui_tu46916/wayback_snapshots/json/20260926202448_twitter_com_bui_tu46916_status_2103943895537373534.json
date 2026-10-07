@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2103893380908671396",
+    "created_at": "2026-09-26T20:24:48.000Z",
+    "display_text_range": [
+      19,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T21:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103943895537373534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778696847563104256",
+          "start": 0,
+          "username": "gold_bihu"
+        },
+        {
+          "end": 18,
+          "id": "1423220645383475200",
+          "start": 11,
+          "username": "sysjf0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103943895537373534",
+    "in_reply_to_user_id": "1778696847563104256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103897136043880589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gold_bihu @sysjf0 dlg滚出来我大四你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2103893380908671396",
+        "created_at": "2026-09-26T20:24:48.000Z",
+        "display_text_range": [
+          19,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T21:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103943895537373534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778696847563104256",
+              "start": 0,
+              "username": "gold_bihu"
+            },
+            {
+              "end": 18,
+              "id": "1423220645383475200",
+              "start": 11,
+              "username": "sysjf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103943895537373534",
+        "in_reply_to_user_id": "1778696847563104256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103897136043880589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gold_bihu @sysjf0 dlg滚出来我大四你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778696847563104256",
+        "conversation_id": "2103893380908671396",
+        "created_at": "2026-09-26T17:19:00.000Z",
+        "display_text_range": [
+          8,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T18:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103897136043880589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1423220645383475200",
+              "start": 0,
+              "username": "sysjf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103897136043880589",
+        "in_reply_to_user_id": "1423220645383475200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103894166585663944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sysjf0 镇静和兴奋并存，和pr一样，药效比pr强一些"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠|情绪阴晴不定|看情况回fo\n有时产出视频",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gYZzt0V9qtA5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gYZzt0V9qtA5NzBh",
+                "start": 0,
+                "url": "https://t.co/AGjSXP1Xx7"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "硫磺岛",
+        "most_recent_tweet_id": "2103943895537373534",
+        "name": "Exp cat",
+        "pinned_tweet_id": "2100942513586794811",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1789611876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 383,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1327
+        },
+        "url": "https://t.co/AGjSXP1Xx7",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "电子烟🈶｜od🐛｜同类互fo｜喜欢一切有意思的东西｜💊od:https://t.co/S8S0zEK1mv｜万幸在今天已经鱼龙混杂的互联网里，总有一个角落容许我们遇见:@dlgsq0701",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "dlgsq0701"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 53,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 30,
+                "url": "https://t.co/S8S0zEK1mv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl30",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl30",
+                "start": 0,
+                "url": "https://t.co/KYuxfpJQLx"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103897136043880589",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2024004502555074878",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778696847563104256/1761665630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009205027009859584/M8J2SLDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 598,
+          "like_count": 11382,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 2708
+        },
+        "url": "https://t.co/KYuxfpJQLx",
+        "username": "gold_bihu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-05T09:53:54.000Z",
+        "description": "@BeetiIsDog @umichen0502324 @citrus_404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "BeetiIsDog"
+              },
+              {
+                "end": 27,
+                "start": 12,
+                "username": "umichen0502324"
+              },
+              {
+                "end": 39,
+                "start": 28,
+                "username": "citrus_404"
+              }
+            ]
+          }
+        },
+        "id": "1423220645383475200",
+        "is_identity_verified": false,
+        "location": "天空",
+        "most_recent_tweet_id": "2103894166585663944",
+        "name": "十九方",
+        "pinned_tweet_id": "1862539669592031578",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1423220645383475200/1789954861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102253056410972160/_JczT40Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 956,
+          "like_count": 32165,
+          "listed_count": 2,
+          "media_count": 1978,
+          "tweet_count": 24698
+        },
+        "url": "",
+        "username": "sysjf0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2029908828125548546",
+    "conversation_id": "2105954858839028181",
+    "created_at": "2026-10-02T16:12:28.000Z",
+    "display_text_range": [
+      39,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T17:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106054721492656440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1580563673763827718",
+          "start": 0,
+          "username": "jingsheng413032"
+        },
+        {
+          "end": 26,
+          "id": "2097727435957829635",
+          "start": 17,
+          "username": "namman0n"
+        },
+        {
+          "end": 38,
+          "id": "1754774517594181632",
+          "start": 27,
+          "username": "ValenceLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106054721492656440",
+    "in_reply_to_user_id": "1580563673763827718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106046581258789268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingsheng413032 @namman0n @ValenceLab 什么吃国家饭的度重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2105954858839028181",
+        "created_at": "2026-10-02T16:12:28.000Z",
+        "display_text_range": [
+          39,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T17:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106054721492656440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1580563673763827718",
+              "start": 0,
+              "username": "jingsheng413032"
+            },
+            {
+              "end": 26,
+              "id": "2097727435957829635",
+              "start": 17,
+              "username": "namman0n"
+            },
+            {
+              "end": 38,
+              "id": "1754774517594181632",
+              "start": 27,
+              "username": "ValenceLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106054721492656440",
+        "in_reply_to_user_id": "1580563673763827718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106046581258789268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingsheng413032 @namman0n @ValenceLab 什么吃国家饭的度重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580563673763827718",
+        "conversation_id": "2105954858839028181",
+        "created_at": "2026-10-02T15:40:08.000Z",
+        "display_text_range": [
+          22,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106046581258789268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2097727435957829635",
+              "start": 0,
+              "username": "namman0n"
+            },
+            {
+              "end": 21,
+              "id": "1754774517594181632",
+              "start": 10,
+              "username": "ValenceLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106046581258789268",
+        "in_reply_to_user_id": "2097727435957829635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106043811868852396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@namman0n @ValenceLab 抓到按比例奖励毒品，两难自解（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠|情绪阴晴不定|看情况回fo\n有时产出视频",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gYZzt0V9qtA5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gYZzt0V9qtA5NzBh",
+                "start": 0,
+                "url": "https://t.co/AGjSXP1Xx7"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "硫磺岛",
+        "most_recent_tweet_id": "2106054721492656440",
+        "name": "Exp cat",
+        "pinned_tweet_id": "2100942513586794811",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1789611876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 382,
+          "like_count": 507,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1361
+        },
+        "url": "https://t.co/AGjSXP1Xx7",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-13T14:18:50.000Z",
+        "description": "何不学仙冢累累",
+        "id": "1580563673763827718",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106051977109270715",
+        "name": "景升",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1580563673763827718/1786797623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080795747671572480/5N6vn2OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 740,
+          "like_count": 11889,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 2133
+        },
+        "url": "",
+        "username": "jingsheng413032",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-09T16:43:42.000Z",
+        "description": "齐国人 / 马克沁主义者 / 笔电男大 / 后现代语料 / 墙内墙外大鸣大放 / 学医救不了中国人\n既然我可以解构一切 那么为什么不能解构自己呢？\nhttps://t.co/6DCNorVHTk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/changeourlife6…",
+                "end": 97,
+                "expanded_url": "https://t.me/changeourlife65472",
+                "start": 74,
+                "url": "https://t.co/6DCNorVHTk"
+              }
+            ]
+          }
+        },
+        "id": "2097727435957829635",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106054467124916427",
+        "name": "nam",
+        "pinned_tweet_id": "2104770035583680584",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097727929228951554/HB09P-ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 18,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "namman0n",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥官方论坛 https://t.co/I7gx0T63Cd∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥新群组链接↓",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "valence.top",
+                "end": 39,
+                "expanded_url": "http://valence.top",
+                "start": 16,
+                "url": "https://t.co/I7gx0T63Cd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceLab_Sph…",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceLab_Sphere",
+                "start": 0,
+                "url": "https://t.co/e7TrTwWJEE"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "is_identity_verified": false,
+        "location": "本栖湖",
+        "most_recent_tweet_id": "2105965826046370020",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "pinned_tweet_id": "2104243877247078561",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754774517594181632/1773760887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 256,
+          "like_count": 557,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 607
+        },
+        "url": "https://t.co/e7TrTwWJEE",
+        "username": "ValenceLab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
